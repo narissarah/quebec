@@ -1,0 +1,4 @@
+---
+title: "Luc Fontaine"
+url: /montreal/luc-fontaine/
+---

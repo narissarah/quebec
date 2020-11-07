@@ -1,0 +1,15 @@
+baseURL = "https://ca.shoogle.net/quebec"
+languageCode = "en-US"
+title = "Quebec"
+theme = "ln-base"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "quebec"
