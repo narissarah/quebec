@@ -1,12 +1,12 @@
-id: 5033424206
-type: node
-shop: shop
-latitude: 46.7897429
-longitude: -71.17094850000001
-postcode: "G6V 6C9"
+id: 189982775
+type: way
+shop: department store
+latitude: 46.72952
+longitude: -71.27653190000001
+postcode: "G6W 8A8"
 city: Lévis
-street: "Route du Président-Kennedy"
-housenumber: 100
+street: "Rue de la Concorde"
+housenumber: 700
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 08:00-17:00"
-website: ""
+opening_hours: ""
+website: "https://www.canadiantire.ca/"

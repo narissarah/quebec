@@ -1,6 +1,6 @@
 ---
 title: Notre-Dame-du-Rosaire
 url: /notre-dame-du-rosaire/
-latitude: 48.790628500000004
-longitude: -71.4266317
+latitude: 46.825905000000006
+longitude: -70.392151
 ---
