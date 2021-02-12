@@ -1,6 +1,5 @@
 id: 7999580202
 type: node
-shop: tattoo
 latitude: 45.5503866
 longitude: -73.54239510000001
 postcode: ""
@@ -8,5 +7,5 @@ city: Montréal
 street: "Boulevard Pie-IX"
 housenumber: 2030
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00 Sa-Su 08:00-17:00"
+opening_hours: "Mo-Fr 08:00-21:00; Sa-Su 08:00-17:00"
 website: ""

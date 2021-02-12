@@ -1,6 +1,5 @@
 id: 7379832298
 type: node
-shop: bicycle
 latitude: 45.539427800000006
 longitude: -73.61754880000001
 postcode: "H2R 2E5"
@@ -8,5 +7,5 @@ city: Montréal
 street: "Rue Saint-Denis"
 housenumber: 7341
 phone: ""
-opening_hours: "10:00AM to 5:00PM"
+opening_hours: "10:00-17:00"
 website: ""
