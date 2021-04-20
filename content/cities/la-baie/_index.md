@@ -1,6 +1,6 @@
 ---
 title: La Baie
 url: /la-baie/
-latitude: 46.1391736
-longitude: -72.71721480000001
+latitude: 48.332019300000006
+longitude: -70.88128660000001
 ---
