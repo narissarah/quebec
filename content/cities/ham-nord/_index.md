@@ -1,6 +1,6 @@
 ---
 title: Ham-Nord
 url: /ham-nord/
-latitude: 45.903150000000004
-longitude: -71.645966
+latitude: 45.903208
+longitude: -71.6459751
 ---

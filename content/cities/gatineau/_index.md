@@ -1,6 +1,6 @@
 ---
 title: Gatineau
 url: /gatineau/
-latitude: 45.4283596
-longitude: -75.71062040000001
+latitude: 45.427901600000006
+longitude: -75.7110569
 ---
