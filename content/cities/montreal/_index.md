@@ -1,6 +1,6 @@
 ---
 title: Montréal
 url: /montreal/
-latitude: 45.4972159
-longitude: -73.6103642
+latitude: 45.5031824
+longitude: -73.5698065
 ---

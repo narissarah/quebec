@@ -1,5 +1,5 @@
 ---
 title: "La Tienda"
 url: /montreal/la-tienda/
-shop: sports
+shop: outdoor
 ---

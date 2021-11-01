@@ -1,11 +1,11 @@
-id: 1458149751
-type: node
-latitude: 45.495824000000006
-longitude: -73.62161760000001
-postcode: "H3T 1X8"
+id: 264799764
+type: way
+latitude: 45.5660285
+longitude: -73.65471380000001
+postcode: "H2C 1T1"
 city: Montréal
-street: "Chemin de la Côte-Des-Neiges"
-housenumber: 5252
-phone: ""
-opening_hours: ""
-website: ""
+street: "Rue Fleury Est"
+housenumber: 1691
+phone: "+1-514-384-9920"
+opening_hours: "Mo-Su 9:00-21:00"
+website: "http://www.renaud-bray.com/informations_boutiques.aspx"
