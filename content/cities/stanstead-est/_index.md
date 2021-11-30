@@ -1,6 +1,6 @@
 ---
 title: Stanstead-Est
 url: /stanstead-est/
-latitude: 45.108535
-longitude: -72.04886020000001
+latitude: 45.1100622
+longitude: -72.048512
 ---

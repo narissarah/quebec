@@ -1,11 +1,11 @@
-id: 193190473
-type: way
-latitude: 46.903231000000005
-longitude: -71.31504550000001
-postcode: "G2N 1P4"
+id: 5866614595
+type: node
+latitude: 46.8113778
+longitude: -71.2487358
+postcode: "G1N3E5"
 city: Québec
-street: "Rue Bernier Ouest"
-housenumber: 15
-phone: ""
-opening_hours: "08:00-21:00"
-website: "www.canac.ca"
+street: "Rue Marie-de-l'Incarnation"
+housenumber: 49
+phone: "418 681-6221"
+opening_hours: "Mo-Fr 08:00-21:00; Sa,Su 08:00-17:00"
+website: "https://www.canac.ca/"
