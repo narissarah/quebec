@@ -1,5 +1,5 @@
 ---
 title: "HyperForme"
 url: /gatineau/hyperforme/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fleuriste Beau Geste"
 url: /montreal/fleuriste-beau-geste/
-shop: florist
+shop: Blumen
 ---

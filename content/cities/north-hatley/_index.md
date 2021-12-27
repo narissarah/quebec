@@ -1,6 +1,6 @@
 ---
 title: North Hatley
 url: /north-hatley/
-latitude: 45.275611000000005
-longitude: -71.972122
+latitude: 45.276
+longitude: -71.973
 ---

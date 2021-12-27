@@ -1,6 +1,6 @@
 ---
 title: Sainte-Claire
 url: /sainte-claire/
-latitude: 46.600629000000005
-longitude: -70.864906
+latitude: 46.595
+longitude: -70.866
 ---

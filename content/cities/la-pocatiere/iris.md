@@ -1,5 +1,5 @@
 ---
 title: "Iris"
 url: /la-pocatiere/iris/
-shop: optician
+shop: Optiker
 ---

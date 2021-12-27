@@ -1,6 +1,6 @@
 ---
 title: Bromont
 url: /bromont/
-latitude: 45.318116
-longitude: -72.65739400000001
+latitude: 45.326
+longitude: -72.648
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /hawkesbury/staples/
-shop: office supplies
+shop: Schreibwaren
 ---

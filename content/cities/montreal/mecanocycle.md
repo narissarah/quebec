@@ -1,5 +1,5 @@
 ---
 title: "Mécanocycle"
 url: /montreal/mecanocycle/
-shop: bicycle
+shop: Fahrrad
 ---

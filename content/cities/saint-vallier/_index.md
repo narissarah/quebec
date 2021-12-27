@@ -1,6 +1,6 @@
 ---
 title: Saint-Vallier
 url: /saint-vallier/
-latitude: 46.892578
-longitude: -70.823364
+latitude: 46.892
+longitude: -70.824
 ---

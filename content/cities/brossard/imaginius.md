@@ -1,5 +1,5 @@
 ---
 title: "Imaginius"
 url: /brossard/imaginius/
-shop: games
+shop: Spiele
 ---

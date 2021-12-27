@@ -1,6 +1,6 @@
 ---
 title: Murdochville
 url: /murdochville/
-latitude: 48.9602792
-longitude: -65.4958325
+latitude: 48.96
+longitude: -65.494
 ---

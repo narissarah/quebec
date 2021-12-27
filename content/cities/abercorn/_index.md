@@ -1,6 +1,6 @@
 ---
 title: Abercorn
 url: /abercorn/
-latitude: 45.0351185
-longitude: -72.6583062
+latitude: 45.036
+longitude: -72.657
 ---

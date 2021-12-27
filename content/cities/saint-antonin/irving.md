@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /saint-antonin/irving/
-shop: convenience
+shop: Lebensmittel
 ---

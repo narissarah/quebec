@@ -1,5 +1,5 @@
 ---
 title: "Coiffissima"
 url: /montreal/coiffissima/
-shop: hairdresser
+shop: Friseur
 ---

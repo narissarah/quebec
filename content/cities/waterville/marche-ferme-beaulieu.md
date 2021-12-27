@@ -1,5 +1,5 @@
 ---
 title: "Marché Ferme Beaulieu"
 url: /waterville/marche-ferme-beaulieu/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

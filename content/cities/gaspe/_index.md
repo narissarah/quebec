@@ -1,6 +1,6 @@
 ---
 title: Gaspé
 url: /gaspe/
-latitude: 48.831745100000006
-longitude: -64.4837079
+latitude: 48.829
+longitude: -64.485
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cimahost"
 url: /montreal/cimahost/
-shop: computer
+shop: Computer
 ---

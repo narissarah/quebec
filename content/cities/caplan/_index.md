@@ -1,6 +1,6 @@
 ---
 title: Caplan
 url: /caplan/
-latitude: 48.102697500000005
-longitude: -65.6834382
+latitude: 48.087
+longitude: -65.631
 ---

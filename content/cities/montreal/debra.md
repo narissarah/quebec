@@ -1,5 +1,5 @@
 ---
 title: "DEBra"
 url: /montreal/debra/
-shop: clothes
+shop: Kleidung
 ---

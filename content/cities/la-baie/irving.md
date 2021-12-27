@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /la-baie/irving/
-shop: convenience
+shop: Lebensmittel
 ---

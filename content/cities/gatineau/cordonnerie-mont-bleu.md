@@ -1,5 +1,5 @@
 ---
 title: "Cordonnerie Mont-Bleu"
 url: /gatineau/cordonnerie-mont-bleu/
-shop: tailor
+shop: Schneiderei
 ---

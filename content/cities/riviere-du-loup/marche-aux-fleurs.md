@@ -1,5 +1,5 @@
 ---
 title: "Marché aux Fleurs"
 url: /riviere-du-loup/marche-aux-fleurs/
-shop: florist
+shop: Blumen
 ---

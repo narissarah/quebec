@@ -1,5 +1,5 @@
 ---
 title: "Kueen Bijouterie"
 url: /montreal/kueen-bijouterie/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supérette"
 url: /daveluyville/superette/
-shop: convenience
+shop: Lebensmittel
 ---

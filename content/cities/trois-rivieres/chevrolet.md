@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /trois-rivieres/chevrolet/
-shop: car
+shop: Autohaus
 ---

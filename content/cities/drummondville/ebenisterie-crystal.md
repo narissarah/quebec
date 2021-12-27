@@ -1,5 +1,5 @@
 ---
 title: "Ébénisterie Crystal"
 url: /drummondville/ebenisterie-crystal/
-shop: kitchen
+shop: Küchen
 ---

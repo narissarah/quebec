@@ -1,5 +1,5 @@
 ---
 title: "Indigo"
 url: /brossard/indigo/
-shop: books
+shop: Bücher
 ---

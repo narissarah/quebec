@@ -1,6 +1,6 @@
 ---
 title: Sainte-Amable
 url: /sainte-amable/
-latitude: 
-longitude: 
+latitude: 45.632
+longitude: -73.319
 ---

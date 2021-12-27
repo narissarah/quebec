@@ -1,5 +1,5 @@
 ---
 title: "Bongia"
 url: /chambly/bongia/
-shop: tobacco
+shop: Tabak
 ---

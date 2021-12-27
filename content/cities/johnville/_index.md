@@ -1,6 +1,6 @@
 ---
 title: Johnville
 url: /johnville/
-latitude: 45.331807700000006
-longitude: -71.7510953
+latitude: 45.332
+longitude: -71.75
 ---

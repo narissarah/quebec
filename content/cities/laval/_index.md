@@ -1,6 +1,6 @@
 ---
 title: Laval
 url: /laval/
-latitude: 46.335360900000005
-longitude: -72.50782860000001
+latitude: 45.557
+longitude: -73.765
 ---

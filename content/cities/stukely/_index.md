@@ -1,6 +1,6 @@
 ---
 title: Stukely
 url: /stukely/
-latitude: 
-longitude: 
+latitude: 45.322
+longitude: -72.42
 ---

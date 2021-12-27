@@ -1,5 +1,5 @@
 ---
 title: "Hawkesbury Honda"
 url: /hawkesbury/hawkesbury-honda/
-shop: car
+shop: Autohaus
 ---

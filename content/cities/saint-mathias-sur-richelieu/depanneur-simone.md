@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Simone"
 url: /saint-mathias-sur-richelieu/depanneur-simone/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sports Experts"
 url: /laval/sports-experts/
-shop: sports
+shop: Sport
 ---

@@ -1,6 +1,6 @@
 ---
 title: Vaudreuil-Dorion
 url: /vaudreuil-dorion/
-latitude: 
-longitude: 
+latitude: 45.377
+longitude: -74.011
 ---

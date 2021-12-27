@@ -1,6 +1,6 @@
 ---
 title: Saint-Donat-de-Montcalm
 url: /saint-donat-de-montcalm/
-latitude: 
-longitude: 
+latitude: 46.318
+longitude: -74.221
 ---

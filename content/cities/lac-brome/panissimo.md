@@ -1,5 +1,5 @@
 ---
 title: "Panissimo"
 url: /lac-brome/panissimo/
-shop: bakery
+shop: Bäckerei
 ---

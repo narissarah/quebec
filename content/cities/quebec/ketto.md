@@ -1,5 +1,5 @@
 ---
 title: "Ketto"
 url: /quebec/ketto/
-shop: shop
+shop: Allgemein
 ---

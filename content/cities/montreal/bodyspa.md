@@ -1,5 +1,5 @@
 ---
 title: "bODYsPA"
 url: /montreal/bodyspa/
-shop: hairdresser
+shop: Friseur
 ---

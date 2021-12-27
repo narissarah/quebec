@@ -1,6 +1,6 @@
 ---
 title: Drummondville
 url: /drummondville/
-latitude: 
-longitude: 
+latitude: 45.903
+longitude: -72.474
 ---

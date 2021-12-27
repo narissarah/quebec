@@ -1,5 +1,5 @@
 ---
 title: "Vape Depot"
 url: /gatineau/vape-depot/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

@@ -1,6 +1,6 @@
 ---
 title: Matagami
 url: /matagami/
-latitude: 49.7575884
-longitude: -77.63002510000001
+latitude: 49.758
+longitude: -77.622
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Couche-Tard"
 url: /mont-laurier/depanneur-couche-tard/
-shop: convenience
+shop: Lebensmittel
 ---

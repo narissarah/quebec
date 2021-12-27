@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /brossard/carters/
-shop: clothes
+shop: Kleidung
 ---

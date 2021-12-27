@@ -1,5 +1,5 @@
 ---
 title: "LeeLove"
 url: /quebec/leelove/
-shop: clothes
+shop: Kleidung
 ---

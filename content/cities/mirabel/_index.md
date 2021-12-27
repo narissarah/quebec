@@ -1,6 +1,6 @@
 ---
 title: Mirabel
 url: /mirabel/
-latitude: 
-longitude: 
+latitude: 45.705
+longitude: -74.094
 ---

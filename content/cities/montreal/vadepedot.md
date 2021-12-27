@@ -1,5 +1,5 @@
 ---
 title: "Vadepedot"
 url: /montreal/vadepedot/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

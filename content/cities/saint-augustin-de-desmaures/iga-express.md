@@ -1,5 +1,5 @@
 ---
 title: "IGA Express"
 url: /saint-augustin-de-desmaures/iga-express/
-shop: convenience
+shop: Lebensmittel
 ---

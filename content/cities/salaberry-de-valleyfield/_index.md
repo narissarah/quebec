@@ -1,6 +1,6 @@
 ---
 title: Salaberry-de-Valleyfield
 url: /salaberry-de-valleyfield/
-latitude: 
-longitude: 
+latitude: 45.264
+longitude: -74.135
 ---

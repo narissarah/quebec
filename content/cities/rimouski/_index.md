@@ -1,6 +1,6 @@
 ---
 title: Rimouski
 url: /rimouski/
-latitude: 48.450155
-longitude: -68.52996800000001
+latitude: 48.373
+longitude: -68.708
 ---

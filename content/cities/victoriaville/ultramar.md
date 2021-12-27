@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /victoriaville/ultramar/
-shop: convenience
+shop: Lebensmittel
 ---

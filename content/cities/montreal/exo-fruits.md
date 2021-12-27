@@ -1,5 +1,5 @@
 ---
 title: "Exo-Fruits"
 url: /montreal/exo-fruits/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

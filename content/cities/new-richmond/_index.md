@@ -1,6 +1,6 @@
 ---
 title: New Richmond
 url: /new-richmond/
-latitude: 48.1651194
-longitude: -65.8655584
+latitude: 48.188
+longitude: -65.863
 ---

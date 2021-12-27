@@ -1,5 +1,5 @@
 ---
 title: "Evelyka"
 url: /sherbrooke/evelyka/
-shop: beauty
+shop: Kosmetik
 ---

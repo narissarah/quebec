@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur"
 url: /gatineau/depanneur/
-shop: convenience
+shop: Lebensmittel
 ---

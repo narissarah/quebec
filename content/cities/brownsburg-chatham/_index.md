@@ -1,6 +1,6 @@
 ---
 title: Brownsburg-Chatham
 url: /brownsburg-chatham/
-latitude: 45.676516
-longitude: -74.40460610000001
+latitude: 45.677
+longitude: -74.404
 ---

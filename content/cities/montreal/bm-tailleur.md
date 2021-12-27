@@ -1,5 +1,5 @@
 ---
 title: "BM Tailleur"
 url: /montreal/bm-tailleur/
-shop: tailor
+shop: Schneiderei
 ---

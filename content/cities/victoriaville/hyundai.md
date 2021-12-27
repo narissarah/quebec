@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /victoriaville/hyundai/
-shop: car
+shop: Autohaus
 ---

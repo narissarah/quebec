@@ -1,5 +1,5 @@
 ---
 title: "Paquet"
 url: /notre-dame-du-rosaire/paquet/
-shop: convenience
+shop: Lebensmittel
 ---

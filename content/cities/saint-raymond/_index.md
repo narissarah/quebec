@@ -1,6 +1,6 @@
 ---
 title: Saint-Raymond
 url: /saint-raymond/
-latitude: 46.889058000000006
-longitude: -71.835136
+latitude: 46.889
+longitude: -71.836
 ---

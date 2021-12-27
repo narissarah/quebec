@@ -1,5 +1,5 @@
 ---
 title: "Mayfair"
 url: /montreal/mayfair/
-shop: florist
+shop: Blumen
 ---

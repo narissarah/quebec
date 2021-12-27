@@ -1,5 +1,5 @@
 ---
 title: "Voskins"
 url: /montreal/voskins/
-shop: optician
+shop: Optiker
 ---

@@ -1,6 +1,6 @@
 ---
 title: Batiscan
 url: /batiscan/
-latitude: 46.496029
-longitude: -72.250557
+latitude: 46.507
+longitude: -72.246
 ---

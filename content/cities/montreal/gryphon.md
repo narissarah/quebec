@@ -1,5 +1,5 @@
 ---
 title: "Gryphon"
 url: /montreal/gryphon/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super C"
 url: /rouyn-noranda/super-c/
-shop: supermarket
+shop: Supermarkt
 ---

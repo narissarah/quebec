@@ -1,5 +1,5 @@
 ---
 title: "Stokes"
 url: /brossard/stokes/
-shop: houseware
+shop: Haushaltsartikel
 ---

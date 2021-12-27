@@ -1,5 +1,5 @@
 ---
 title: "Moores"
 url: /gatineau/moores/
-shop: clothes
+shop: Kleidung
 ---

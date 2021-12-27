@@ -1,6 +1,6 @@
 ---
 title: Saint-Onésime
 url: /saint-onesime/
-latitude: 47.325644700000005
-longitude: -69.9836794
+latitude: 47.326
+longitude: -69.983
 ---

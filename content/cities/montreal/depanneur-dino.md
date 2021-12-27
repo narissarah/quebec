@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Dino"
 url: /montreal/depanneur-dino/
-shop: convenience
+shop: Lebensmittel
 ---

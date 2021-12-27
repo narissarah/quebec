@@ -1,6 +1,6 @@
 ---
 title: Kahnawake
 url: /kahnawake/
-latitude: 
-longitude: 
+latitude: 45.407
+longitude: -73.662
 ---

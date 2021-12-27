@@ -1,6 +1,6 @@
 ---
 title: Deux-Montagnes
 url: /deux-montagnes/
-latitude: 45.5372581
-longitude: -73.9043321
+latitude: 45.535
+longitude: -73.903
 ---

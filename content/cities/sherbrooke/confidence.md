@@ -1,5 +1,5 @@
 ---
 title: "Confidence"
 url: /sherbrooke/confidence/
-shop: hairdresser
+shop: Friseur
 ---

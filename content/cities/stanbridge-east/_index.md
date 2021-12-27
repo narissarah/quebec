@@ -1,6 +1,6 @@
 ---
 title: Stanbridge East
 url: /stanbridge-east/
-latitude: 45.1215058
-longitude: -72.9160073
+latitude: 45.126
+longitude: -72.916
 ---

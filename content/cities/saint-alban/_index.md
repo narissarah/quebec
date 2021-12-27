@@ -1,6 +1,6 @@
 ---
 title: Saint-Alban
 url: /saint-alban/
-latitude: 46.718210000000006
-longitude: -72.078896
+latitude: 46.767
+longitude: -72.157
 ---

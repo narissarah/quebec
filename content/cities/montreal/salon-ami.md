@@ -1,5 +1,5 @@
 ---
 title: "Salon Ami"
 url: /montreal/salon-ami/
-shop: beauty
+shop: Kosmetik
 ---

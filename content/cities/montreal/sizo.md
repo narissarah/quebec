@@ -1,5 +1,5 @@
 ---
 title: "[sizo]"
 url: /montreal/sizo/
-shop: hairdresser
+shop: Friseur
 ---

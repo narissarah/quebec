@@ -1,5 +1,5 @@
 ---
 title: "Corbeil"
 url: /gatineau/corbeil/
-shop: electronics
+shop: Elektronik
 ---

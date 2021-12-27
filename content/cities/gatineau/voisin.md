@@ -1,5 +1,5 @@
 ---
 title: "Voisin"
 url: /gatineau/voisin/
-shop: convenience
+shop: Lebensmittel
 ---

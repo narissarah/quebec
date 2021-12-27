@@ -1,6 +1,6 @@
 ---
 title: Gautineau
 url: /gautineau/
-latitude: 
-longitude: 
+latitude: 45.426
+longitude: -75.717
 ---

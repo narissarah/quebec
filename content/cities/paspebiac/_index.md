@@ -1,6 +1,6 @@
 ---
 title: Paspébiac
 url: /paspebiac/
-latitude: 
-longitude: 
+latitude: 48.028
+longitude: -65.26
 ---

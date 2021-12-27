@@ -1,6 +1,6 @@
 ---
 title: Saint-David
 url: /saint-david/
-latitude: 
-longitude: 
+latitude: 45.956
+longitude: -72.857
 ---

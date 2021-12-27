@@ -1,6 +1,6 @@
 ---
 title: Trois-Rivières-Ouest
 url: /trois-rivieres-ouest/
-latitude: 46.3275756
-longitude: -72.5994371
+latitude: 46.33
+longitude: -72.602
 ---

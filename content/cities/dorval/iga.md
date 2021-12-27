@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /dorval/iga/
-shop: supermarket
+shop: Supermarkt
 ---

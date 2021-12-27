@@ -1,5 +1,5 @@
 ---
 title: "DeSerres"
 url: /gatineau/deserres/
-shop: craft
+shop: Basteln
 ---

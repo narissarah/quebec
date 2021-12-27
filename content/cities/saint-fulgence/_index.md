@@ -1,6 +1,6 @@
 ---
 title: Saint-Fulgence
 url: /saint-fulgence/
-latitude: 48.4503143
-longitude: -70.90338990000001
+latitude: 48.46
+longitude: -70.978
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chocolaterie Choco-Là"
 url: /sherbrooke/chocolaterie-choco-la/
-shop: chocolate
+shop: Schokolade
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sacré-Coeur
 url: /sacre-coeur/
-latitude: 
-longitude: 
+latitude: 48.238
+longitude: -69.806
 ---

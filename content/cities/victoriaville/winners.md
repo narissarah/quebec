@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /victoriaville/winners/
-shop: clothes
+shop: Kleidung
 ---

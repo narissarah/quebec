@@ -1,6 +1,6 @@
 ---
 title: Baie-Saint-Paul
 url: /baie-saint-paul/
-latitude: 47.444343
-longitude: -70.505447
+latitude: 47.445
+longitude: -70.511
 ---

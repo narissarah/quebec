@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /chambly/hyundai/
-shop: car
+shop: Autohaus
 ---

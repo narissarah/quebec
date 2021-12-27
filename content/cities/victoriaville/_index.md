@@ -1,6 +1,6 @@
 ---
 title: Victoriaville
 url: /victoriaville/
-latitude: 
-longitude: 
+latitude: 46.062
+longitude: -71.929
 ---

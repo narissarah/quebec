@@ -1,6 +1,6 @@
 ---
 title: Shawinigan-Sud
 url: /shawinigan-sud/
-latitude: 46.518413900000006
-longitude: -72.7480689
+latitude: 46.52
+longitude: -72.746
 ---

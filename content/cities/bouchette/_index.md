@@ -1,6 +1,6 @@
 ---
 title: Bouchette
 url: /bouchette/
-latitude: 46.2043381
-longitude: -75.9566471
+latitude: 46.205
+longitude: -75.952
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esposito"
 url: /boisbriand/esposito/
-shop: supermarket
+shop: Supermarkt
 ---

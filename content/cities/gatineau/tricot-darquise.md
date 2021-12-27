@@ -1,5 +1,5 @@
 ---
 title: "TRICOT Darquise"
 url: /gatineau/tricot-darquise/
-shop: craft
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harnois"
 url: /maskinonge/harnois/
-shop: convenience
+shop: Lebensmittel
 ---

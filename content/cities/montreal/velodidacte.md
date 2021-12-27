@@ -1,5 +1,5 @@
 ---
 title: "Vélodidacte"
 url: /montreal/velodidacte/
-shop: bicycle
+shop: Fahrrad
 ---

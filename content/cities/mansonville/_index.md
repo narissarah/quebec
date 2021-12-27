@@ -1,6 +1,6 @@
 ---
 title: Mansonville
 url: /mansonville/
-latitude: 
-longitude: 
+latitude: 45.051
+longitude: -72.392
 ---

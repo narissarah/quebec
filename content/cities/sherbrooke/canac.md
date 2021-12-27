@@ -1,5 +1,5 @@
 ---
 title: "Canac"
 url: /sherbrooke/canac/
-shop: hardware
+shop: Eisenwaren
 ---

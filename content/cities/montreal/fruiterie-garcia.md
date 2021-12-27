@@ -1,5 +1,5 @@
 ---
 title: "Fruiterie Garcia"
 url: /montreal/fruiterie-garcia/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

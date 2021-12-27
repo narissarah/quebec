@@ -1,5 +1,5 @@
 ---
 title: "Cuisines BIGO"
 url: /saint-jean-sur-richelieu/cuisines-bigo/
-shop: kitchen
+shop: Küchen
 ---

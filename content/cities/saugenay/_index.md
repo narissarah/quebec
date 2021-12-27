@@ -1,6 +1,6 @@
 ---
 title: Saugenay
 url: /saugenay/
-latitude: 
-longitude: 
+latitude: 48.385
+longitude: -71.109
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pete's Superbike"
 url: /vaudreuil-dorion/petes-superbike/
-shop: motorcycle
+shop: Motorrad
 ---

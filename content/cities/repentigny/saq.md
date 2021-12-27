@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /repentigny/saq/
-shop: alcohol
+shop: Spirituosen
 ---

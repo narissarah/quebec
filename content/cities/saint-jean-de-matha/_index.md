@@ -1,6 +1,6 @@
 ---
 title: Saint-Jean-de-Matha
 url: /saint-jean-de-matha/
-latitude: 46.230203
-longitude: -73.53492700000001
+latitude: 46.268
+longitude: -73.545
 ---

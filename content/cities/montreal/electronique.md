@@ -1,5 +1,5 @@
 ---
 title: "Électronique"
 url: /montreal/electronique/
-shop: electronics
+shop: Elektronik
 ---

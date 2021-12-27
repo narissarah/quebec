@@ -1,5 +1,5 @@
 ---
 title: "Sarto"
 url: /victoriaville/sarto/
-shop: bicycle
+shop: Fahrrad
 ---

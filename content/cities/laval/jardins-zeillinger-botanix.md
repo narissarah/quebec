@@ -1,5 +1,5 @@
 ---
 title: "Jardins Zeillinger Botanix"
 url: /laval/jardins-zeillinger-botanix/
-shop: garden centre
+shop: Garten-Center
 ---

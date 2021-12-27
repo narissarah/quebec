@@ -1,6 +1,6 @@
 ---
 title: Châteauguay
 url: /chateauguay/
-latitude: 
-longitude: 
+latitude: 45.376
+longitude: -73.754
 ---

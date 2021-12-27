@@ -1,5 +1,5 @@
 ---
 title: "Primeau Vélo Laval"
 url: /laval/primeau-velo-laval/
-shop: bicycle
+shop: Fahrrad
 ---

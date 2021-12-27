@@ -1,6 +1,6 @@
 ---
 title: Ayer's Cliff
 url: /ayers-cliff/
-latitude: 45.1673528
-longitude: -72.040988
+latitude: 45.166
+longitude: -72.038
 ---

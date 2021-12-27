@@ -1,6 +1,6 @@
 ---
 title: Mont-Laurier
 url: /mont-laurier/
-latitude: 46.5524071
-longitude: -75.4968899
+latitude: 46.551
+longitude: -75.5
 ---

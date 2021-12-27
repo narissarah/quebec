@@ -1,5 +1,5 @@
 ---
 title: "Artwoods"
 url: /gatineau/artwoods/
-shop: furniture
+shop: Möbel
 ---

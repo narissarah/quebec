@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /shawville/home-hardware/
-shop: hardware
+shop: Eisenwaren
 ---

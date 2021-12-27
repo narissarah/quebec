@@ -1,5 +1,5 @@
 ---
 title: "OrdiCell"
 url: /montreal/ordicell/
-shop: computer
+shop: Computer
 ---

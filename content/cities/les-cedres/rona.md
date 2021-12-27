@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /les-cedres/rona/
-shop: doityourself
+shop: Baumarkt
 ---

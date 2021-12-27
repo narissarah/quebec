@@ -1,5 +1,5 @@
 ---
 title: "Calvin Klein"
 url: /vaudreuil-dorion/calvin-klein/
-shop: clothes
+shop: Kleidung
 ---

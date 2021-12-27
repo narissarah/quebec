@@ -1,6 +1,6 @@
 ---
 title: Saint-Armand
 url: /saint-armand/
-latitude: 45.032774
-longitude: -73.043976
+latitude: 45.032
+longitude: -73.043
 ---

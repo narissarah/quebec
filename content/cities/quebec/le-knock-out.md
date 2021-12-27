@@ -1,5 +1,5 @@
 ---
 title: "Le Knock-Out"
 url: /quebec/le-knock-out/
-shop: music
+shop: Musik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Epicerie Heng Heng"
 url: /montreal/epicerie-heng-heng/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

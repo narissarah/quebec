@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /senneterre/saq/
-shop: alcohol
+shop: Spirituosen
 ---

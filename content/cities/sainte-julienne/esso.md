@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /sainte-julienne/esso/
-shop: convenience
+shop: Lebensmittel
 ---

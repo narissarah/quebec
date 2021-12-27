@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /saguenay/costco/
-shop: wholesale
+shop: Großhandel
 ---

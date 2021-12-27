@@ -1,6 +1,6 @@
 ---
 title: Manseau
 url: /manseau/
-latitude: 46.367542
-longitude: -72.003021
+latitude: 46.318
+longitude: -71.944
 ---

@@ -1,6 +1,6 @@
 ---
 title: Carignan
 url: /carignan/
-latitude: 45.437955
-longitude: -73.3554902
+latitude: 45.448
+longitude: -73.33
 ---

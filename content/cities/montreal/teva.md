@@ -1,5 +1,5 @@
 ---
 title: "Teva"
 url: /montreal/teva/
-shop: supermarket
+shop: Supermarkt
 ---

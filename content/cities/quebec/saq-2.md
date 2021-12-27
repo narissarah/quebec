@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /quebec/saq-2/
-shop: alcohol
+shop: Spirituosen
 ---

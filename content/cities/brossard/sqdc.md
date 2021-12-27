@@ -1,5 +1,5 @@
 ---
 title: "SQDC"
 url: /brossard/sqdc/
-shop: cannabis
+shop: Hanf
 ---

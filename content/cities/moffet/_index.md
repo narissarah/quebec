@@ -1,6 +1,6 @@
 ---
 title: Moffet
 url: /moffet/
-latitude: 47.5441121
-longitude: -78.95269950000001
+latitude: 47.545
+longitude: -78.952
 ---

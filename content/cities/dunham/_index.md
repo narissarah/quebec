@@ -1,6 +1,6 @@
 ---
 title: Dunham
 url: /dunham/
-latitude: 45.130469000000005
-longitude: -72.800903
+latitude: 45.132
+longitude: -72.801
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bowman
 url: /bowman/
-latitude: 
-longitude: 
+latitude: 45.922
+longitude: -75.596
 ---

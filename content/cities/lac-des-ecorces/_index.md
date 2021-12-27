@@ -1,6 +1,6 @@
 ---
 title: Lac-des-Écorces
 url: /lac-des-ecorces/
-latitude: 46.5565
-longitude: -75.364838
+latitude: 46.508
+longitude: -75.356
 ---

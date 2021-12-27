@@ -1,6 +1,6 @@
 ---
 title: Saint-Norbert-d'Arthabaska
 url: /saint-norbert-darthabaska/
-latitude: 
-longitude: 
+latitude: 46.107
+longitude: -71.819
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sonicarte"
 url: /la-pocatiere/sonicarte/
-shop: convenience
+shop: Lebensmittel
 ---

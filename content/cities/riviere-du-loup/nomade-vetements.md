@@ -1,5 +1,5 @@
 ---
 title: "Nomade Vêtements"
 url: /riviere-du-loup/nomade-vetements/
-shop: clothes
+shop: Kleidung
 ---

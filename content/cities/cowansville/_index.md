@@ -1,6 +1,6 @@
 ---
 title: Cowansville
 url: /cowansville/
-latitude: 
-longitude: 
+latitude: 45.211
+longitude: -72.815
 ---

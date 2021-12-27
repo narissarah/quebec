@@ -1,5 +1,5 @@
 ---
 title: "Tailleur M. Rousseau"
 url: /montreal/tailleur-m-rousseau/
-shop: tailor
+shop: Schneiderei
 ---

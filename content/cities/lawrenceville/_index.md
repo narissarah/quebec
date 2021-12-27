@@ -1,6 +1,6 @@
 ---
 title: Lawrenceville
 url: /lawrenceville/
-latitude: 
-longitude: 
+latitude: 45.423
+longitude: -72.343
 ---

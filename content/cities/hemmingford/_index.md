@@ -1,6 +1,6 @@
 ---
 title: Hemmingford
 url: /hemmingford/
-latitude: 45.0474377
-longitude: -73.5863187
+latitude: 45.038
+longitude: -73.596
 ---

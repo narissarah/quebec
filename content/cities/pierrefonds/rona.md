@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /pierrefonds/rona/
-shop: doityourself
+shop: Baumarkt
 ---

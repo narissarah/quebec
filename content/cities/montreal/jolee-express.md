@@ -1,5 +1,5 @@
 ---
 title: "Jolee Express"
 url: /montreal/jolee-express/
-shop: convenience
+shop: Lebensmittel
 ---

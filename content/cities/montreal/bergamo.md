@@ -1,5 +1,5 @@
 ---
 title: "Bergamo"
 url: /montreal/bergamo/
-shop: clothes
+shop: Kleidung
 ---

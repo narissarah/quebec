@@ -1,6 +1,6 @@
 ---
 title: Oka
 url: /oka/
-latitude: 
-longitude: 
+latitude: 45.462
+longitude: -74.086
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chambly
 url: /chambly/
-latitude: 45.4473898
-longitude: -73.2932002
+latitude: 45.45
+longitude: -73.294
 ---

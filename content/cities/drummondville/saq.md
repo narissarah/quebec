@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /drummondville/saq/
-shop: alcohol
+shop: Spirituosen
 ---

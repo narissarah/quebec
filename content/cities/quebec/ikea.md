@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /quebec/ikea/
-shop: furniture
+shop: Möbel
 ---

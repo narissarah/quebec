@@ -1,5 +1,5 @@
 ---
 title: "Cliche Ford"
 url: /saint-georges/cliche-ford/
-shop: car
+shop: Autohaus
 ---

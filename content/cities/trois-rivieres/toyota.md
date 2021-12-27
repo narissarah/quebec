@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /trois-rivieres/toyota/
-shop: car
+shop: Autohaus
 ---

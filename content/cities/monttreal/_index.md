@@ -1,6 +1,6 @@
 ---
 title: Monttréal
 url: /monttreal/
-latitude: 
-longitude: 
+latitude: 45.554
+longitude: -73.532
 ---

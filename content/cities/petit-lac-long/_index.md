@@ -1,6 +1,6 @@
 ---
 title: Petit-Lac-Long
 url: /petit-lac-long/
-latitude: 
-longitude: 
+latitude: 46.119
+longitude: -74.289
 ---

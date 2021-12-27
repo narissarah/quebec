@@ -1,6 +1,6 @@
 ---
 title: Westmount
 url: /westmount/
-latitude: 
-longitude: 
+latitude: 45.486
+longitude: -73.581
 ---

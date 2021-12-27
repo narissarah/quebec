@@ -1,6 +1,6 @@
 ---
 title: Monréal
 url: /monreal/
-latitude: 
-longitude: 
+latitude: 45.558
+longitude: -73.659
 ---

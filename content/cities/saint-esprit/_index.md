@@ -1,6 +1,6 @@
 ---
 title: Saint-Esprit
 url: /saint-esprit/
-latitude: 45.898371000000004
-longitude: -73.666077
+latitude: 45.9
+longitude: -73.665
 ---

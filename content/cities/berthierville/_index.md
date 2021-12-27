@@ -1,6 +1,6 @@
 ---
 title: Berthierville
 url: /berthierville/
-latitude: 46.0828098
-longitude: -73.17470990000001
+latitude: 46.09
+longitude: -73.2
 ---

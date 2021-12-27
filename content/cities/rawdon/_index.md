@@ -1,6 +1,6 @@
 ---
 title: Rawdon
 url: /rawdon/
-latitude: 
-longitude: 
+latitude: 46.049
+longitude: -73.731
 ---

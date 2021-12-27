@@ -1,5 +1,5 @@
 ---
 title: "Primecables.ca"
 url: /vaudreuil-dorion/primecables-ca/
-shop: electronics
+shop: Elektronik
 ---

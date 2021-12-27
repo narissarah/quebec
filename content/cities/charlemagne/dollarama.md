@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /charlemagne/dollarama/
-shop: variety store
+shop: Kramladen
 ---

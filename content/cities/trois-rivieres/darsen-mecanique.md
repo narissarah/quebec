@@ -1,5 +1,5 @@
 ---
 title: "DArsen mécanique"
 url: /trois-rivieres/darsen-mecanique/
-shop: car repair
+shop: Autowerkstatt
 ---

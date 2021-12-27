@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie St-Côme"
 url: /saint-come/boulangerie-st-come/
-shop: bakery
+shop: Bäckerei
 ---

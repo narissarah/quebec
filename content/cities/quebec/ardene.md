@@ -1,5 +1,5 @@
 ---
 title: "Ardene"
 url: /quebec/ardene/
-shop: clothes
+shop: Kleidung
 ---

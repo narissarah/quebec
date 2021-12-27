@@ -1,5 +1,5 @@
 ---
 title: "Boutique Très-Art"
 url: /mont-laurier/boutique-tres-art/
-shop: jewelry
+shop: Schmuck
 ---

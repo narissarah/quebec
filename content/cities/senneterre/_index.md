@@ -1,6 +1,6 @@
 ---
 title: Senneterre
 url: /senneterre/
-latitude: 48.390458
-longitude: -77.242813
+latitude: 48.39
+longitude: -77.245
 ---

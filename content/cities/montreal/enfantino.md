@@ -1,5 +1,5 @@
 ---
 title: "Enfantino"
 url: /montreal/enfantino/
-shop: toys
+shop: Spielzeug
 ---

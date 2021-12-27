@@ -1,5 +1,5 @@
 ---
 title: "DSL"
 url: /bassin/dsl/
-shop: car parts
+shop: Autoteile
 ---

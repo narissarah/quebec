@@ -1,6 +1,6 @@
 ---
 title: Saint-Rémi-d'Amherst
 url: /saint-remi-damherst/
-latitude: 
-longitude: 
+latitude: 46.007
+longitude: -74.764
 ---

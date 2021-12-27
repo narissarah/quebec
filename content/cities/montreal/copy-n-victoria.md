@@ -1,5 +1,5 @@
 ---
 title: "Copy N. Victoria"
 url: /montreal/copy-n-victoria/
-shop: copyshop
+shop: Kopieren
 ---

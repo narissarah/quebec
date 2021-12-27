@@ -1,6 +1,6 @@
 ---
 title: Lachine
 url: /lachine/
-latitude: 45.435114000000006
-longitude: -73.68379870000001
+latitude: 45.435
+longitude: -73.674
 ---

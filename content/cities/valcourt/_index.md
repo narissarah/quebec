@@ -1,6 +1,6 @@
 ---
 title: Valcourt
 url: /valcourt/
-latitude: 45.493734700000005
-longitude: -72.31511160000001
+latitude: 45.488
+longitude: -72.309
 ---

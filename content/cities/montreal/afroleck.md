@@ -1,5 +1,5 @@
 ---
 title: "Afroleck"
 url: /montreal/afroleck/
-shop: convenience
+shop: Lebensmittel
 ---

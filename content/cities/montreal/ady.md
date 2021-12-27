@@ -1,5 +1,5 @@
 ---
 title: "Ady"
 url: /montreal/ady/
-shop: shop
+shop: Allgemein
 ---

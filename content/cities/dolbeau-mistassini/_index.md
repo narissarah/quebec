@@ -1,6 +1,6 @@
 ---
 title: Dolbeau-Mistassini
 url: /dolbeau-mistassini/
-latitude: 48.883231
-longitude: -72.233734
+latitude: 48.877
+longitude: -72.228
 ---

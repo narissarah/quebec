@@ -1,6 +1,6 @@
 ---
 title: Percé
 url: /perce/
-latitude: 
-longitude: 
+latitude: 48.52
+longitude: -64.216
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /gatineau/rona-3/
-shop: doityourself
+shop: Baumarkt
 ---

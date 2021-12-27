@@ -1,6 +1,6 @@
 ---
 title: Saint-Barthélemy
 url: /saint-barthelemy/
-latitude: 46.1912244
-longitude: -73.1199
+latitude: 46.175
+longitude: -73.094
 ---

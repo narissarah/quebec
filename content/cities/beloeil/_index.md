@@ -1,6 +1,6 @@
 ---
 title: Beloeil
 url: /beloeil/
-latitude: 
-longitude: 
+latitude: 45.569
+longitude: -73.2
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ô Plaisirs Gourmands"
 url: /montreal/o-plaisirs-gourmands/
-shop: bakery
+shop: Bäckerei
 ---

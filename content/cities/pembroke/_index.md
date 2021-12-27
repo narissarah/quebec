@@ -1,6 +1,6 @@
 ---
 title: Pembroke
 url: /pembroke/
-latitude: 
-longitude: 
+latitude: 45.823
+longitude: -77.084
 ---

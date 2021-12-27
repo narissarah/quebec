@@ -1,5 +1,5 @@
 ---
 title: "ProgYSM"
 url: /mont-laurier/progysm/
-shop: computer
+shop: Computer
 ---

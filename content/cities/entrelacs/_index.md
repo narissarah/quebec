@@ -1,6 +1,6 @@
 ---
 title: Entrelacs
 url: /entrelacs/
-latitude: 46.112675100000004
-longitude: -74.0035168
+latitude: 46.11
+longitude: -74.003
 ---

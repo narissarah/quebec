@@ -1,6 +1,6 @@
 ---
 title: Pont-Rouge
 url: /pont-rouge/
-latitude: 46.756563
-longitude: -71.697807
+latitude: 46.763
+longitude: -71.709
 ---

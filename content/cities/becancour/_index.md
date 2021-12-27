@@ -1,6 +1,6 @@
 ---
 title: Bécancour
 url: /becancour/
-latitude: 46.339343
-longitude: -72.433205
+latitude: 46.297
+longitude: -72.538
 ---

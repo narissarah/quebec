@@ -1,5 +1,5 @@
 ---
 title: "Musselli"
 url: /quebec/musselli/
-shop: jewelry
+shop: Schmuck
 ---

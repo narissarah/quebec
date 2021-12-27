@@ -1,6 +1,6 @@
 ---
 title: Stanstead (Canton)
 url: /stanstead-canton/
-latitude: 
-longitude: 
+latitude: 45.14
+longitude: -72.253
 ---

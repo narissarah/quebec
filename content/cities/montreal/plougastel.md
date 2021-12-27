@@ -1,5 +1,5 @@
 ---
 title: "Plougastel"
 url: /montreal/plougastel/
-shop: bakery
+shop: Bäckerei
 ---

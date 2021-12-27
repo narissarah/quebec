@@ -1,5 +1,5 @@
 ---
 title: "Bizou"
 url: /quebec/bizou/
-shop: jewelry
+shop: Schmuck
 ---

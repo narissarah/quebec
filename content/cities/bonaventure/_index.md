@@ -1,6 +1,6 @@
 ---
 title: Bonaventure
 url: /bonaventure/
-latitude: 48.0444351
-longitude: -65.4925807
+latitude: 48.046
+longitude: -65.494
 ---

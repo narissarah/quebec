@@ -1,5 +1,5 @@
 ---
 title: "Jacop Autos"
 url: /laval/jacop-autos/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /mirabel/saq/
-shop: alcohol
+shop: Spirituosen
 ---

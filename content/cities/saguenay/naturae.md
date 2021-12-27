@@ -1,5 +1,5 @@
 ---
 title: "Naturae"
 url: /saguenay/naturae/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

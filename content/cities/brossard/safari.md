@@ -1,5 +1,5 @@
 ---
 title: "Safari"
 url: /brossard/safari/
-shop: pet
+shop: Tiere
 ---

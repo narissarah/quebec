@@ -1,5 +1,5 @@
 ---
 title: "Audition Musik"
 url: /rimouski/audition-musik/
-shop: music
+shop: Musik
 ---

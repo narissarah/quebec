@@ -1,5 +1,5 @@
 ---
 title: "Ria"
 url: /montreal/ria/
-shop: pawnbroker
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Archambault Musique"
 url: /gatineau/archambault-musique/
-shop: musical instrument
+shop: Instrumente
 ---

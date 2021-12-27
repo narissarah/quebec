@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /dunham/ultramar/
-shop: convenience
+shop: Lebensmittel
 ---

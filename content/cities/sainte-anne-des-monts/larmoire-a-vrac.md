@@ -1,5 +1,5 @@
 ---
 title: "L'armoire à vrac"
 url: /sainte-anne-des-monts/larmoire-a-vrac/
-shop: health food
+shop: Bioladen
 ---

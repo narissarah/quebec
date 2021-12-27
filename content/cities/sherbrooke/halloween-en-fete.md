@@ -1,5 +1,5 @@
 ---
 title: "Halloween en Fête"
 url: /sherbrooke/halloween-en-fete/
-shop: party
+shop: Partyzubehör
 ---

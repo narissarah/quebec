@@ -1,5 +1,5 @@
 ---
 title: "Lunetterie New Look"
 url: /gatineau/lunetterie-new-look/
-shop: optician
+shop: Optiker
 ---

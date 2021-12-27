@@ -1,6 +1,6 @@
 ---
 title: Grand-Mère
 url: /grand-mere/
-latitude: 46.612894000000004
-longitude: -72.69516
+latitude: 46.607
+longitude: -72.704
 ---

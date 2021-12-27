@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /trois-rivieres/esso/
-shop: convenience
+shop: Lebensmittel
 ---

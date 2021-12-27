@@ -1,5 +1,5 @@
 ---
 title: "Laura"
 url: /trois-rivieres/laura/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quickie"
 url: /gatineau/quickie/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sainte-Anne-des-Mont
 url: /sainte-anne-des-mont/
-latitude: 
-longitude: 
+latitude: 49.123
+longitude: -66.499
 ---

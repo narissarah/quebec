@@ -1,6 +1,6 @@
 ---
 title: Brossard
 url: /brossard/
-latitude: 45.4554829
-longitude: -73.4678904
+latitude: 45.46
+longitude: -73.468
 ---

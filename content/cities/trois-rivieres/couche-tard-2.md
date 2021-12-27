@@ -1,5 +1,5 @@
 ---
 title: "Couche-Tard"
 url: /trois-rivieres/couche-tard-2/
-shop: convenience
+shop: Lebensmittel
 ---

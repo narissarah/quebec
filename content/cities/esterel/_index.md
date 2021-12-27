@@ -1,6 +1,6 @@
 ---
 title: Estérel
 url: /esterel/
-latitude: 46.0423647
-longitude: -74.02041100000001
+latitude: 46.028
+longitude: -74.024
 ---

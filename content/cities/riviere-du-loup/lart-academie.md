@@ -1,5 +1,5 @@
 ---
 title: "L'art académie"
 url: /riviere-du-loup/lart-academie/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Création Monik"
 url: /riviere-du-loup/creation-monik/
-shop: sewing
+shop: Nähzubehör
 ---

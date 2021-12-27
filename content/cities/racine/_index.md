@@ -1,6 +1,6 @@
 ---
 title: Racine
 url: /racine/
-latitude: 48.4435725
-longitude: -71.25096740000001
+latitude: 45.503
+longitude: -72.247
 ---

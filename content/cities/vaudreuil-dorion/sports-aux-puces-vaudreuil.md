@@ -1,5 +1,5 @@
 ---
 title: "Sports aux Puces Vaudreuil"
 url: /vaudreuil-dorion/sports-aux-puces-vaudreuil/
-shop: sports
+shop: Sport
 ---

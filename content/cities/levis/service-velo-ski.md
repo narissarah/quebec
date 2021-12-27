@@ -1,5 +1,5 @@
 ---
 title: "Service Vélo Ski"
 url: /levis/service-velo-ski/
-shop: bicycle
+shop: Fahrrad
 ---

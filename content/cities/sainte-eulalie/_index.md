@@ -1,6 +1,6 @@
 ---
 title: Sainte-Eulalie
 url: /sainte-eulalie/
-latitude: 46.111802000000004
-longitude: -72.250557
+latitude: 46.111
+longitude: -72.248
 ---

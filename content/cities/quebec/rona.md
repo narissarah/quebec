@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /quebec/rona/
-shop: doityourself
+shop: Baumarkt
 ---

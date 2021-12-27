@@ -1,6 +1,6 @@
 ---
 title: Saint-Malachie
 url: /saint-malachie/
-latitude: 46.531705
-longitude: -70.766716
+latitude: 46.538
+longitude: -70.785
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C.C. Copie"
 url: /montreal/c-c-copie/
-shop: shop
+shop: Allgemein
 ---

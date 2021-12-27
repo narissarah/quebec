@@ -1,5 +1,5 @@
 ---
 title: "Aux Champêtreries"
 url: /montreal/aux-champetreries/
-shop: deli
+shop: Feinkost
 ---

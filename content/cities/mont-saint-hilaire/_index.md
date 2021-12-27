@@ -1,6 +1,6 @@
 ---
 title: Mont-Saint-Hilaire
 url: /mont-saint-hilaire/
-latitude: 45.5623512
-longitude: -73.1918864
+latitude: 45.564
+longitude: -73.188
 ---

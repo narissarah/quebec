@@ -1,6 +1,6 @@
 ---
 title: Pointe-à-la-Croix
 url: /pointe-a-la-croix/
-latitude: 48.0162533
-longitude: -66.6829857
+latitude: 48.016
+longitude: -66.683
 ---

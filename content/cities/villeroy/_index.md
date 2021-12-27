@@ -1,6 +1,6 @@
 ---
 title: Villeroy
 url: /villeroy/
-latitude: 46.388386000000004
-longitude: -71.87530500000001
+latitude: 46.373
+longitude: -71.856
 ---

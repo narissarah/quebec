@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /hudson/saq/
-shop: alcohol
+shop: Spirituosen
 ---

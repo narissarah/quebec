@@ -1,5 +1,5 @@
 ---
 title: "Total Diving"
 url: /montreal/total-diving/
-shop: diving
+shop: Tauchen
 ---

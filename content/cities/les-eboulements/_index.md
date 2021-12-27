@@ -1,6 +1,6 @@
 ---
 title: Les Éboulements
 url: /les-eboulements/
-latitude: 
-longitude: 
+latitude: 47.457
+longitude: -70.365
 ---

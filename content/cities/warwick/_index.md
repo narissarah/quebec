@@ -1,6 +1,6 @@
 ---
 title: Warwick
 url: /warwick/
-latitude: 45.945659000000006
-longitude: -71.990662
+latitude: 45.95
+longitude: -71.998
 ---

@@ -1,6 +1,6 @@
 ---
 title: Daveluyville
 url: /daveluyville/
-latitude: 46.20431
-longitude: -72.13760400000001
+latitude: 46.207
+longitude: -72.139
 ---

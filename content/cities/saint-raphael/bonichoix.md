@@ -1,5 +1,5 @@
 ---
 title: "Bonichoix"
 url: /saint-raphael/bonichoix/
-shop: supermarket
+shop: Supermarkt
 ---

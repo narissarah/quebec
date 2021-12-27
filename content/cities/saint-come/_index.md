@@ -1,6 +1,6 @@
 ---
 title: Saint-Côme
 url: /saint-come/
-latitude: 46.271037
-longitude: -73.771477
+latitude: 46.27
+longitude: -73.771
 ---

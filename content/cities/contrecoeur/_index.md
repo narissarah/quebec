@@ -1,6 +1,6 @@
 ---
 title: Contrecoeur
 url: /contrecoeur/
-latitude: 
-longitude: 
+latitude: 45.857
+longitude: -73.237
 ---

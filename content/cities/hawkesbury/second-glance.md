@@ -1,5 +1,5 @@
 ---
 title: "Second GLANCE"
 url: /hawkesbury/second-glance/
-shop: antiques
+shop: Antiquitäten
 ---

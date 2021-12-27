@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /chicoutimi/iga/
-shop: supermarket
+shop: Supermarkt
 ---

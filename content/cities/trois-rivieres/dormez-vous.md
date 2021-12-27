@@ -1,5 +1,5 @@
 ---
 title: "Dormez-vous"
 url: /trois-rivieres/dormez-vous/
-shop: bed
+shop: Betten
 ---

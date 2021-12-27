@@ -1,5 +1,5 @@
 ---
 title: "Iris"
 url: /chambly/iris/
-shop: optician
+shop: Optiker
 ---

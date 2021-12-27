@@ -1,5 +1,5 @@
 ---
 title: "Korvette"
 url: /contrecoeur/korvette/
-shop: general
+shop: Dorfladen
 ---

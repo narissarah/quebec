@@ -1,6 +1,6 @@
 ---
 title: Morin-Heights
 url: /morin-heights/
-latitude: 
-longitude: 
+latitude: 45.901
+longitude: -74.253
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toilettage Canin Au Poil Fou"
 url: /les-cedres/toilettage-canin-au-poil-fou/
-shop: pet grooming
+shop: Tiersalon
 ---

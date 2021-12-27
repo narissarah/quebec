@@ -1,6 +1,6 @@
 ---
 title: Amherst
 url: /amherst/
-latitude: 46.010547800000005
-longitude: -74.7653616
+latitude: 46.084
+longitude: -74.832
 ---

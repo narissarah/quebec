@@ -1,5 +1,5 @@
 ---
 title: "Crevier"
 url: /nominingue/crevier/
-shop: convenience
+shop: Lebensmittel
 ---

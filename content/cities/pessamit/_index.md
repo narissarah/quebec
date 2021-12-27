@@ -1,6 +1,6 @@
 ---
 title: Pessamit
 url: /pessamit/
-latitude: 48.9385613
-longitude: -68.6424466
+latitude: 48.944
+longitude: -68.652
 ---

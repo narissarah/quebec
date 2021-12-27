@@ -1,5 +1,5 @@
 ---
 title: "MLS Élite Sports"
 url: /vaudreuil-dorion/mls-elite-sports/
-shop: motorcycle
+shop: Motorrad
 ---

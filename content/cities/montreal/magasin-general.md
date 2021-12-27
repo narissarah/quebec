@@ -1,5 +1,5 @@
 ---
 title: "Magasin Général"
 url: /montreal/magasin-general/
-shop: art
+shop: Kunst
 ---

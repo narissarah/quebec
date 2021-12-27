@@ -1,5 +1,5 @@
 ---
 title: "Reitmans"
 url: /gatineau/reitmans/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mondial"
 url: /montreal/mondial/
-shop: supermarket
+shop: Supermarkt
 ---

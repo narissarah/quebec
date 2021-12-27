@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /sherbrooke/toyota/
-shop: car
+shop: Autohaus
 ---

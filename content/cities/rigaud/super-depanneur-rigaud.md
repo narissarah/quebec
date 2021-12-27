@@ -1,5 +1,5 @@
 ---
 title: "Super Dépanneur Rigaud"
 url: /rigaud/super-depanneur-rigaud/
-shop: convenience
+shop: Lebensmittel
 ---

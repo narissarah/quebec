@@ -1,5 +1,5 @@
 ---
 title: "Les Galeries de Hull"
 url: /gatineau/les-galeries-de-hull/
-shop: mall
+shop: Einkaufszentrum
 ---

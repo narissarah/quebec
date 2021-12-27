@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /grenville/saq/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AquaSport"
 url: /laval/aquasport/
-shop: sports
+shop: Sport
 ---

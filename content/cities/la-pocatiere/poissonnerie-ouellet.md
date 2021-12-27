@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Ouellet"
 url: /la-pocatiere/poissonnerie-ouellet/
-shop: seafood
+shop: Fisch
 ---

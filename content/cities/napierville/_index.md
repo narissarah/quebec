@@ -1,6 +1,6 @@
 ---
 title: Napierville
 url: /napierville/
-latitude: 45.186080000000004
-longitude: -73.40424850000001
+latitude: 45.195
+longitude: -73.448
 ---

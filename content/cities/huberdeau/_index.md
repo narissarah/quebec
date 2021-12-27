@@ -1,6 +1,6 @@
 ---
 title: Huberdeau
 url: /huberdeau/
-latitude: 45.975819200000004
-longitude: -74.6342778
+latitude: 45.974
+longitude: -74.634
 ---

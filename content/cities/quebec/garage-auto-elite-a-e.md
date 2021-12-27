@@ -1,5 +1,5 @@
 ---
 title: "Garage Auto ELITE A E"
 url: /quebec/garage-auto-elite-a-e/
-shop: car repair
+shop: Autowerkstatt
 ---

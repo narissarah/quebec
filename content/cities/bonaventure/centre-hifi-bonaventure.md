@@ -1,5 +1,5 @@
 ---
 title: "Centre HiFi Bonaventure"
 url: /bonaventure/centre-hifi-bonaventure/
-shop: radiotechnics
+shop: Radiotechnik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Republique"
 url: /montreal/republique/
-shop: clothes
+shop: Kleidung
 ---

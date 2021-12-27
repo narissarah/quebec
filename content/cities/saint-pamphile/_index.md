@@ -1,6 +1,6 @@
 ---
 title: Saint-Pamphile
 url: /saint-pamphile/
-latitude: 46.941786400000005
-longitude: -69.75006160000001
+latitude: 46.959
+longitude: -69.78
 ---

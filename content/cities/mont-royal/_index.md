@@ -1,6 +1,6 @@
 ---
 title: Mont-Royal
 url: /mont-royal/
-latitude: 
-longitude: 
+latitude: 45.521
+longitude: -73.629
 ---

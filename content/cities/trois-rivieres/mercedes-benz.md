@@ -1,5 +1,5 @@
 ---
 title: "Mercedes-Benz"
 url: /trois-rivieres/mercedes-benz/
-shop: car
+shop: Autohaus
 ---

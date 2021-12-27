@@ -1,5 +1,5 @@
 ---
 title: "Insertech"
 url: /montreal/insertech/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /montreal/dollarama/
-shop: variety store
+shop: Kramladen
 ---

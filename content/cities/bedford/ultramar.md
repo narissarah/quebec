@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /bedford/ultramar/
-shop: convenience
+shop: Lebensmittel
 ---

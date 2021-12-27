@@ -1,5 +1,5 @@
 ---
 title: "Marché Bonichoix"
 url: /riviere-rouge/marche-bonichoix/
-shop: supermarket
+shop: Supermarkt
 ---

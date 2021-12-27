@@ -1,6 +1,6 @@
 ---
 title: Westmeath
 url: /westmeath/
-latitude: 
-longitude: 
+latitude: 45.819
+longitude: -76.89
 ---

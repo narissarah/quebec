@@ -1,5 +1,5 @@
 ---
 title: "Studio Élégance"
 url: /mont-laurier/studio-elegance/
-shop: hairdresser
+shop: Friseur
 ---

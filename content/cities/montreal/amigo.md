@@ -1,5 +1,5 @@
 ---
 title: "Amigo"
 url: /montreal/amigo/
-shop: bed
+shop: Betten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto"
 url: /sherbrooke/auto/
-shop: car repair
+shop: Autowerkstatt
 ---

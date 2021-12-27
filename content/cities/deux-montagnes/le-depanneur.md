@@ -1,5 +1,5 @@
 ---
 title: "Le Dépanneur"
 url: /deux-montagnes/le-depanneur/
-shop: convenience
+shop: Lebensmittel
 ---

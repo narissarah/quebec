@@ -1,5 +1,5 @@
 ---
 title: "Komico"
 url: /montreal/komico/
-shop: collector
+shop: Sammler
 ---

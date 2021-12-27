@@ -1,6 +1,6 @@
 ---
 title: Trois-Rives
 url: /trois-rives/
-latitude: 
-longitude: 
+latitude: 46.899
+longitude: -72.927
 ---

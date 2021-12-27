@@ -1,6 +1,6 @@
 ---
 title: Val-d'Or
 url: /val-dor/
-latitude: 
-longitude: 
+latitude: 47.838
+longitude: -77.994
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PE Fraser"
 url: /quebec/pe-fraser/
-shop: doors
+shop: Türen
 ---

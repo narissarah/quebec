@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /senneterre/home-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

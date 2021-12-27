@@ -1,6 +1,6 @@
 ---
 title: Dollard-Des Ormeaux
 url: /dollard-des-ormeaux/
-latitude: 
-longitude: 
+latitude: 45.484
+longitude: -73.805
 ---

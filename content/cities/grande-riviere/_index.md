@@ -1,6 +1,6 @@
 ---
 title: Grande-Rivière
 url: /grande-riviere/
-latitude: 48.3984807
-longitude: -64.4953057
+latitude: 48.402
+longitude: -64.525
 ---

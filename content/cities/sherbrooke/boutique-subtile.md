@@ -1,5 +1,5 @@
 ---
 title: "Boutique Subtile"
 url: /sherbrooke/boutique-subtile/
-shop: clothes
+shop: Kleidung
 ---

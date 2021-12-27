@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /sherbrooke/iga/
-shop: supermarket
+shop: Supermarkt
 ---

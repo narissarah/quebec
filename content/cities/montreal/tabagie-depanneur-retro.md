@@ -1,5 +1,5 @@
 ---
 title: "Tabagie dépanneur rétro"
 url: /montreal/tabagie-depanneur-retro/
-shop: convenience
+shop: Lebensmittel
 ---

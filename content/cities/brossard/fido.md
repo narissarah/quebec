@@ -1,5 +1,5 @@
 ---
 title: "Fido"
 url: /brossard/fido/
-shop: mobile phone
+shop: Handy
 ---

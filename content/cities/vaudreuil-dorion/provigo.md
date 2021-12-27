@@ -1,5 +1,5 @@
 ---
 title: "Provigo"
 url: /vaudreuil-dorion/provigo/
-shop: supermarket
+shop: Supermarkt
 ---

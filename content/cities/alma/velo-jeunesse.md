@@ -1,5 +1,5 @@
 ---
 title: "Vélo-Jeunesse"
 url: /alma/velo-jeunesse/
-shop: bicycle
+shop: Fahrrad
 ---

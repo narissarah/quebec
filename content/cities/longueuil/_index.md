@@ -1,6 +1,6 @@
 ---
 title: Longueuil
 url: /longueuil/
-latitude: 45.5333387
-longitude: -73.4200318
+latitude: 45.538
+longitude: -73.466
 ---

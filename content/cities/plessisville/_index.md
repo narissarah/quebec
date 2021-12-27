@@ -1,6 +1,6 @@
 ---
 title: Plessisville
 url: /plessisville/
-latitude: 46.219515
-longitude: -71.77196500000001
+latitude: 46.218
+longitude: -71.764
 ---

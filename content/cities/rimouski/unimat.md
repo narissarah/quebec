@@ -1,5 +1,5 @@
 ---
 title: "Unimat"
 url: /rimouski/unimat/
-shop: hardware
+shop: Eisenwaren
 ---

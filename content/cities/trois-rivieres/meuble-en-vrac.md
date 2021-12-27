@@ -1,5 +1,5 @@
 ---
 title: "Meuble en Vrac"
 url: /trois-rivieres/meuble-en-vrac/
-shop: furniture
+shop: Möbel
 ---

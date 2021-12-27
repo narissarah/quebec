@@ -1,5 +1,5 @@
 ---
 title: "Atelier De Lutherie Jacques Martel"
 url: /trois-rivieres/atelier-de-lutherie-jacques-martel/
-shop: musical instrument
+shop: Instrumente
 ---

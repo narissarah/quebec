@@ -1,5 +1,5 @@
 ---
 title: "Equifab"
 url: /drummondville/equifab/
-shop: car parts
+shop: Autoteile
 ---

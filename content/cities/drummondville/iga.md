@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /drummondville/iga/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sainte-Clotilde-de-Châteauguay
 url: /sainte-clotilde-de-chateauguay/
-latitude: 
-longitude: 
+latitude: 45.158
+longitude: -73.678
 ---

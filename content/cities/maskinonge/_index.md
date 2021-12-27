@@ -1,6 +1,6 @@
 ---
 title: Maskinonge
 url: /maskinonge/
-latitude: 
-longitude: 
+latitude: 46.196
+longitude: -73.004
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Russinform"
 url: /montreal/russinform/
-shop: books
+shop: Bücher
 ---

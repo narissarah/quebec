@@ -1,5 +1,5 @@
 ---
 title: "Banco"
 url: /montreal/banco/
-shop: pawnbroker
+shop: Leiher
 ---

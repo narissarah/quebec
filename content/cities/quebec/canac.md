@@ -1,5 +1,5 @@
 ---
 title: "Canac"
 url: /quebec/canac/
-shop: doityourself
+shop: Baumarkt
 ---

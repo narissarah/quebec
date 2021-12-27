@@ -1,5 +1,5 @@
 ---
 title: "Lavoir"
 url: /montreal/lavoir/
-shop: laundry
+shop: Wäscherei
 ---

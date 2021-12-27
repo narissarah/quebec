@@ -1,6 +1,6 @@
 ---
 title: Monteral
 url: /monteral/
-latitude: 
-longitude: 
+latitude: 45.541
+longitude: -73.63
 ---

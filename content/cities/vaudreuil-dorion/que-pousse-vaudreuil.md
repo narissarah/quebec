@@ -1,5 +1,5 @@
 ---
 title: "Qué-Pousse Vaudreuil"
 url: /vaudreuil-dorion/que-pousse-vaudreuil/
-shop: garden centre
+shop: Garten-Center
 ---

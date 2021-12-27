@@ -1,6 +1,6 @@
 ---
 title: Matane
 url: /matane/
-latitude: 
-longitude: 
+latitude: 48.852
+longitude: -67.537
 ---

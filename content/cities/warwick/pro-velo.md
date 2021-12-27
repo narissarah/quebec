@@ -1,5 +1,5 @@
 ---
 title: "Pro-Vélo"
 url: /warwick/pro-velo/
-shop: bicycle
+shop: Fahrrad
 ---

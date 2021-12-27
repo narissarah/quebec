@@ -1,5 +1,5 @@
 ---
 title: "Comptant Ontario"
 url: /montreal/comptant-ontario/
-shop: pawnbroker
+shop: Leiher
 ---

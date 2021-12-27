@@ -1,5 +1,5 @@
 ---
 title: "Magasin Général de St-Armand"
 url: /saint-armand/magasin-general-de-st-armand/
-shop: convenience
+shop: Lebensmittel
 ---

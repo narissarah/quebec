@@ -1,5 +1,5 @@
 ---
 title: "Les Entreprises Médicales de L'Outaouais"
 url: /gatineau/les-entreprises-medicales-de-loutaouais/
-shop: medical supply
+shop: Sanitätshaus
 ---

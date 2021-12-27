@@ -1,6 +1,6 @@
 ---
 title: Kirkland
 url: /kirkland/
-latitude: 45.452919400000006
-longitude: -73.8647559
+latitude: 45.459
+longitude: -73.866
 ---

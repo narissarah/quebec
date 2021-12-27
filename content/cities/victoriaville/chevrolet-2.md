@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /victoriaville/chevrolet-2/
-shop: car
+shop: Autohaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tashereau
 url: /tashereau/
-latitude: 
-longitude: 
+latitude: 48.661
+longitude: -78.682
 ---

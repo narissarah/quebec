@@ -1,6 +1,6 @@
 ---
 title: Saint-Aubert
 url: /saint-aubert/
-latitude: 47.180379
-longitude: -70.219803
+latitude: 47.182
+longitude: -70.216
 ---

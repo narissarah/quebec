@@ -1,6 +1,6 @@
 ---
 title: Sayabec
 url: /sayabec/
-latitude: 48.566157000000004
-longitude: -67.688141
+latitude: 48.565
+longitude: -67.677
 ---

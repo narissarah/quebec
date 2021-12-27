@@ -1,6 +1,6 @@
 ---
 title: Lasalle
 url: /lasalle/
-latitude: 
-longitude: 
+latitude: 45.449
+longitude: -73.616
 ---

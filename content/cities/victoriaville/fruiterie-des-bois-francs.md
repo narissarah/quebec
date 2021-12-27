@@ -1,5 +1,5 @@
 ---
 title: "Fruiterie des Bois-Francs"
 url: /victoriaville/fruiterie-des-bois-francs/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

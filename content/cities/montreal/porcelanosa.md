@@ -1,5 +1,5 @@
 ---
 title: "Porcelanosa"
 url: /montreal/porcelanosa/
-shop: tiles
+shop: Fliesen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boutique Fashion Wear"
 url: /vaudreuil-dorion/boutique-fashion-wear/
-shop: clothes
+shop: Kleidung
 ---

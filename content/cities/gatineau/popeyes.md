@@ -1,5 +1,5 @@
 ---
 title: "Popeye's"
 url: /gatineau/popeyes/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

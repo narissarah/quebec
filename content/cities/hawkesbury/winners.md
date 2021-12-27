@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /hawkesbury/winners/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Maria
 url: /maria/
-latitude: 48.174181000000004
-longitude: -65.98230720000001
+latitude: 48.174
+longitude: -65.983
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Mix"
 url: /montreal/depanneur-mix/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Abyss"
 url: /montreal/labyss/
-shop: video games
+shop: Videospiele
 ---

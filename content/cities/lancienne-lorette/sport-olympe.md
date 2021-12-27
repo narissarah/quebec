@@ -1,5 +1,5 @@
 ---
 title: "Sport Olympe"
 url: /lancienne-lorette/sport-olympe/
-shop: bicycle
+shop: Fahrrad
 ---

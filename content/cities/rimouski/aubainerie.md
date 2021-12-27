@@ -1,5 +1,5 @@
 ---
 title: "Aubainerie"
 url: /rimouski/aubainerie/
-shop: clothes
+shop: Kleidung
 ---

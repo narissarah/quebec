@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /fermont/esso/
-shop: supermarket
+shop: Supermarkt
 ---

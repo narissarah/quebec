@@ -1,5 +1,5 @@
 ---
 title: "Mazda Victoriaville"
 url: /victoriaville/mazda-victoriaville/
-shop: car
+shop: Autohaus
 ---

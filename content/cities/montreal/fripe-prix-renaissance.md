@@ -1,5 +1,5 @@
 ---
 title: "Fripe-prix Renaissance"
 url: /montreal/fripe-prix-renaissance/
-shop: charity
+shop: Gebrauchtwaren
 ---

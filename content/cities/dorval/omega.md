@@ -1,5 +1,5 @@
 ---
 title: "Omega"
 url: /dorval/omega/
-shop: watches
+shop: Uhren
 ---

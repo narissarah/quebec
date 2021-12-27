@@ -1,6 +1,6 @@
 ---
 title: Saint-Félicien
 url: /saint-felicien/
-latitude: 48.654232
-longitude: -72.448654
+latitude: 48.651
+longitude: -72.444
 ---

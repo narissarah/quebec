@@ -1,5 +1,5 @@
 ---
 title: "Magifil"
 url: /gatineau/magifil/
-shop: sewing
+shop: Nähzubehör
 ---

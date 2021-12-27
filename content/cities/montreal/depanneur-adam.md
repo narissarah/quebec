@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Adam"
 url: /montreal/depanneur-adam/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: chibouga
 url: /chibouga/
-latitude: 
-longitude: 
+latitude: 49.914
+longitude: -74.361
 ---

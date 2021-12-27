@@ -1,6 +1,6 @@
 ---
 title: Saint-Antonin
 url: /saint-antonin/
-latitude: 
-longitude: 
+latitude: 47.76
+longitude: -69.432
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boni-Soir"
 url: /vaudreuil-dorion/boni-soir/
-shop: convenience
+shop: Lebensmittel
 ---

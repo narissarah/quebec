@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /trois-rivieres/ford/
-shop: car
+shop: Autohaus
 ---

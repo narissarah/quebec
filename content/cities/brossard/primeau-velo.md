@@ -1,5 +1,5 @@
 ---
 title: "Primeau Vélo"
 url: /brossard/primeau-velo/
-shop: bicycle
+shop: Fahrrad
 ---

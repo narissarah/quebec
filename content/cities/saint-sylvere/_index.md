@@ -1,6 +1,6 @@
 ---
 title: Saint-Sylvère
 url: /saint-sylvere/
-latitude: 46.2334533
-longitude: -72.224102
+latitude: 46.232
+longitude: -72.222
 ---

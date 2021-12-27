@@ -1,5 +1,5 @@
 ---
 title: "Fleuriste Juliette"
 url: /sainte-therese/fleuriste-juliette/
-shop: florist
+shop: Blumen
 ---

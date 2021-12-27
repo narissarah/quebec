@@ -1,5 +1,5 @@
 ---
 title: "Colorie Coiffure"
 url: /vaudreuil-dorion/colorie-coiffure/
-shop: hairdresser
+shop: Friseur
 ---

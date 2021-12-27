@@ -1,6 +1,6 @@
 ---
 title: Mandeville
 url: /mandeville/
-latitude: 
-longitude: 
+latitude: 46.34
+longitude: -73.374
 ---

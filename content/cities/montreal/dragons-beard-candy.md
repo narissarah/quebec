@@ -1,5 +1,5 @@
 ---
 title: "Dragon's Beard Candy"
 url: /montreal/dragons-beard-candy/
-shop: confectionery
+shop: Süßwaren
 ---

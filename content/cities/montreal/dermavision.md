@@ -1,5 +1,5 @@
 ---
 title: "Dermavision"
 url: /montreal/dermavision/
-shop: beauty
+shop: Kosmetik
 ---

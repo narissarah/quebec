@@ -1,5 +1,5 @@
 ---
 title: "L'Equipeur"
 url: /trois-rivieres/lequipeur/
-shop: clothes
+shop: Kleidung
 ---

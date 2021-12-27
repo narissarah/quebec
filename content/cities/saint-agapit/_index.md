@@ -1,6 +1,6 @@
 ---
 title: Saint-Agapit
 url: /saint-agapit/
-latitude: 46.562873
-longitude: -71.435165
+latitude: 46.567
+longitude: -71.439
 ---

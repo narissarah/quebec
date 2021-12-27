@@ -1,6 +1,6 @@
 ---
 title: Fermont
 url: /fermont/
-latitude: 52.7931065
-longitude: -67.0845797
+latitude: 52.799
+longitude: -67.084
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marché Richelieu"
 url: /huberdeau/marche-richelieu/
-shop: supermarket
+shop: Supermarkt
 ---

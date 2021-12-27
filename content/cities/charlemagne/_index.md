@@ -1,6 +1,6 @@
 ---
 title: Charlemagne
 url: /charlemagne/
-latitude: 45.7204245
-longitude: -73.4862416
+latitude: 45.721
+longitude: -73.493
 ---

@@ -1,6 +1,6 @@
 ---
 title: Montréal-Nord
 url: /montreal-nord/
-latitude: 
-longitude: 
+latitude: 45.607
+longitude: -73.619
 ---
