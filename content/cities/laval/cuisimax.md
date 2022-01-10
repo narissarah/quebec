@@ -1,5 +1,5 @@
 ---
 title: "Cuisimax"
 url: /laval/cuisimax/
-shop: Küchen
+shop: kitchen
 ---

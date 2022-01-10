@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Chelsea"
 url: /chelsea/quincaillerie-chelsea/
-shop: Eisenwaren
+shop: hardware
 ---

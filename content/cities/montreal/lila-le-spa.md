@@ -1,5 +1,5 @@
 ---
 title: "Lila le Spa"
 url: /montreal/lila-le-spa/
-shop: Kosmetik
+shop: beauty
 ---

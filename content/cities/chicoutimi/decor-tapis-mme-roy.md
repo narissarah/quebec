@@ -1,5 +1,5 @@
 ---
 title: "DÉCOR TAPIS MME ROY"
 url: /chicoutimi/decor-tapis-mme-roy/
-shop: Möbel
+shop: furniture
 ---

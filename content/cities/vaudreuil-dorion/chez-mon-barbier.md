@@ -1,5 +1,5 @@
 ---
 title: "Chez Mon Barbier"
 url: /vaudreuil-dorion/chez-mon-barbier/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DYNO"
 url: /quebec/dyno/
-shop: Tiere
+shop: pet
 ---

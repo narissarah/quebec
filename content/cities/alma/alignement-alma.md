@@ -1,5 +1,5 @@
 ---
 title: "Alignement Alma"
 url: /alma/alignement-alma/
-shop: Autowerkstatt
+shop: car repair
 ---

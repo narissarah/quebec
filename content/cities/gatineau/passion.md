@@ -1,5 +1,5 @@
 ---
 title: "Passion"
 url: /gatineau/passion/
-shop: Friseur
+shop: hairdresser
 ---

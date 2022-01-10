@@ -1,5 +1,5 @@
 ---
 title: "Marché Tradition"
 url: /saint-liboire/marche-tradition/
-shop: Supermarkt
+shop: supermarket
 ---

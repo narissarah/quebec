@@ -1,5 +1,5 @@
 ---
 title: "Salon ISIS"
 url: /quebec/salon-isis/
-shop: Friseur
+shop: hairdresser
 ---

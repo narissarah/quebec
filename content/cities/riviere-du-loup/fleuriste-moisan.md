@@ -1,5 +1,5 @@
 ---
 title: "Fleuriste Moisan"
 url: /riviere-du-loup/fleuriste-moisan/
-shop: Blumen
+shop: florist
 ---

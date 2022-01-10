@@ -1,5 +1,5 @@
 ---
 title: "Volume"
 url: /montreal/volume/
-shop: Bücher
+shop: books
 ---

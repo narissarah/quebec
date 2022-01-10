@@ -1,5 +1,5 @@
 ---
 title: "Oscar"
 url: /montreal/oscar/
-shop: Süßwaren
+shop: confectionery
 ---

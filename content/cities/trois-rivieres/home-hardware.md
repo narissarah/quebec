@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /trois-rivieres/home-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

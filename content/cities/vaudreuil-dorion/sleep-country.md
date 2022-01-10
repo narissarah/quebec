@@ -1,5 +1,5 @@
 ---
 title: "Sleep Country"
 url: /vaudreuil-dorion/sleep-country/
-shop: Betten
+shop: bed
 ---

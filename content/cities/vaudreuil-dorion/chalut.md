@@ -1,5 +1,5 @@
 ---
 title: "Chalut"
 url: /vaudreuil-dorion/chalut/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

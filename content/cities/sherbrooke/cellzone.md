@@ -1,5 +1,5 @@
 ---
 title: "Cellzone"
 url: /sherbrooke/cellzone/
-shop: Handy
+shop: mobile phone
 ---

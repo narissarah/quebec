@@ -1,5 +1,5 @@
 ---
 title: "Dollyswan"
 url: /montreal/dollyswan/
-shop: Kosmetik
+shop: beauty
 ---

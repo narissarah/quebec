@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
 url: /pincourt/maxi/
-shop: Supermarkt
+shop: supermarket
 ---

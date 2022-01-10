@@ -1,5 +1,5 @@
 ---
 title: "Digital Communication (Telus)"
 url: /mont-laurier/digital-communication-telus/
-shop: Elektronik
+shop: electronics
 ---

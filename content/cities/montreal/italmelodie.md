@@ -1,5 +1,5 @@
 ---
 title: "Italmelodie"
 url: /montreal/italmelodie/
-shop: Instrumente
+shop: musical instrument
 ---

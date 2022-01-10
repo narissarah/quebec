@@ -1,5 +1,5 @@
 ---
 title: "Couche-Tard"
 url: /montreal/couche-tard-7/
-shop: Lebensmittel
+shop: convenience
 ---

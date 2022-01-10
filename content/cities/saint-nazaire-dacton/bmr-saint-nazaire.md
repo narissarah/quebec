@@ -1,5 +1,5 @@
 ---
 title: "BMR Saint-Nazaire"
 url: /saint-nazaire-dacton/bmr-saint-nazaire/
-shop: Eisenwaren
+shop: hardware
 ---

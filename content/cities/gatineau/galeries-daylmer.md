@@ -1,5 +1,5 @@
 ---
 title: "Galeries d'Aylmer"
 url: /gatineau/galeries-daylmer/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Electrolux"
 url: /verdun/electrolux/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

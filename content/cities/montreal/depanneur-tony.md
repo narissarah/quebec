@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Tony"
 url: /montreal/depanneur-tony/
-shop: Lebensmittel
+shop: convenience
 ---

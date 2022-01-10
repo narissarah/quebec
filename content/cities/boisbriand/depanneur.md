@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur"
 url: /boisbriand/depanneur/
-shop: Lebensmittel
+shop: convenience
 ---

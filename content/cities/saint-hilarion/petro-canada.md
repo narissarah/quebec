@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /saint-hilarion/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

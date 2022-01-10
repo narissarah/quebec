@@ -1,5 +1,5 @@
 ---
 title: "Top Chik"
 url: /laval/top-chik/
-shop: Friseur
+shop: hairdresser
 ---

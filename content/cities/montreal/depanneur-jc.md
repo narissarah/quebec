@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur JC"
 url: /montreal/depanneur-jc/
-shop: Kramladen
+shop: variety store
 ---

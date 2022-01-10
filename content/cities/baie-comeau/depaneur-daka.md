@@ -1,5 +1,5 @@
 ---
 title: "Depaneur Daka"
 url: /baie-comeau/depaneur-daka/
-shop: Lebensmittel
+shop: convenience
 ---

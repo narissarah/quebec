@@ -1,5 +1,5 @@
 ---
 title: "Structube"
 url: /montreal/structube/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ophir"
 url: /montreal/ophir/
-shop: Haushaltsartikel
+shop: houseware
 ---

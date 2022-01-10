@@ -1,5 +1,5 @@
 ---
 title: "Frenette Bicyclettes"
 url: /saint-raymond/frenette-bicyclettes/
-shop: Fahrrad
+shop: bicycle
 ---

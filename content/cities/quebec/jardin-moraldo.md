@@ -1,5 +1,5 @@
 ---
 title: "Jardin moraldo"
 url: /quebec/jardin-moraldo/
-shop: Blumen
+shop: florist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Arundel Provisions"
 url: /arundel/arundel-provisions/
-shop: Lebensmittel
+shop: convenience
 ---

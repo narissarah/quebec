@@ -1,5 +1,5 @@
 ---
 title: "Accès Électronique"
 url: /quebec/acces-electronique/
-shop: Elektronik
+shop: electronics
 ---

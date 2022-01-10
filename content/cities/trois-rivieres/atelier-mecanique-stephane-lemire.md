@@ -1,5 +1,5 @@
 ---
 title: "Atelier Mécanique Stéphane Lemire"
 url: /trois-rivieres/atelier-mecanique-stephane-lemire/
-shop: Autowerkstatt
+shop: car repair
 ---

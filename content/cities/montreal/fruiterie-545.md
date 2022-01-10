@@ -1,5 +1,5 @@
 ---
 title: "Fruiterie 545"
 url: /montreal/fruiterie-545/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

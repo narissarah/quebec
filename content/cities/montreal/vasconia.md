@@ -1,5 +1,5 @@
 ---
 title: "Vasconia"
 url: /montreal/vasconia/
-shop: Bäckerei
+shop: bakery
 ---

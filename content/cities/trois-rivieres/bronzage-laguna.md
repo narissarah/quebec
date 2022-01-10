@@ -1,5 +1,5 @@
 ---
 title: "Bronzage Laguna"
 url: /trois-rivieres/bronzage-laguna/
-shop: Kosmetik
+shop: beauty
 ---

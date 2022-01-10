@@ -1,5 +1,5 @@
 ---
 title: "Natiking"
 url: /montreal/natiking/
-shop: Kleidung
+shop: clothes
 ---

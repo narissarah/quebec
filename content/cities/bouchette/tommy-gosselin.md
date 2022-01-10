@@ -1,5 +1,5 @@
 ---
 title: "Tommy Gosselin"
 url: /bouchette/tommy-gosselin/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Club Piscine"
 url: /gatineau/club-piscine/
-shop: Pool
+shop: swimming pool
 ---

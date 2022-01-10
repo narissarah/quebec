@@ -1,5 +1,5 @@
 ---
 title: "Cafe Plus"
 url: /saint-eustache/cafe-plus/
-shop: Kaffee
+shop: coffee
 ---

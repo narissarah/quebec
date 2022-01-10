@@ -1,5 +1,5 @@
 ---
 title: "Espace Houblon"
 url: /saint-eustache/espace-houblon/
-shop: Spirituosen
+shop: alcohol
 ---

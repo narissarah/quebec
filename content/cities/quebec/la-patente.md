@@ -1,5 +1,5 @@
 ---
 title: "La Patente"
 url: /quebec/la-patente/
-shop: Allgemein
+shop: shop
 ---

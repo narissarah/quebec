@@ -1,5 +1,5 @@
 ---
 title: "Dyad"
 url: /montreal/dyad/
-shop: Fahrrad
+shop: bicycle
 ---

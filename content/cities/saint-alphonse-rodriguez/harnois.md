@@ -1,5 +1,5 @@
 ---
 title: "Harnois"
 url: /saint-alphonse-rodriguez/harnois/
-shop: Lebensmittel
+shop: convenience
 ---

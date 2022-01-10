@@ -1,5 +1,5 @@
 ---
 title: "Rogers"
 url: /vaudreuil-dorion/rogers/
-shop: Handy
+shop: mobile phone
 ---

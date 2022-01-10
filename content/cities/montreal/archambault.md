@@ -1,5 +1,5 @@
 ---
 title: "Archambault"
 url: /montreal/archambault/
-shop: Schreibwaren
+shop: office supplies
 ---

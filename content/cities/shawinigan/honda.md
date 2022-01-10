@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /shawinigan/honda/
-shop: Autohaus
+shop: car
 ---

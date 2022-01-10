@@ -1,5 +1,5 @@
 ---
 title: "Zeina"
 url: /montreal/zeina/
-shop: Leerstehend
+shop: vacant
 ---

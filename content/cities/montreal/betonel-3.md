@@ -1,5 +1,5 @@
 ---
 title: "Bétonel"
 url: /montreal/betonel-3/
-shop: Farben
+shop: paint
 ---

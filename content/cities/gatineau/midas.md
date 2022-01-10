@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /gatineau/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

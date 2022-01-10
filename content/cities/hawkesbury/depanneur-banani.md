@@ -1,5 +1,5 @@
 ---
 title: "Depanneur Banani"
 url: /hawkesbury/depanneur-banani/
-shop: Lebensmittel
+shop: convenience
 ---

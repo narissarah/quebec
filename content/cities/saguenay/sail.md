@@ -1,5 +1,5 @@
 ---
 title: "Sail"
 url: /saguenay/sail/
-shop: Outdoor
+shop: outdoor
 ---

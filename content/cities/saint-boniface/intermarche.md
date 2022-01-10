@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /saint-boniface/intermarche/
-shop: Supermarkt
+shop: supermarket
 ---

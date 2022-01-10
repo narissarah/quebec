@@ -1,5 +1,5 @@
 ---
 title: "Litresits"
 url: /montreal/litresits/
-shop: Optiker
+shop: optician
 ---

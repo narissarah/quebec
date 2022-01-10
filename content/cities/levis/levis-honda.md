@@ -1,5 +1,5 @@
 ---
 title: "Lévis Honda"
 url: /levis/levis-honda/
-shop: Autohaus
+shop: car
 ---

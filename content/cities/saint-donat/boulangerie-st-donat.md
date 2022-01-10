@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie St-Donat"
 url: /saint-donat/boulangerie-st-donat/
-shop: Bäckerei
+shop: bakery
 ---

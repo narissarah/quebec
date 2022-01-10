@@ -1,5 +1,5 @@
 ---
 title: "Pâtisserie Boulangerie Ann"
 url: /contrecoeur/patisserie-boulangerie-ann/
-shop: Bäckerei
+shop: bakery
 ---

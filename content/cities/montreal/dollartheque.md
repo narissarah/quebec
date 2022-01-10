@@ -1,5 +1,5 @@
 ---
 title: "Dollarthèque"
 url: /montreal/dollartheque/
-shop: Kramladen
+shop: variety store
 ---

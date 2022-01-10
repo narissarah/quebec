@@ -1,5 +1,5 @@
 ---
 title: "La sellerie de la Chambrière"
 url: /quebec/la-sellerie-de-la-chambriere/
-shop: Sport
+shop: sports
 ---

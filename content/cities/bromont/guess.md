@@ -1,5 +1,5 @@
 ---
 title: "Guess"
 url: /bromont/guess/
-shop: Kleidung
+shop: clothes
 ---

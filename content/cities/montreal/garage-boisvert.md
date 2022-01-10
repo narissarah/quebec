@@ -1,5 +1,5 @@
 ---
 title: "Garage Boisvert"
 url: /montreal/garage-boisvert/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reitmans"
 url: /montreal/reitmans/
-shop: Kleidung
+shop: clothes
 ---

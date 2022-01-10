@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /pierrefonds/saq/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Robert Beaulieu"
 url: /quebec/garage-robert-beaulieu/
-shop: Autowerkstatt
+shop: car repair
 ---

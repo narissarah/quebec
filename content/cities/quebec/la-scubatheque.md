@@ -1,5 +1,5 @@
 ---
 title: "La Scubathèque"
 url: /quebec/la-scubatheque/
-shop: Tauchen
+shop: diving
 ---

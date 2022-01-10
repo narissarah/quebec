@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Boni-soir"
 url: /montreal/depanneur-boni-soir/
-shop: Lebensmittel
+shop: convenience
 ---

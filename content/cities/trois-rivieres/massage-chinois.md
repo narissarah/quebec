@@ -1,5 +1,5 @@
 ---
 title: "Massage chinois"
 url: /trois-rivieres/massage-chinois/
-shop: Massage
+shop: massage
 ---

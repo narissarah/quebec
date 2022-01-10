@@ -1,5 +1,5 @@
 ---
 title: "Cyclosphère Sport"
 url: /mirabel/cyclosphere-sport/
-shop: Fahrrad
+shop: bicycle
 ---

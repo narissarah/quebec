@@ -1,5 +1,5 @@
 ---
 title: "Rebelle"
 url: /gatineau/rebelle/
-shop: Tattoo
+shop: tattoo
 ---

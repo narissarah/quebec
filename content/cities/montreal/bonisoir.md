@@ -1,5 +1,5 @@
 ---
 title: "Bonisoir"
 url: /montreal/bonisoir/
-shop: Lebensmittel
+shop: convenience
 ---

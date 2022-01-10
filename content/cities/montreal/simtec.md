@@ -1,5 +1,5 @@
 ---
 title: "Simtec"
 url: /montreal/simtec/
-shop: Autowerkstatt
+shop: car repair
 ---

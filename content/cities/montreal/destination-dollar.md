@@ -1,5 +1,5 @@
 ---
 title: "Destination Dollar"
 url: /montreal/destination-dollar/
-shop: Kramladen
+shop: variety store
 ---

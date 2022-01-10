@@ -1,5 +1,5 @@
 ---
 title: "Easyhome"
 url: /montreal/easyhome/
-shop: Möbel
+shop: furniture
 ---

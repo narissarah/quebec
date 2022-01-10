@@ -1,5 +1,5 @@
 ---
 title: "Clinique d'optométrie Ofocus"
 url: /lancienne-lorette/clinique-doptometrie-ofocus/
-shop: Optiker
+shop: optician
 ---

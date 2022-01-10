@@ -1,5 +1,5 @@
 ---
 title: "Tattoo Shack"
 url: /quebec/tattoo-shack/
-shop: Tattoo
+shop: tattoo
 ---

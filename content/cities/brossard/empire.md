@@ -1,5 +1,5 @@
 ---
 title: "Empire"
 url: /brossard/empire/
-shop: Kleidung
+shop: clothes
 ---

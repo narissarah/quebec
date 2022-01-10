@@ -1,5 +1,5 @@
 ---
 title: "iluce concept"
 url: /montreal/iluce-concept/
-shop: Lampen
+shop: lamps
 ---

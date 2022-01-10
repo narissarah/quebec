@@ -1,5 +1,5 @@
 ---
 title: "IGA Extra"
 url: /rimouski/iga-extra-2/
-shop: Supermarkt
+shop: supermarket
 ---

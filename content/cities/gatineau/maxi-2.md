@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
 url: /gatineau/maxi-2/
-shop: Supermarkt
+shop: supermarket
 ---

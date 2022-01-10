@@ -1,5 +1,5 @@
 ---
 title: "L'Équipeur"
 url: /greenfield-park/lequipeur/
-shop: Kleidung
+shop: clothes
 ---

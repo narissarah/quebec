@@ -1,5 +1,5 @@
 ---
 title: "Foodland"
 url: /mattawa/foodland/
-shop: Supermarkt
+shop: supermarket
 ---

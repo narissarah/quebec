@@ -1,5 +1,5 @@
 ---
 title: "Ô Masculin Coiffure"
 url: /sherbrooke/o-masculin-coiffure/
-shop: Friseur
+shop: hairdresser
 ---

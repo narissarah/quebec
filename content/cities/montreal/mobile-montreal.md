@@ -1,5 +1,5 @@
 ---
 title: "Mobile Montréal"
 url: /montreal/mobile-montreal/
-shop: Handy
+shop: mobile phone
 ---

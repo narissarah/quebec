@@ -1,5 +1,5 @@
 ---
 title: "Estheti-Ka"
 url: /gatineau/estheti-ka/
-shop: Kosmetik
+shop: beauty
 ---

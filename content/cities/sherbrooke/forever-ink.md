@@ -1,5 +1,5 @@
 ---
 title: "Forever Ink"
 url: /sherbrooke/forever-ink/
-shop: Tattoo
+shop: tattoo
 ---

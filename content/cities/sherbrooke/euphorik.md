@@ -1,5 +1,5 @@
 ---
 title: "Euphorik"
 url: /sherbrooke/euphorik/
-shop: Friseur
+shop: hairdresser
 ---

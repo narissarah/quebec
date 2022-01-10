@@ -1,5 +1,5 @@
 ---
 title: "Adonis"
 url: /montreal/adonis-3/
-shop: Supermarkt
+shop: supermarket
 ---

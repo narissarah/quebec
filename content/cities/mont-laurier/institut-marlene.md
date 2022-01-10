@@ -1,5 +1,5 @@
 ---
 title: "Institut Marlène"
 url: /mont-laurier/institut-marlene/
-shop: Kosmetik
+shop: beauty
 ---

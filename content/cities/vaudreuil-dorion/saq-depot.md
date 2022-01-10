@@ -1,5 +1,5 @@
 ---
 title: "SAQ Dépôt"
 url: /vaudreuil-dorion/saq-depot/
-shop: Spirituosen
+shop: alcohol
 ---

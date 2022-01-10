@@ -1,5 +1,5 @@
 ---
 title: "Nordsouth Gallery"
 url: /montreal/nordsouth-gallery/
-shop: Kunst
+shop: art
 ---

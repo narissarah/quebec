@@ -1,5 +1,5 @@
 ---
 title: "Canac"
 url: /drummondville/canac/
-shop: Eisenwaren
+shop: hardware
 ---

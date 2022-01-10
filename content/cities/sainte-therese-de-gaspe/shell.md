@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /sainte-therese-de-gaspe/shell/
-shop: Lebensmittel
+shop: convenience
 ---

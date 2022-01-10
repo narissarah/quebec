@@ -1,5 +1,5 @@
 ---
 title: "Ongle Luxe Spa"
 url: /montreal/ongle-luxe-spa/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "adidas"
 url: /boisbriand/adidas/
-shop: Sport
+shop: sports
 ---

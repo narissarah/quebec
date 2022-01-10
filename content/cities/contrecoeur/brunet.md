@@ -1,5 +1,5 @@
 ---
 title: "Brunet"
 url: /contrecoeur/brunet/
-shop: Drogerie
+shop: chemist
 ---

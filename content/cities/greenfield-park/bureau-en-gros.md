@@ -1,5 +1,5 @@
 ---
 title: "Bureau en Gros"
 url: /greenfield-park/bureau-en-gros/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Buanderie Cayen"
 url: /hawkesbury/buanderie-cayen-2/
-shop: Wäscherei
+shop: laundry
 ---

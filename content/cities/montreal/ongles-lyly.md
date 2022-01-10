@@ -1,5 +1,5 @@
 ---
 title: "Ongles Lyly"
 url: /montreal/ongles-lyly/
-shop: Kosmetik
+shop: beauty
 ---

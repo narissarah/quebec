@@ -1,5 +1,5 @@
 ---
 title: "Tigre Express"
 url: /montreal/tigre-express/
-shop: Lebensmittel
+shop: convenience
 ---

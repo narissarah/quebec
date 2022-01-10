@@ -1,5 +1,5 @@
 ---
 title: "Sports Experts Bonaventure"
 url: /bonaventure/sports-experts-bonaventure/
-shop: Sport
+shop: sports
 ---

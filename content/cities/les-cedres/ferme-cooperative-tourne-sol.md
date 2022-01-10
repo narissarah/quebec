@@ -1,5 +1,5 @@
 ---
 title: "Ferme coopérative Tourne-Sol"
 url: /les-cedres/ferme-cooperative-tourne-sol/
-shop: Hofladen
+shop: farm
 ---

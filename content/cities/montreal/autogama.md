@@ -1,5 +1,5 @@
 ---
 title: "AutoGama"
 url: /montreal/autogama/
-shop: Autowerkstatt
+shop: car repair
 ---

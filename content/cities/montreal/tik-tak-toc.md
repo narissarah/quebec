@@ -1,5 +1,5 @@
 ---
 title: "Tik Tak Toc"
 url: /montreal/tik-tak-toc/
-shop: Spielzeug
+shop: toys
 ---

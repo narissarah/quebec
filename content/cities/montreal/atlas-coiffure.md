@@ -1,5 +1,5 @@
 ---
 title: "Atlas Coiffure"
 url: /montreal/atlas-coiffure/
-shop: Friseur
+shop: hairdresser
 ---

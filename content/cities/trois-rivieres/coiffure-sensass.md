@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Sensass"
 url: /trois-rivieres/coiffure-sensass/
-shop: Friseur
+shop: hairdresser
 ---

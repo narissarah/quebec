@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
 url: /mont-saint-hilaire/maxi/
-shop: Supermarkt
+shop: supermarket
 ---

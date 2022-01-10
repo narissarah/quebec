@@ -1,5 +1,5 @@
 ---
 title: "Atelier Vélo Expert"
 url: /shawinigan/atelier-velo-expert/
-shop: Fahrrad
+shop: bicycle
 ---

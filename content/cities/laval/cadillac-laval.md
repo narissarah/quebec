@@ -1,5 +1,5 @@
 ---
 title: "Cadillac Laval"
 url: /laval/cadillac-laval/
-shop: Autohaus
+shop: car
 ---

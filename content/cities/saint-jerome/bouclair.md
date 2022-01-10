@@ -1,5 +1,5 @@
 ---
 title: "Bouclair"
 url: /saint-jerome/bouclair/
-shop: Lebensmittel
+shop: convenience
 ---

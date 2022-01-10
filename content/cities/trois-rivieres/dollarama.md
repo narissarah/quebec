@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /trois-rivieres/dollarama/
-shop: Kramladen
+shop: variety store
 ---

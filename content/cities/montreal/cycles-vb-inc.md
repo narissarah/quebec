@@ -1,5 +1,5 @@
 ---
 title: "Cycles VB Inc"
 url: /montreal/cycles-vb-inc/
-shop: Fahrrad
+shop: bicycle
 ---

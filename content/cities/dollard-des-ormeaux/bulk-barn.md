@@ -1,5 +1,5 @@
 ---
 title: "Bulk Barn"
 url: /dollard-des-ormeaux/bulk-barn/
-shop: Supermarkt
+shop: supermarket
 ---

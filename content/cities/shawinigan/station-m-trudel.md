@@ -1,5 +1,5 @@
 ---
 title: "Station M Trudel"
 url: /shawinigan/station-m-trudel/
-shop: Autowerkstatt
+shop: car repair
 ---

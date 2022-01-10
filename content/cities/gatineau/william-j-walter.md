@@ -1,5 +1,5 @@
 ---
 title: "William J. Walter"
 url: /gatineau/william-j-walter/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /shawinigan/carquest/
-shop: Autoteile
+shop: car parts
 ---

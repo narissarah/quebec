@@ -1,5 +1,5 @@
 ---
 title: "Auto Oui"
 url: /gatineau/auto-oui/
-shop: Autohaus
+shop: car
 ---

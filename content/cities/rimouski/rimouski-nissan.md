@@ -1,5 +1,5 @@
 ---
 title: "Rimouski Nissan"
 url: /rimouski/rimouski-nissan/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /gatineau/bell/
-shop: Handy
+shop: mobile phone
 ---

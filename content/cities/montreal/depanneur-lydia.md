@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Lydia"
 url: /montreal/depanneur-lydia/
-shop: Lebensmittel
+shop: convenience
 ---

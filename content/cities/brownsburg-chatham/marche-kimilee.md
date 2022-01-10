@@ -1,5 +1,5 @@
 ---
 title: "Marché Kimilee"
 url: /brownsburg-chatham/marche-kimilee/
-shop: Lebensmittel
+shop: convenience
 ---

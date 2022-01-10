@@ -1,5 +1,5 @@
 ---
 title: "Avril"
 url: /longueuil/avril/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ciseaux Sculpteurs"
 url: /sherbrooke/ciseaux-sculpteurs/
-shop: Friseur
+shop: hairdresser
 ---

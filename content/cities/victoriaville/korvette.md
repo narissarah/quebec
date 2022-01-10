@@ -1,5 +1,5 @@
 ---
 title: "Korvette"
 url: /victoriaville/korvette/
-shop: Kramladen
+shop: variety store
 ---

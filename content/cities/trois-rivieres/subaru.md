@@ -1,5 +1,5 @@
 ---
 title: "Subaru"
 url: /trois-rivieres/subaru/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Comptoir du livre"
 url: /quebec/le-comptoir-du-livre/
-shop: Bücher
+shop: books
 ---

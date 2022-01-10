@@ -1,5 +1,5 @@
 ---
 title: "Réno-Dépôt"
 url: /rimouski/reno-depot/
-shop: Eisenwaren
+shop: hardware
 ---

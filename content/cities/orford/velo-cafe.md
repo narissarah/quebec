@@ -1,5 +1,5 @@
 ---
 title: "Vélo Café"
 url: /orford/velo-cafe/
-shop: Fahrrad
+shop: bicycle
 ---

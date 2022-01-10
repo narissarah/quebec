@@ -1,5 +1,5 @@
 ---
 title: "Toys R Us"
 url: /brossard/toys-r-us/
-shop: Spielzeug
+shop: toys
 ---

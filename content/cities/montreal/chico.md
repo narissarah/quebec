@@ -1,5 +1,5 @@
 ---
 title: "Chico"
 url: /montreal/chico/
-shop: Tiere
+shop: pet
 ---

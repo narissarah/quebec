@@ -1,5 +1,5 @@
 ---
 title: "Napa"
 url: /levis/napa/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /gatineau/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

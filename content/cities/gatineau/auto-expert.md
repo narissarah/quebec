@@ -1,5 +1,5 @@
 ---
 title: "Auto-Expert"
 url: /gatineau/auto-expert/
-shop: Autowerkstatt
+shop: car repair
 ---

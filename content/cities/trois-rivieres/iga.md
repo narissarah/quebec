@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /trois-rivieres/iga/
-shop: Supermarkt
+shop: supermarket
 ---

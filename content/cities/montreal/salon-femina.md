@@ -1,5 +1,5 @@
 ---
 title: "Salon Femina"
 url: /montreal/salon-femina/
-shop: Friseur
+shop: hairdresser
 ---

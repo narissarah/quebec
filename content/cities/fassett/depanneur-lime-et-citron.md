@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Lime et Citron"
 url: /fassett/depanneur-lime-et-citron/
-shop: Lebensmittel
+shop: convenience
 ---

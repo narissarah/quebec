@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /rimouski/walmart/
-shop: Warenhaus
+shop: department store
 ---

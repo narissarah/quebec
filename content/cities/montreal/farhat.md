@@ -1,5 +1,5 @@
 ---
 title: "Farhat"
 url: /montreal/farhat/
-shop: Metzgerei
+shop: butcher
 ---

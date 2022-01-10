@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /brossard/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

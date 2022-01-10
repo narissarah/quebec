@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /quebec/marshalls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Voisin Bondville"
 url: /lac-brome/depanneur-voisin-bondville/
-shop: Lebensmittel
+shop: convenience
 ---

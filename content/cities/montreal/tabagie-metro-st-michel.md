@@ -1,5 +1,5 @@
 ---
 title: "Tabagie Metro St-Michel"
 url: /montreal/tabagie-metro-st-michel/
-shop: Tabak
+shop: tobacco
 ---

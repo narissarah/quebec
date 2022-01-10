@@ -1,5 +1,5 @@
 ---
 title: "Le Club Papetier"
 url: /rimouski/le-club-papetier/
-shop: Warenhaus
+shop: department store
 ---

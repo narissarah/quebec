@@ -1,5 +1,5 @@
 ---
 title: "Salon Coiffure Unisex"
 url: /potton/salon-coiffure-unisex/
-shop: Friseur
+shop: hairdresser
 ---

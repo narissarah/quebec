@@ -1,5 +1,5 @@
 ---
 title: "Dollorama"
 url: /shawinigan/dollorama/
-shop: Andenken
+shop: gift
 ---

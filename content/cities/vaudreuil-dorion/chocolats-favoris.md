@@ -1,5 +1,5 @@
 ---
 title: "Chocolats Favoris"
 url: /vaudreuil-dorion/chocolats-favoris/
-shop: Schokolade
+shop: chocolate
 ---

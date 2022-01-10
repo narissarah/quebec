@@ -1,5 +1,5 @@
 ---
 title: "Faut Fêter Ça"
 url: /shawinigan/faut-feter-ca/
-shop: Partyzubehör
+shop: party
 ---

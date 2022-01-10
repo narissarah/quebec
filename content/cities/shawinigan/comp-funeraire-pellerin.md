@@ -1,5 +1,5 @@
 ---
 title: "Comp Funéraire Pellerin"
 url: /shawinigan/comp-funeraire-pellerin/
-shop: Bestattungen
+shop: funeral directors
 ---

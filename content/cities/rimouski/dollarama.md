@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /rimouski/dollarama/
-shop: Kramladen
+shop: variety store
 ---

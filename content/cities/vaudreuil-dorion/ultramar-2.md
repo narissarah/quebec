@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /vaudreuil-dorion/ultramar-2/
-shop: Lebensmittel
+shop: convenience
 ---

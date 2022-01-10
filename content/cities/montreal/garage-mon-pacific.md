@@ -1,5 +1,5 @@
 ---
 title: "Garage Mon Pacific"
 url: /montreal/garage-mon-pacific/
-shop: Autowerkstatt
+shop: car repair
 ---

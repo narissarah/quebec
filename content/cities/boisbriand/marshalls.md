@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /boisbriand/marshalls/
-shop: Warenhaus
+shop: department store
 ---

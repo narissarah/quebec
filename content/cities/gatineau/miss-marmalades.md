@@ -1,5 +1,5 @@
 ---
 title: "Miss Marmalades"
 url: /gatineau/miss-marmalades/
-shop: Feinkost
+shop: deli
 ---

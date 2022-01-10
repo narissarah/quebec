@@ -1,5 +1,5 @@
 ---
 title: "Saigon Video"
 url: /montreal/saigon-video/
-shop: Allgemein
+shop: shop
 ---

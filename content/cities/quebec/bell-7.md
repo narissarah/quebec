@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /quebec/bell-7/
-shop: Handy
+shop: mobile phone
 ---

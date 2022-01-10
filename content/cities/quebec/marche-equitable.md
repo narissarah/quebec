@@ -1,5 +1,5 @@
 ---
 title: "Marché Équitable"
 url: /quebec/marche-equitable/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marché Chertsey Enr"
 url: /chertsey/marche-chertsey-enr/
-shop: Supermarkt
+shop: supermarket
 ---

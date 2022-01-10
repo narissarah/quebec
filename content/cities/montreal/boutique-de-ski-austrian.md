@@ -1,5 +1,5 @@
 ---
 title: "Boutique de ski Austrian"
 url: /montreal/boutique-de-ski-austrian/
-shop: Ski
+shop: ski
 ---

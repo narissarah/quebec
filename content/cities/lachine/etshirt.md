@@ -1,5 +1,5 @@
 ---
 title: "Etshirt"
 url: /lachine/etshirt/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Provigo"
 url: /saint-pascal/provigo/
-shop: Supermarkt
+shop: supermarket
 ---

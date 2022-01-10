@@ -1,5 +1,5 @@
 ---
 title: "Marché Fitch-Bay"
 url: /stanstead/marche-fitch-bay/
-shop: Supermarkt
+shop: supermarket
 ---

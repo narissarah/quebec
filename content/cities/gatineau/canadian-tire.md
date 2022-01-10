@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /gatineau/canadian-tire/
-shop: Warenhaus
+shop: department store
 ---

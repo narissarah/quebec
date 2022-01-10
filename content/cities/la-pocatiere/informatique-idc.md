@@ -1,5 +1,5 @@
 ---
 title: "Informatique IDC"
 url: /la-pocatiere/informatique-idc/
-shop: Warenhaus
+shop: department store
 ---

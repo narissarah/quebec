@@ -1,5 +1,5 @@
 ---
 title: "Lunetterie F.Thomé"
 url: /gatineau/lunetterie-f-thome/
-shop: Optiker
+shop: optician
 ---

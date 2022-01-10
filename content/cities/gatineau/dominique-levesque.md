@@ -1,5 +1,5 @@
 ---
 title: "Dominique Levesque"
 url: /gatineau/dominique-levesque/
-shop: Kleidung
+shop: clothes
 ---

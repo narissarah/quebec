@@ -1,5 +1,5 @@
 ---
 title: "Ultramar"
 url: /le-bic/ultramar/
-shop: Lebensmittel
+shop: convenience
 ---

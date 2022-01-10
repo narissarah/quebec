@@ -1,5 +1,5 @@
 ---
 title: "Vidéotron"
 url: /gatineau/videotron/
-shop: Handy
+shop: mobile phone
 ---

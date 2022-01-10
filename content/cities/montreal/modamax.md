@@ -1,5 +1,5 @@
 ---
 title: "Modamax"
 url: /montreal/modamax/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Opto Réseau"
 url: /vaudreuil-dorion/opto-reseau/
-shop: Optiker
+shop: optician
 ---

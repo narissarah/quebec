@@ -1,5 +1,5 @@
 ---
 title: "Langlois Opticien"
 url: /quebec/langlois-opticien/
-shop: Optiker
+shop: optician
 ---

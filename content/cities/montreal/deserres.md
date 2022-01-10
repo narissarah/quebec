@@ -1,5 +1,5 @@
 ---
 title: "DeSerres"
 url: /montreal/deserres/
-shop: Basteln
+shop: craft
 ---

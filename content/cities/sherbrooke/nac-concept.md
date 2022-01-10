@@ -1,5 +1,5 @@
 ---
 title: "NAC Concept"
 url: /sherbrooke/nac-concept/
-shop: Raumausstattung
+shop: interior decoration
 ---

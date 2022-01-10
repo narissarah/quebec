@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Jarry"
 url: /montreal/boulangerie-jarry/
-shop: Bäckerei
+shop: bakery
 ---

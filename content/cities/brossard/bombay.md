@@ -1,5 +1,5 @@
 ---
 title: "Bombay"
 url: /brossard/bombay/
-shop: Möbel
+shop: furniture
 ---

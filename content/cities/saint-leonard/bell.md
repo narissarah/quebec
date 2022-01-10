@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /saint-leonard/bell/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dantech"
 url: /montreal/dantech/
-shop: Computer
+shop: computer
 ---

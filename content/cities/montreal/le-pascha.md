@@ -1,5 +1,5 @@
 ---
 title: "Le Pascha"
 url: /montreal/le-pascha/
-shop: Kosmetik
+shop: beauty
 ---

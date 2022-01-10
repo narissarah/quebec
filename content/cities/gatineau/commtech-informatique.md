@@ -1,5 +1,5 @@
 ---
 title: "Commtech informatique"
 url: /gatineau/commtech-informatique/
-shop: Computer
+shop: computer
 ---

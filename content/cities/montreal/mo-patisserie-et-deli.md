@@ -1,5 +1,5 @@
 ---
 title: "Mo Patisserie et deli"
 url: /montreal/mo-patisserie-et-deli/
-shop: Konditorei
+shop: pastry
 ---

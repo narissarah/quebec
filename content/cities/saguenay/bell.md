@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /saguenay/bell/
-shop: Handy
+shop: mobile phone
 ---

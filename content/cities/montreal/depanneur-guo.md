@@ -1,5 +1,5 @@
 ---
 title: "Depanneur Guo"
 url: /montreal/depanneur-guo/
-shop: Lebensmittel
+shop: convenience
 ---

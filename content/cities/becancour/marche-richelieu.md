@@ -1,5 +1,5 @@
 ---
 title: "Marché Richelieu"
 url: /becancour/marche-richelieu/
-shop: Supermarkt
+shop: supermarket
 ---

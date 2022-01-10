@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /saint-donat/home-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

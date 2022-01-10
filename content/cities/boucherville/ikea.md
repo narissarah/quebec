@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /boucherville/ikea/
-shop: Möbel
+shop: furniture
 ---

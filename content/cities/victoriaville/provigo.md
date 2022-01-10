@@ -1,5 +1,5 @@
 ---
 title: "Provigo"
 url: /victoriaville/provigo/
-shop: Supermarkt
+shop: supermarket
 ---

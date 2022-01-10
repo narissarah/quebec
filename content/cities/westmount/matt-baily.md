@@ -1,5 +1,5 @@
 ---
 title: "Matt Baily"
 url: /westmount/matt-baily/
-shop: Schmuck
+shop: jewelry
 ---

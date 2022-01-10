@@ -1,5 +1,5 @@
 ---
 title: "Nettoyeur Jacques Roy"
 url: /montreal/nettoyeur-jacques-roy/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tigre Géant Mont-Laurier"
 url: /mont-laurier/tigre-geant-mont-laurier/
-shop: Warenhaus
+shop: department store
 ---

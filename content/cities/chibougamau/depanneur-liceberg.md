@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur l'Iceberg"
 url: /chibougamau/depanneur-liceberg/
-shop: Lebensmittel
+shop: convenience
 ---

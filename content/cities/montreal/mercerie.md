@@ -1,5 +1,5 @@
 ---
 title: "Mercerie"
 url: /montreal/mercerie/
-shop: Kleidung
+shop: clothes
 ---

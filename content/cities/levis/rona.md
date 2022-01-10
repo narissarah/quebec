@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /levis/rona/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RapidoGaz"
 url: /terrebonne/rapidogaz/
-shop: Gasflaschen
+shop: gas
 ---

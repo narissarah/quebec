@@ -1,5 +1,5 @@
 ---
 title: "Copitech SENC"
 url: /vaudreuil-dorion/copitech-senc/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Omer DeSerres"
 url: /brossard/omer-deserres/
-shop: Kunst
+shop: art
 ---

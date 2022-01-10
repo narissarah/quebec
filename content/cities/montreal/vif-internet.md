@@ -1,5 +1,5 @@
 ---
 title: "Vif Internet"
 url: /montreal/vif-internet/
-shop: Internetanbieter
+shop: internet service provider
 ---

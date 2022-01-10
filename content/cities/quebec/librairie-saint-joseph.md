@@ -1,5 +1,5 @@
 ---
 title: "Librairie Saint Joseph"
 url: /quebec/librairie-saint-joseph/
-shop: Bücher
+shop: books
 ---

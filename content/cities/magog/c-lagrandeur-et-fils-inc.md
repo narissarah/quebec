@@ -1,5 +1,5 @@
 ---
 title: "C. Lagrandeur et fils inc."
 url: /magog/c-lagrandeur-et-fils-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

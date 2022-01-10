@@ -1,5 +1,5 @@
 ---
 title: "L'Aubainerie"
 url: /gatineau/laubainerie-2/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dube"
 url: /gatineau/dube/
-shop: Autowerkstatt
+shop: car repair
 ---

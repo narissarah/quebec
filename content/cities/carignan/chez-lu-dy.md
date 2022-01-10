@@ -1,5 +1,5 @@
 ---
 title: "Chez Lu-Dy"
 url: /carignan/chez-lu-dy/
-shop: Lebensmittel
+shop: convenience
 ---

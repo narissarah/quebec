@@ -1,5 +1,5 @@
 ---
 title: "Trévi"
 url: /gatineau/trevi/
-shop: Pool
+shop: swimming pool
 ---

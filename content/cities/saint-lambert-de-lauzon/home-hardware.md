@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /saint-lambert-de-lauzon/home-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marché Métro"
 url: /montreal/marche-metro/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair Play"
 url: /montreal/hair-play/
-shop: Friseur
+shop: hairdresser
 ---

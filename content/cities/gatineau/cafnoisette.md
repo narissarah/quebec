@@ -1,5 +1,5 @@
 ---
 title: "Caf'Noisette"
 url: /gatineau/cafnoisette/
-shop: Kaffee
+shop: coffee
 ---

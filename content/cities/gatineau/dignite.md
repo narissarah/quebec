@@ -1,5 +1,5 @@
 ---
 title: "Dignité"
 url: /gatineau/dignite/
-shop: Bestattungen
+shop: funeral directors
 ---

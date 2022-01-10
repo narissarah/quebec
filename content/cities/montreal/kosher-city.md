@@ -1,5 +1,5 @@
 ---
 title: "Kosher City"
 url: /montreal/kosher-city/
-shop: Bäckerei
+shop: bakery
 ---

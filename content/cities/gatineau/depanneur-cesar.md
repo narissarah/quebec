@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur César"
 url: /gatineau/depanneur-cesar/
-shop: Lebensmittel
+shop: convenience
 ---

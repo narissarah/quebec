@@ -1,5 +1,5 @@
 ---
 title: "Marché ami"
 url: /sainte-angele-de-monnoir/marche-ami/
-shop: Lebensmittel
+shop: convenience
 ---

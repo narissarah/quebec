@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur P.A.T."
 url: /montreal/depanneur-p-a-t/
-shop: Lebensmittel
+shop: convenience
 ---

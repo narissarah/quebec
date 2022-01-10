@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Des Trois-Rivières"
 url: /trois-rivieres/boulangerie-des-trois-rivieres/
-shop: Bäckerei
+shop: bakery
 ---

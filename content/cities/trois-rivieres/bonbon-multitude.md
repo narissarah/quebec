@@ -1,5 +1,5 @@
 ---
 title: "Bonbon Multitude"
 url: /trois-rivieres/bonbon-multitude/
-shop: Süßwaren
+shop: confectionery
 ---

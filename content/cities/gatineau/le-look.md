@@ -1,5 +1,5 @@
 ---
 title: "Le Look"
 url: /gatineau/le-look/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mer Blue"
 url: /montreal/mer-blue/
-shop: Fisch
+shop: seafood
 ---

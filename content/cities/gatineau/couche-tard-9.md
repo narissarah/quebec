@@ -1,5 +1,5 @@
 ---
 title: "Couche-Tard"
 url: /gatineau/couche-tard-9/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "kayss Coiffure"
 url: /montreal/kayss-coiffure/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ongles Princesse"
 url: /montreal/ongles-princesse/
-shop: Kosmetik
+shop: beauty
 ---

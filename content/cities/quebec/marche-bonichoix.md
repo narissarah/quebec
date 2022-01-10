@@ -1,5 +1,5 @@
 ---
 title: "Marché Bonichoix"
 url: /quebec/marche-bonichoix/
-shop: Kramladen
+shop: variety store
 ---

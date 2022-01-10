@@ -1,5 +1,5 @@
 ---
 title: "Accès Physio"
 url: /chambly/acces-physio/
-shop: Sanitätshaus
+shop: medical supply
 ---

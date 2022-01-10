@@ -1,5 +1,5 @@
 ---
 title: "Haifax Salon Lafontaine"
 url: /riviere-du-loup/haifax-salon-lafontaine/
-shop: Friseur
+shop: hairdresser
 ---

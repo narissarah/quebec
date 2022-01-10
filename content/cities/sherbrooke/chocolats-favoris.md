@@ -1,5 +1,5 @@
 ---
 title: "Chocolats Favoris"
 url: /sherbrooke/chocolats-favoris/
-shop: Süßwaren
+shop: confectionery
 ---

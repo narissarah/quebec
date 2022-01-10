@@ -1,5 +1,5 @@
 ---
 title: "Lepine's"
 url: /chichester/lepines/
-shop: Autowerkstatt
+shop: car repair
 ---

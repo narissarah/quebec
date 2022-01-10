@@ -1,5 +1,5 @@
 ---
 title: "Les Délices Lafrenais"
 url: /brossard/les-delices-lafrenais/
-shop: Bäckerei
+shop: bakery
 ---

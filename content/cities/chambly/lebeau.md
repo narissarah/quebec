@@ -1,5 +1,5 @@
 ---
 title: "Lebeau"
 url: /chambly/lebeau/
-shop: Autowerkstatt
+shop: car repair
 ---

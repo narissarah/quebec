@@ -1,5 +1,5 @@
 ---
 title: "Breton Thibeault (Home Hardware)"
 url: /rouyn-noranda/breton-thibeault-home-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

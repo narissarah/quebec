@@ -1,5 +1,5 @@
 ---
 title: "Bibliophile"
 url: /montreal/bibliophile/
-shop: Bücher
+shop: books
 ---

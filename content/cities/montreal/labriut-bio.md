@@ -1,5 +1,5 @@
 ---
 title: "Labriut Bio"
 url: /montreal/labriut-bio/
-shop: Bioladen
+shop: health food
 ---

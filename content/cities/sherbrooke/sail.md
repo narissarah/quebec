@@ -1,5 +1,5 @@
 ---
 title: "Sail"
 url: /sherbrooke/sail/
-shop: Outdoor
+shop: outdoor
 ---

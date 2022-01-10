@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /matane/irving/
-shop: Lebensmittel
+shop: convenience
 ---

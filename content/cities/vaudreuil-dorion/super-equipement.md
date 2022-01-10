@@ -1,5 +1,5 @@
 ---
 title: "Super Équipement"
 url: /vaudreuil-dorion/super-equipement/
-shop: Autohaus
+shop: car
 ---

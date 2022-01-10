@@ -1,5 +1,5 @@
 ---
 title: "Clinique Plénitude"
 url: /sherbrooke/clinique-plenitude/
-shop: Kosmetik
+shop: beauty
 ---

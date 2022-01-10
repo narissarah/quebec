@@ -1,5 +1,5 @@
 ---
 title: "Amico"
 url: /sherbrooke/amico/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

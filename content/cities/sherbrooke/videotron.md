@@ -1,5 +1,5 @@
 ---
 title: "Vidéotron"
 url: /sherbrooke/videotron/
-shop: Handy
+shop: mobile phone
 ---

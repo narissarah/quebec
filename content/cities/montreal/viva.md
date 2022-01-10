@@ -1,5 +1,5 @@
 ---
 title: "Viva"
 url: /montreal/viva/
-shop: Kleidung
+shop: clothes
 ---

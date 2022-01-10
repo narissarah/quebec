@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /contrecoeur/iga/
-shop: Supermarkt
+shop: supermarket
 ---

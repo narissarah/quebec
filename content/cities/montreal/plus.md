@@ -1,5 +1,5 @@
 ---
 title: "$ Plus"
 url: /montreal/plus/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
 url: /brossard/jysk/
-shop: Möbel
+shop: furniture
 ---

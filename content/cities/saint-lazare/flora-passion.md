@@ -1,5 +1,5 @@
 ---
 title: "Flora Passion"
 url: /saint-lazare/flora-passion/
-shop: Blumen
+shop: florist
 ---

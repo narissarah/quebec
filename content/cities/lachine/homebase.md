@@ -1,5 +1,5 @@
 ---
 title: "Homebase"
 url: /lachine/homebase/
-shop: Baumarkt
+shop: doityourself
 ---

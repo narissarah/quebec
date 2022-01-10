@@ -1,5 +1,5 @@
 ---
 title: "Décoration Paré"
 url: /trois-rivieres/decoration-pare/
-shop: Farben
+shop: paint
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centre Réno-Déco Laferté"
 url: /drummondville/centre-reno-deco-laferte/
-shop: Baumarkt
+shop: doityourself
 ---

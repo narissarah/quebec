@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /paspebiac/irving/
-shop: Lebensmittel
+shop: convenience
 ---

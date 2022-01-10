@@ -1,5 +1,5 @@
 ---
 title: "MCD Entretien et Performance"
 url: /saint-boniface/mcd-entretien-et-performance/
-shop: Motorrad
+shop: motorcycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Copiexpert Plus"
 url: /gatineau/copiexpert-plus/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Univers Toutou"
 url: /brossard/univers-toutou/
-shop: Spielzeug
+shop: toys
 ---

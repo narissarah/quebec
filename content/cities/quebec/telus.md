@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /quebec/telus/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /chicoutimi/dollarama/
-shop: Kramladen
+shop: variety store
 ---

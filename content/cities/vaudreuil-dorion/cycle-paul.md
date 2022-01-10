@@ -1,5 +1,5 @@
 ---
 title: "Cycle Paul"
 url: /vaudreuil-dorion/cycle-paul/
-shop: Fahrrad
+shop: bicycle
 ---

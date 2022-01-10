@@ -1,5 +1,5 @@
 ---
 title: "Rona"
 url: /shawinigan/rona/
-shop: Baumarkt
+shop: doityourself
 ---

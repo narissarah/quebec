@@ -1,5 +1,5 @@
 ---
 title: "Collision Expert"
 url: /shawinigan/collision-expert/
-shop: Autowerkstatt
+shop: car repair
 ---

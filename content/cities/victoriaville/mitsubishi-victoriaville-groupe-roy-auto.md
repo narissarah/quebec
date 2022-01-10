@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi Victoriaville - Groupe Roy Auto"
 url: /victoriaville/mitsubishi-victoriaville-groupe-roy-auto/
-shop: Autohaus
+shop: car
 ---

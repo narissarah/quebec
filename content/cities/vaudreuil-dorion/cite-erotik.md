@@ -1,5 +1,5 @@
 ---
 title: "Cité Érotik"
 url: /vaudreuil-dorion/cite-erotik/
-shop: Erotik
+shop: erotic
 ---

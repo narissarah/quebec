@@ -1,5 +1,5 @@
 ---
 title: "SQDC"
 url: /sainte-therese/sqdc/
-shop: Hanf
+shop: cannabis
 ---

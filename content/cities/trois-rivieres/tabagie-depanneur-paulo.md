@@ -1,5 +1,5 @@
 ---
 title: "Tabagie Dépanneur Paulo"
 url: /trois-rivieres/tabagie-depanneur-paulo/
-shop: Lebensmittel
+shop: convenience
 ---

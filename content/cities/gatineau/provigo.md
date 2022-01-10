@@ -1,5 +1,5 @@
 ---
 title: "Provigo"
 url: /gatineau/provigo/
-shop: Supermarkt
+shop: supermarket
 ---

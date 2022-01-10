@@ -1,5 +1,5 @@
 ---
 title: "Liquidagolf"
 url: /magog/liquidagolf/
-shop: Golf
+shop: golf
 ---

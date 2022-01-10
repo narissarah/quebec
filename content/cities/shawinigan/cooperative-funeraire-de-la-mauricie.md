@@ -1,5 +1,5 @@
 ---
 title: "Coopérative Funéraire De La Mauricie"
 url: /shawinigan/cooperative-funeraire-de-la-mauricie/
-shop: Bestattungen
+shop: funeral directors
 ---

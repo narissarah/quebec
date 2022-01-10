@@ -1,5 +1,5 @@
 ---
 title: "Alimentation Raymond IGA"
 url: /quebec/alimentation-raymond-iga/
-shop: Supermarkt
+shop: supermarket
 ---

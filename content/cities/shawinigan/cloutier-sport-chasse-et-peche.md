@@ -1,5 +1,5 @@
 ---
 title: "Cloutier Sport Chasse Et Peche"
 url: /shawinigan/cloutier-sport-chasse-et-peche/
-shop: Jagd
+shop: hunting
 ---

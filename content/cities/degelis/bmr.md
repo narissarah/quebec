@@ -1,5 +1,5 @@
 ---
 title: "BMR"
 url: /degelis/bmr/
-shop: Eisenwaren
+shop: hardware
 ---

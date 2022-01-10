@@ -1,5 +1,5 @@
 ---
 title: "Garage Desroches Guy"
 url: /mirabel/garage-desroches-guy/
-shop: Autowerkstatt
+shop: car repair
 ---

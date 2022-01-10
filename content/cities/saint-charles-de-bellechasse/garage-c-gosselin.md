@@ -1,5 +1,5 @@
 ---
 title: "Garage C. Gosselin"
 url: /saint-charles-de-bellechasse/garage-c-gosselin/
-shop: Autowerkstatt
+shop: car repair
 ---

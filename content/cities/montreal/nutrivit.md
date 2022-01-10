@@ -1,5 +1,5 @@
 ---
 title: "Nutrivit"
 url: /montreal/nutrivit/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

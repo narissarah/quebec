@@ -1,5 +1,5 @@
 ---
 title: "Multi-Services"
 url: /montreal/multi-services/
-shop: Computer
+shop: computer
 ---

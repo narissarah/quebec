@@ -1,5 +1,5 @@
 ---
 title: "Sérénithé"
 url: /gatineau/serenithe/
-shop: Tee
+shop: tea
 ---

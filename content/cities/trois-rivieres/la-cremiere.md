@@ -1,5 +1,5 @@
 ---
 title: "La Crémière"
 url: /trois-rivieres/la-cremiere/
-shop: Eisprodukte
+shop: ice cream
 ---

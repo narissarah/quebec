@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /la-pocatiere/home-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

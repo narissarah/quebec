@@ -1,5 +1,5 @@
 ---
 title: "D'Aoust Fruits et Légumes"
 url: /vaudreuil-dorion/daoust-fruits-et-legumes/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Rona"
 url: /montreal/quincaillerie-rona/
-shop: Baumarkt
+shop: doityourself
 ---

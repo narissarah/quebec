@@ -1,5 +1,5 @@
 ---
 title: "Salon barbier Queen Mary"
 url: /montreal/salon-barbier-queen-mary/
-shop: Friseur
+shop: hairdresser
 ---

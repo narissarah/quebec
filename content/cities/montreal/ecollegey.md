@@ -1,5 +1,5 @@
 ---
 title: "Ecollegey"
 url: /montreal/ecollegey/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

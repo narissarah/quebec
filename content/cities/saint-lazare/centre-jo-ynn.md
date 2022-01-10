@@ -1,5 +1,5 @@
 ---
 title: "Centre Jo-Ynn"
 url: /saint-lazare/centre-jo-ynn/
-shop: Kosmetik
+shop: beauty
 ---

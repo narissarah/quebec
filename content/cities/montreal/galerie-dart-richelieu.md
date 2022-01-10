@@ -1,5 +1,5 @@
 ---
 title: "Galerie d'art Richelieu"
 url: /montreal/galerie-dart-richelieu/
-shop: Kunst
+shop: art
 ---

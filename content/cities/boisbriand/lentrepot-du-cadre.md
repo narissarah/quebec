@@ -1,5 +1,5 @@
 ---
 title: "L'entrepôt du Cadre"
 url: /boisbriand/lentrepot-du-cadre/
-shop: Möbel
+shop: furniture
 ---

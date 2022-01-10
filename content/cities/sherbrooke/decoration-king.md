@@ -1,5 +1,5 @@
 ---
 title: "Décoration King"
 url: /sherbrooke/decoration-king/
-shop: Raumausstattung
+shop: interior decoration
 ---

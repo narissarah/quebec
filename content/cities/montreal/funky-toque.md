@@ -1,5 +1,5 @@
 ---
 title: "funky toque"
 url: /montreal/funky-toque/
-shop: Friseur
+shop: hairdresser
 ---

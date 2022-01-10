@@ -1,5 +1,5 @@
 ---
 title: "Café Boutique Juniper"
 url: /hudson/cafe-boutique-juniper/
-shop: Andenken
+shop: gift
 ---

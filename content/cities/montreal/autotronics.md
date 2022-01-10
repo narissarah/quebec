@@ -1,5 +1,5 @@
 ---
 title: "Autotronics"
 url: /montreal/autotronics/
-shop: Autoteile
+shop: car parts
 ---

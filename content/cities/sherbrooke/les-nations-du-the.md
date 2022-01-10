@@ -1,5 +1,5 @@
 ---
 title: "Les Nations du thé"
 url: /sherbrooke/les-nations-du-the/
-shop: Kiosk
+shop: kiosk
 ---

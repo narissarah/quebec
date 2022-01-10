@@ -1,5 +1,5 @@
 ---
 title: "Nouveau Bismillah Bazar"
 url: /montreal/nouveau-bismillah-bazar/
-shop: Supermarkt
+shop: supermarket
 ---

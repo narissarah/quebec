@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie et peinture automobile AFM"
 url: /vaudreuil-dorion/carrosserie-et-peinture-automobile-afm/
-shop: Autowerkstatt
+shop: car repair
 ---

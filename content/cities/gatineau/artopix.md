@@ -1,5 +1,5 @@
 ---
 title: "Artopix"
 url: /gatineau/artopix/
-shop: Kopieren
+shop: copyshop
 ---

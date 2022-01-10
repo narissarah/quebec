@@ -1,5 +1,5 @@
 ---
 title: "Hull Hyundai"
 url: /gatineau/hull-hyundai/
-shop: Autohaus
+shop: car
 ---

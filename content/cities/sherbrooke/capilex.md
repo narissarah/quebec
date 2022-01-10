@@ -1,5 +1,5 @@
 ---
 title: "Capilex"
 url: /sherbrooke/capilex/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

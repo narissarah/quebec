@@ -1,5 +1,5 @@
 ---
 title: "Boulevard Chevrolet"
 url: /rimouski/boulevard-chevrolet/
-shop: Autohaus
+shop: car
 ---

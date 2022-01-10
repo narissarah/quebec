@@ -1,5 +1,5 @@
 ---
 title: "Bijouterie Dulac"
 url: /quebec/bijouterie-dulac/
-shop: Schmuck
+shop: jewelry
 ---

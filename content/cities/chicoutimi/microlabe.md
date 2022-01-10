@@ -1,5 +1,5 @@
 ---
 title: "Microlabe"
 url: /chicoutimi/microlabe/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marché IGA Extra Shawinigan"
 url: /shawinigan/marche-iga-extra-shawinigan/
-shop: Supermarkt
+shop: supermarket
 ---

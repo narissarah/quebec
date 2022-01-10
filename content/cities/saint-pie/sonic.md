@@ -1,5 +1,5 @@
 ---
 title: "Sonic"
 url: /saint-pie/sonic/
-shop: Lebensmittel
+shop: convenience
 ---

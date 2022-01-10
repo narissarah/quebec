@@ -1,5 +1,5 @@
 ---
 title: "Salon Dhalia"
 url: /montreal/salon-dhalia/
-shop: Friseur
+shop: hairdresser
 ---

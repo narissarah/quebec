@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /vaudreuil-dorion/u-haul/
-shop: Mieten
+shop: storage rental
 ---

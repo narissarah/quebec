@@ -1,5 +1,5 @@
 ---
 title: "Place Saint-Luc"
 url: /alma/place-saint-luc/
-shop: Einkaufszentrum
+shop: mall
 ---

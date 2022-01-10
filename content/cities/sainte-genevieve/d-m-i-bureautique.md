@@ -1,5 +1,5 @@
 ---
 title: "D M I Bureautique"
 url: /sainte-genevieve/d-m-i-bureautique/
-shop: Schreibwaren
+shop: office supplies
 ---

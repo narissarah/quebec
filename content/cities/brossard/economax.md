@@ -1,5 +1,5 @@
 ---
 title: "EconoMax"
 url: /brossard/economax/
-shop: Möbel
+shop: furniture
 ---

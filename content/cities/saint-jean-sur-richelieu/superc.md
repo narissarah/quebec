@@ -1,5 +1,5 @@
 ---
 title: "SuperC"
 url: /saint-jean-sur-richelieu/superc/
-shop: Supermarkt
+shop: supermarket
 ---

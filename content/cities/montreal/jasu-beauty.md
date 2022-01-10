@@ -1,5 +1,5 @@
 ---
 title: "Jasu Beauty"
 url: /montreal/jasu-beauty/
-shop: Kosmetik
+shop: beauty
 ---

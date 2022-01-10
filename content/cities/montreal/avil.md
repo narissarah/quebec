@@ -1,5 +1,5 @@
 ---
 title: "Avil"
 url: /montreal/avil/
-shop: Supermarkt
+shop: supermarket
 ---

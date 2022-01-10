@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /rouyn-noranda/saq/
-shop: Spirituosen
+shop: alcohol
 ---

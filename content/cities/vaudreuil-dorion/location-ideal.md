@@ -1,5 +1,5 @@
 ---
 title: "Location Idéal"
 url: /vaudreuil-dorion/location-ideal/
-shop: Allgemein
+shop: shop
 ---

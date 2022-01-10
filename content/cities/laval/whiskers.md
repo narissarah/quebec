@@ -1,5 +1,5 @@
 ---
 title: "Whiskers"
 url: /laval/whiskers/
-shop: Tiersalon
+shop: pet grooming
 ---

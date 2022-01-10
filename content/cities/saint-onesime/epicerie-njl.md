@@ -1,5 +1,5 @@
 ---
 title: "Epicerie NJL"
 url: /saint-onesime/epicerie-njl/
-shop: Lebensmittel
+shop: convenience
 ---

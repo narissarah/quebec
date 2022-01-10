@@ -1,5 +1,5 @@
 ---
 title: "Chrysler"
 url: /shawinigan/chrysler/
-shop: Autohaus
+shop: car
 ---

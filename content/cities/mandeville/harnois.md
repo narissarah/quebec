@@ -1,5 +1,5 @@
 ---
 title: "Harnois"
 url: /mandeville/harnois/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hamster+"
 url: /sherbrooke/hamster/
-shop: Schreibwaren
+shop: office supplies
 ---

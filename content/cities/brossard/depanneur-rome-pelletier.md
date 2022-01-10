@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Rome Pelletier"
 url: /brossard/depanneur-rome-pelletier/
-shop: Lebensmittel
+shop: convenience
 ---

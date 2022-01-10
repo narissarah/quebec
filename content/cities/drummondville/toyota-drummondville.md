@@ -1,5 +1,5 @@
 ---
 title: "Toyota Drummondville"
 url: /drummondville/toyota-drummondville/
-shop: Autohaus
+shop: car
 ---

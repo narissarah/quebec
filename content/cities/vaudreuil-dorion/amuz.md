@@ -1,5 +1,5 @@
 ---
 title: "Amuz"
 url: /vaudreuil-dorion/amuz/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Point S"
 url: /la-prairie/point-s/
-shop: Autowerkstatt
+shop: car repair
 ---

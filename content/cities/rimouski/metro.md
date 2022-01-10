@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /rimouski/metro/
-shop: Supermarkt
+shop: supermarket
 ---

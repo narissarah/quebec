@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie Yannick Quebec"
 url: /quebec/fromagerie-yannick-quebec/
-shop: Käse
+shop: cheese
 ---

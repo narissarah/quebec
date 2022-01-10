@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /vaudreuil-dorion/telus/
-shop: Handy
+shop: mobile phone
 ---

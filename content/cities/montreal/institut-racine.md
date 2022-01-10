@@ -1,5 +1,5 @@
 ---
 title: "Institut Racine"
 url: /montreal/institut-racine/
-shop: Friseur
+shop: hairdresser
 ---

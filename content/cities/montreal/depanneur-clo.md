@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Clo"
 url: /montreal/depanneur-clo/
-shop: Lebensmittel
+shop: convenience
 ---

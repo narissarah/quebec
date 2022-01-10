@@ -1,5 +1,5 @@
 ---
 title: "Emmaus"
 url: /gatineau/emmaus/
-shop: Möbel
+shop: furniture
 ---

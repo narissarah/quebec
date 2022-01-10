@@ -1,5 +1,5 @@
 ---
 title: "Marché Ami - Coop"
 url: /perce/marche-ami-coop/
-shop: Supermarkt
+shop: supermarket
 ---

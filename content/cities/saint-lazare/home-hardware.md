@@ -1,5 +1,5 @@
 ---
 title: "Home Hardware"
 url: /saint-lazare/home-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

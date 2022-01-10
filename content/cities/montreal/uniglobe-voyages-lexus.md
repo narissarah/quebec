@@ -1,5 +1,5 @@
 ---
 title: "Uniglobe Voyages Lexus"
 url: /montreal/uniglobe-voyages-lexus/
-shop: Reisebüro
+shop: travel agency
 ---

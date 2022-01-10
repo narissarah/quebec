@@ -1,5 +1,5 @@
 ---
 title: "Tout vert, tout pur"
 url: /mont-laurier/tout-vert-tout-pur/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Réno-Dépôt"
 url: /montreal/reno-depot/
-shop: Baumarkt
+shop: doityourself
 ---

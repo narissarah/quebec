@@ -1,5 +1,5 @@
 ---
 title: "Orly Afrika"
 url: /montreal/orly-afrika/
-shop: Friseur
+shop: hairdresser
 ---

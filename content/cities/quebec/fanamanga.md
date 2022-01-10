@@ -1,5 +1,5 @@
 ---
 title: "Fanamanga"
 url: /quebec/fanamanga/
-shop: Kramladen
+shop: variety store
 ---

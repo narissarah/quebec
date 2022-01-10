@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /montreal/telus/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /pierrefonds/dollarama/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winners"
 url: /gatineau/winners/
-shop: Kleidung
+shop: clothes
 ---

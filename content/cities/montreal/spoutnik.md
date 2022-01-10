@@ -1,5 +1,5 @@
 ---
 title: "Spoutnik"
 url: /montreal/spoutnik/
-shop: Möbel
+shop: furniture
 ---

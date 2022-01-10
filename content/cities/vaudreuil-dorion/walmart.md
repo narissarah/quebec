@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /vaudreuil-dorion/walmart/
-shop: Warenhaus
+shop: department store
 ---

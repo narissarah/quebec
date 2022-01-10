@@ -1,5 +1,5 @@
 ---
 title: "Bain Dépôt"
 url: /brossard/bain-depot/
-shop: Badezimmer
+shop: bathroom
 ---

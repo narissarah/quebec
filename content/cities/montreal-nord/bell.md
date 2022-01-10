@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /montreal-nord/bell/
-shop: Handy
+shop: mobile phone
 ---

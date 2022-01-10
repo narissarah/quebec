@@ -1,5 +1,5 @@
 ---
 title: "Lebeau"
 url: /gatineau/lebeau/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Épicerie Ethnia"
 url: /sherbrooke/epicerie-ethnia/
-shop: Lebensmittel
+shop: convenience
 ---

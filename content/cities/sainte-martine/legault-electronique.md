@@ -1,5 +1,5 @@
 ---
 title: "Legault Électronique"
 url: /sainte-martine/legault-electronique/
-shop: Computer
+shop: computer
 ---

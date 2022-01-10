@@ -1,5 +1,5 @@
 ---
 title: "Pâtisserie Saint Martin"
 url: /laval/patisserie-saint-martin/
-shop: Supermarkt
+shop: supermarket
 ---

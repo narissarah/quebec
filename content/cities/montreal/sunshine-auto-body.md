@@ -1,5 +1,5 @@
 ---
 title: "Sunshine Auto-Body"
 url: /montreal/sunshine-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

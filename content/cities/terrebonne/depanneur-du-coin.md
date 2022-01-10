@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur du coin"
 url: /terrebonne/depanneur-du-coin/
-shop: Lebensmittel
+shop: convenience
 ---

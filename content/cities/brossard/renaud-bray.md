@@ -1,5 +1,5 @@
 ---
 title: "Renaud-Bray"
 url: /brossard/renaud-bray/
-shop: Bücher
+shop: books
 ---

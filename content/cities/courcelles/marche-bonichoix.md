@@ -1,5 +1,5 @@
 ---
 title: "Marché Bonichoix"
 url: /courcelles/marche-bonichoix/
-shop: Supermarkt
+shop: supermarket
 ---

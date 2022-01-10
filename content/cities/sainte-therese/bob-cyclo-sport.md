@@ -1,5 +1,5 @@
 ---
 title: "Bob Cyclo Sport"
 url: /sainte-therese/bob-cyclo-sport/
-shop: Fahrrad
+shop: bicycle
 ---

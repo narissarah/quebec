@@ -1,5 +1,5 @@
 ---
 title: "Vidéotron"
 url: /quebec/videotron-2/
-shop: Handy
+shop: mobile phone
 ---

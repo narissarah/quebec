@@ -1,5 +1,5 @@
 ---
 title: "Bikini Village"
 url: /brossard/bikini-village/
-shop: Kleidung
+shop: clothes
 ---

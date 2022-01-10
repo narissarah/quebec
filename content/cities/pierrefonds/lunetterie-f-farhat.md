@@ -1,5 +1,5 @@
 ---
 title: "Lunetterie F. Farhat"
 url: /pierrefonds/lunetterie-f-farhat/
-shop: Optiker
+shop: optician
 ---

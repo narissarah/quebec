@@ -1,5 +1,5 @@
 ---
 title: "Alimentex"
 url: /quebec/alimentex/
-shop: Lebensmittel
+shop: convenience
 ---

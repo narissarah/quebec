@@ -1,5 +1,5 @@
 ---
 title: "Studio Robin Chartrand"
 url: /gatineau/studio-robin-chartrand/
-shop: Friseur
+shop: hairdresser
 ---

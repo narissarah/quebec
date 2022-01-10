@@ -1,5 +1,5 @@
 ---
 title: "Station Beauté MBG"
 url: /sherbrooke/station-beaute-mbg/
-shop: Friseur
+shop: hairdresser
 ---

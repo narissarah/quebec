@@ -1,5 +1,5 @@
 ---
 title: "Dairy Queen"
 url: /montreal/dairy-queen/
-shop: Eisprodukte
+shop: ice cream
 ---

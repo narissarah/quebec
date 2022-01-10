@@ -1,5 +1,5 @@
 ---
 title: "Crest Cleaners"
 url: /montreal/crest-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rossy"
 url: /shawinigan/rossy/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EKO"
 url: /rimouski/eko/
-shop: Lebensmittel
+shop: convenience
 ---

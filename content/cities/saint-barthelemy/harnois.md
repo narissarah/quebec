@@ -1,5 +1,5 @@
 ---
 title: "Harnois"
 url: /saint-barthelemy/harnois/
-shop: Lebensmittel
+shop: convenience
 ---

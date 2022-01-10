@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /shawinigan/bell/
-shop: Handy
+shop: mobile phone
 ---

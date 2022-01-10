@@ -1,5 +1,5 @@
 ---
 title: "Provi-Soir"
 url: /montreal/provi-soir/
-shop: Lebensmittel
+shop: convenience
 ---

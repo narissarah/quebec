@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /saint-eustache/telus/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /alma/irving/
-shop: Lebensmittel
+shop: convenience
 ---

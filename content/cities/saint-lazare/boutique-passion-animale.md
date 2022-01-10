@@ -1,5 +1,5 @@
 ---
 title: "Boutique Passion Animale"
 url: /saint-lazare/boutique-passion-animale/
-shop: Tiere
+shop: pet
 ---

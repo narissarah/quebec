@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /montreal/aveda/
-shop: Kosmetik
+shop: beauty
 ---

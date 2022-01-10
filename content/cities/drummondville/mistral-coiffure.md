@@ -1,5 +1,5 @@
 ---
 title: "Mistral Coiffure"
 url: /drummondville/mistral-coiffure/
-shop: Friseur
+shop: hairdresser
 ---

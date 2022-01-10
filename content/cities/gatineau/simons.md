@@ -1,5 +1,5 @@
 ---
 title: "Simons"
 url: /gatineau/simons/
-shop: Warenhaus
+shop: department store
 ---

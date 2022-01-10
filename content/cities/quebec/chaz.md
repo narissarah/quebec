@@ -1,5 +1,5 @@
 ---
 title: "CHAZ"
 url: /quebec/chaz/
-shop: Leerstehend
+shop: vacant
 ---

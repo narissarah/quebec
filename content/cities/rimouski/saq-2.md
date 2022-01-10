@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /rimouski/saq-2/
-shop: Spirituosen
+shop: alcohol
 ---

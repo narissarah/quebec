@@ -1,5 +1,5 @@
 ---
 title: "La Bohémienne"
 url: /saint-boniface/la-bohemienne/
-shop: Bioladen
+shop: health food
 ---

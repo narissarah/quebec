@@ -1,5 +1,5 @@
 ---
 title: "Maison Funéraire Shields Berthiaume"
 url: /saint-andre-avellin/maison-funeraire-shields-berthiaume/
-shop: Bestattungen
+shop: funeral directors
 ---

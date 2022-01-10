@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /la-pocatiere/dollarama/
-shop: Kramladen
+shop: variety store
 ---

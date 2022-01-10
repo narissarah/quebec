@@ -1,5 +1,5 @@
 ---
 title: "Nissan Victoriaville"
 url: /victoriaville/nissan-victoriaville/
-shop: Autohaus
+shop: car
 ---

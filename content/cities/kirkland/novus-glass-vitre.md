@@ -1,5 +1,5 @@
 ---
 title: "Novus Glass/Vitre"
 url: /kirkland/novus-glass-vitre/
-shop: Autowerkstatt
+shop: car repair
 ---

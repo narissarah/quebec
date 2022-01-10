@@ -1,5 +1,5 @@
 ---
 title: "Da Muzz"
 url: /montreal/da-muzz/
-shop: Musik
+shop: music
 ---

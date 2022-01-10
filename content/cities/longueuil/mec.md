@@ -1,5 +1,5 @@
 ---
 title: "Mec"
 url: /longueuil/mec/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Demers"
 url: /quebec/demers/
-shop: Fahrrad
+shop: bicycle
 ---

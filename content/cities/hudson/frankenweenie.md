@@ -1,5 +1,5 @@
 ---
 title: "FrankenWeenie"
 url: /hudson/frankenweenie/
-shop: Kleidung
+shop: clothes
 ---

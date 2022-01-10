@@ -1,5 +1,5 @@
 ---
 title: "Serrurier Plus"
 url: /vaudreuil-dorion/serrurier-plus/
-shop: Schlüsseldienst
+shop: locksmith
 ---

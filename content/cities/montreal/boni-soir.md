@@ -1,5 +1,5 @@
 ---
 title: "Boni-Soir"
 url: /montreal/boni-soir/
-shop: Lebensmittel
+shop: convenience
 ---

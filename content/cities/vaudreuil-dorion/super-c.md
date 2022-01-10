@@ -1,5 +1,5 @@
 ---
 title: "Super C"
 url: /vaudreuil-dorion/super-c/
-shop: Supermarkt
+shop: supermarket
 ---

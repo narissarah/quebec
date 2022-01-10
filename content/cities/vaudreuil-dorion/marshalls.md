@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /vaudreuil-dorion/marshalls/
-shop: Warenhaus
+shop: department store
 ---

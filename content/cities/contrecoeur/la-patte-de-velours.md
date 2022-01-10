@@ -1,5 +1,5 @@
 ---
 title: "La patte de velours"
 url: /contrecoeur/la-patte-de-velours/
-shop: Tiere
+shop: pet
 ---

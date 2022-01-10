@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /maria/irving/
-shop: Lebensmittel
+shop: convenience
 ---

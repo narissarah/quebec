@@ -1,5 +1,5 @@
 ---
 title: "Toutounet"
 url: /saint-lazare/toutounet/
-shop: Tiersalon
+shop: pet grooming
 ---

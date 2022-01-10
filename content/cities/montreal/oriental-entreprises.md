@@ -1,5 +1,5 @@
 ---
 title: "Oriental Entreprises"
 url: /montreal/oriental-entreprises/
-shop: Allgemein
+shop: shop
 ---

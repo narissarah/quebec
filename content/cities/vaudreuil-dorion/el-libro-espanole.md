@@ -1,5 +1,5 @@
 ---
 title: "El Libro Espanole"
 url: /vaudreuil-dorion/el-libro-espanole/
-shop: Bücher
+shop: books
 ---

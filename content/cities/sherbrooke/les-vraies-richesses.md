@@ -1,5 +1,5 @@
 ---
 title: "Les Vraies Richesses"
 url: /sherbrooke/les-vraies-richesses/
-shop: Bäckerei
+shop: bakery
 ---

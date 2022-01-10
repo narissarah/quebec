@@ -1,5 +1,5 @@
 ---
 title: "Rossy"
 url: /trois-rivieres/rossy/
-shop: Dorfladen
+shop: general
 ---

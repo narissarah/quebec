@@ -1,5 +1,5 @@
 ---
 title: "ConservArt"
 url: /montreal/conservart/
-shop: Rahmen
+shop: frame
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bulk Barn"
 url: /hawkesbury/bulk-barn/
-shop: Supermarkt
+shop: supermarket
 ---

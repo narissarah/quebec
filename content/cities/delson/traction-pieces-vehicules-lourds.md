@@ -1,5 +1,5 @@
 ---
 title: "Traction Pièces véhicules lourds"
 url: /delson/traction-pieces-vehicules-lourds/
-shop: Autowerkstatt
+shop: car repair
 ---

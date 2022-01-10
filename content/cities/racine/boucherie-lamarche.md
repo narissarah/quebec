@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Lamarche"
 url: /racine/boucherie-lamarche/
-shop: Metzgerei
+shop: butcher
 ---

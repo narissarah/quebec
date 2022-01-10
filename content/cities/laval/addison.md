@@ -1,5 +1,5 @@
 ---
 title: "Addison"
 url: /laval/addison/
-shop: Elektronik
+shop: electronics
 ---

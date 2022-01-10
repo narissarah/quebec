@@ -1,5 +1,5 @@
 ---
 title: "Simons"
 url: /quebec/simons/
-shop: Warenhaus
+shop: department store
 ---

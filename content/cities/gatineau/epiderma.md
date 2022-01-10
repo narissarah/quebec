@@ -1,5 +1,5 @@
 ---
 title: "Epiderma"
 url: /gatineau/epiderma/
-shop: Kosmetik
+shop: beauty
 ---

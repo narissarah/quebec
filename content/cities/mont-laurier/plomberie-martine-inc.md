@@ -1,5 +1,5 @@
 ---
 title: "Plomberie Martine Inc."
 url: /mont-laurier/plomberie-martine-inc/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Value"
 url: /gatineau/auto-value/
-shop: Autowerkstatt
+shop: car repair
 ---

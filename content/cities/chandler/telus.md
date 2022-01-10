@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /chandler/telus/
-shop: Handy
+shop: mobile phone
 ---

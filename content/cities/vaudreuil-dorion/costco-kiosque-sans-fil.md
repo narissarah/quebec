@@ -1,5 +1,5 @@
 ---
 title: "Costco - Kiosque sans-fil"
 url: /vaudreuil-dorion/costco-kiosque-sans-fil/
-shop: Handy
+shop: mobile phone
 ---

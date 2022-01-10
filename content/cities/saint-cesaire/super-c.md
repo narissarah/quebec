@@ -1,5 +1,5 @@
 ---
 title: "Super C"
 url: /saint-cesaire/super-c/
-shop: Supermarkt
+shop: supermarket
 ---

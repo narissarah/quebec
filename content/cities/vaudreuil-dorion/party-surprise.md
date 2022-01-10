@@ -1,5 +1,5 @@
 ---
 title: "Party Surprise"
 url: /vaudreuil-dorion/party-surprise/
-shop: Partyzubehör
+shop: party
 ---

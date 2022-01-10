@@ -1,5 +1,5 @@
 ---
 title: "Animo"
 url: /vaudreuil-dorion/animo/
-shop: Tiere
+shop: pet
 ---

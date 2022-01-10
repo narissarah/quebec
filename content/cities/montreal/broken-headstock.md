@@ -1,5 +1,5 @@
 ---
 title: "Broken Headstock"
 url: /montreal/broken-headstock/
-shop: Instrumente
+shop: musical instrument
 ---

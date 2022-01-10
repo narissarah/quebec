@@ -1,5 +1,5 @@
 ---
 title: "Yellow"
 url: /victoriaville/yellow/
-shop: Schuhe
+shop: shoes
 ---

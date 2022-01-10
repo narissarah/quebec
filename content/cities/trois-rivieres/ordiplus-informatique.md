@@ -1,5 +1,5 @@
 ---
 title: "Ordiplus Informatique"
 url: /trois-rivieres/ordiplus-informatique/
-shop: Computer
+shop: computer
 ---

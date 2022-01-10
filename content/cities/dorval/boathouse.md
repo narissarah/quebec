@@ -1,5 +1,5 @@
 ---
 title: "Boathouse"
 url: /dorval/boathouse/
-shop: Allgemein
+shop: shop
 ---

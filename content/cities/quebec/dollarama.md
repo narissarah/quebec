@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /quebec/dollarama/
-shop: Kramladen
+shop: variety store
 ---

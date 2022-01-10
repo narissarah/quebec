@@ -1,5 +1,5 @@
 ---
 title: "Super C"
 url: /trois-rivieres/super-c/
-shop: Lebensmittel
+shop: convenience
 ---

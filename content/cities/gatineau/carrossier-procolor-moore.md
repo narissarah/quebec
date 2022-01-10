@@ -1,5 +1,5 @@
 ---
 title: "Carrossier ProColor Moore"
 url: /gatineau/carrossier-procolor-moore/
-shop: Autowerkstatt
+shop: car repair
 ---

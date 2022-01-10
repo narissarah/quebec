@@ -1,5 +1,5 @@
 ---
 title: "Dollar ou Deux Plus"
 url: /gatineau/dollar-ou-deux-plus/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alimentation Blanchet"
 url: /saint-marcel/alimentation-blanchet/
-shop: Supermarkt
+shop: supermarket
 ---

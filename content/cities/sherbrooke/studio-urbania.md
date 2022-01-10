@@ -1,5 +1,5 @@
 ---
 title: "Studio Urbania"
 url: /sherbrooke/studio-urbania/
-shop: Friseur
+shop: hairdresser
 ---

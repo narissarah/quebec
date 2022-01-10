@@ -1,5 +1,5 @@
 ---
 title: "Sports Alpins"
 url: /saint-ferreol-les-neiges/sports-alpins/
-shop: Fahrrad
+shop: bicycle
 ---

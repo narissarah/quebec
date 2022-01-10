@@ -1,5 +1,5 @@
 ---
 title: "Maximum Powersports"
 url: /hawkesbury/maximum-powersports/
-shop: Motorrad
+shop: motorcycle
 ---

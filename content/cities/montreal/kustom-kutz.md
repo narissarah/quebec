@@ -1,5 +1,5 @@
 ---
 title: "Kustom Kutz"
 url: /montreal/kustom-kutz/
-shop: Friseur
+shop: hairdresser
 ---

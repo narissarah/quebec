@@ -1,5 +1,5 @@
 ---
 title: "Hoodies Time"
 url: /montreal/hoodies-time/
-shop: Kleidung
+shop: clothes
 ---

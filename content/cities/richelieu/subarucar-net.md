@@ -1,5 +1,5 @@
 ---
 title: "SubaruCAR.net"
 url: /richelieu/subarucar-net/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /courcelles/esso/
-shop: Lebensmittel
+shop: convenience
 ---

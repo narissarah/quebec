@@ -1,5 +1,5 @@
 ---
 title: "Sport Exchange Outaouais"
 url: /gatineau/sport-exchange-outaouais/
-shop: Sport
+shop: sports
 ---

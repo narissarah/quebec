@@ -1,5 +1,5 @@
 ---
 title: "Depanneur Sharon"
 url: /gatineau/depanneur-sharon/
-shop: Lebensmittel
+shop: convenience
 ---

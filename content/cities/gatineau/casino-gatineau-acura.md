@@ -1,5 +1,5 @@
 ---
 title: "Casino Gatineau Acura"
 url: /gatineau/casino-gatineau-acura/
-shop: Autohaus
+shop: car
 ---

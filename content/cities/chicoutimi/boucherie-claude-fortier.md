@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Claude Fortier"
 url: /chicoutimi/boucherie-claude-fortier/
-shop: Metzgerei
+shop: butcher
 ---

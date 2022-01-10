@@ -1,5 +1,5 @@
 ---
 title: "Ressorts Gatineau"
 url: /gatineau/ressorts-gatineau/
-shop: Autowerkstatt
+shop: car repair
 ---

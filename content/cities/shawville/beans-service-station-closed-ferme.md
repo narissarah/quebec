@@ -1,5 +1,5 @@
 ---
 title: "Bean's Service Station (closed/fermé)"
 url: /shawville/beans-service-station-closed-ferme/
-shop: Autowerkstatt
+shop: car repair
 ---

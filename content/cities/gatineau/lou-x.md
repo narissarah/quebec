@@ -1,5 +1,5 @@
 ---
 title: "Lou-X"
 url: /gatineau/lou-x/
-shop: Autowerkstatt
+shop: car repair
 ---

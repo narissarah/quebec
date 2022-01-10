@@ -1,5 +1,5 @@
 ---
 title: "Garage Décarie"
 url: /montreal/garage-decarie/
-shop: Autowerkstatt
+shop: car repair
 ---

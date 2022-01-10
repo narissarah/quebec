@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Liège"
 url: /montreal/quincaillerie-liege/
-shop: Baumarkt
+shop: doityourself
 ---

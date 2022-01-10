@@ -1,5 +1,5 @@
 ---
 title: "B-Nour Inc"
 url: /lasalle/b-nour-inc/
-shop: Bäckerei
+shop: bakery
 ---

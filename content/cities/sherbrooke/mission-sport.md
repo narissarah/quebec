@@ -1,5 +1,5 @@
 ---
 title: "Mission Sport"
 url: /sherbrooke/mission-sport/
-shop: Fahrrad
+shop: bicycle
 ---

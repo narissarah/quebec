@@ -1,5 +1,5 @@
 ---
 title: "Penningtons"
 url: /gatineau/penningtons/
-shop: Kleidung
+shop: clothes
 ---

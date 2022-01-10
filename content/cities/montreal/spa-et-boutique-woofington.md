@@ -1,5 +1,5 @@
 ---
 title: "Spa et Boutique Woofington"
 url: /montreal/spa-et-boutique-woofington/
-shop: Tiersalon
+shop: pet grooming
 ---

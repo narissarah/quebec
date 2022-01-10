@@ -1,5 +1,5 @@
 ---
 title: "Garage Hayes"
 url: /pointe-des-cascades/garage-hayes/
-shop: Autowerkstatt
+shop: car repair
 ---

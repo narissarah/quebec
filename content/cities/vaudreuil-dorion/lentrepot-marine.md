@@ -1,5 +1,5 @@
 ---
 title: "L'Entrepôt Marine"
 url: /vaudreuil-dorion/lentrepot-marine/
-shop: Sport
+shop: sports
 ---

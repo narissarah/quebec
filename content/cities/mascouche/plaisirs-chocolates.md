@@ -1,5 +1,5 @@
 ---
 title: "Plaisirs Chocolatés"
 url: /mascouche/plaisirs-chocolates/
-shop: Konditorei
+shop: pastry
 ---

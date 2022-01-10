@@ -1,5 +1,5 @@
 ---
 title: "Petro-Canada"
 url: /new-richmond/petro-canada/
-shop: Lebensmittel
+shop: convenience
 ---

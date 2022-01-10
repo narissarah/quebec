@@ -1,5 +1,5 @@
 ---
 title: "Telus"
 url: /brossard/telus/
-shop: Handy
+shop: mobile phone
 ---

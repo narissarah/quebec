@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /lachute/saq/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Faubourg des Antiquités"
 url: /montreal/faubourg-des-antiquites/
-shop: Antiquitäten
+shop: antiques
 ---

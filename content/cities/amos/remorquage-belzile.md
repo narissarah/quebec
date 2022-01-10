@@ -1,5 +1,5 @@
 ---
 title: "Remorquage Belzile"
 url: /amos/remorquage-belzile/
-shop: Autowerkstatt
+shop: car repair
 ---

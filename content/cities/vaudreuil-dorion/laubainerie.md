@@ -1,5 +1,5 @@
 ---
 title: "L'Aubainerie"
 url: /vaudreuil-dorion/laubainerie/
-shop: Kleidung
+shop: clothes
 ---

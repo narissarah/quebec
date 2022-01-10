@@ -1,5 +1,5 @@
 ---
 title: "Galérie Abyss"
 url: /montreal/galerie-abyss/
-shop: Tattoo
+shop: tattoo
 ---

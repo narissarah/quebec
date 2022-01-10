@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Neil"
 url: /grenville/depanneur-neil/
-shop: Lebensmittel
+shop: convenience
 ---

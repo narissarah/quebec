@@ -1,5 +1,5 @@
 ---
 title: "Multi Luminaire"
 url: /gatineau/multi-luminaire/
-shop: Lampen
+shop: lamps
 ---

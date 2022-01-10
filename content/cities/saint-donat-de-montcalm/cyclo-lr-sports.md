@@ -1,5 +1,5 @@
 ---
 title: "Cyclo LR Sports"
 url: /saint-donat-de-montcalm/cyclo-lr-sports/
-shop: Fahrrad
+shop: bicycle
 ---

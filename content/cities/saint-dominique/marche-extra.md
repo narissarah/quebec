@@ -1,5 +1,5 @@
 ---
 title: "Marché Extra"
 url: /saint-dominique/marche-extra/
-shop: Lebensmittel
+shop: convenience
 ---

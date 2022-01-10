@@ -1,5 +1,5 @@
 ---
 title: "Ardene"
 url: /hawkesbury/ardene/
-shop: Kleidung
+shop: clothes
 ---

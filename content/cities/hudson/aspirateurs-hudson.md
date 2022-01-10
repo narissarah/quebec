@@ -1,5 +1,5 @@
 ---
 title: "Aspirateurs Hudson"
 url: /hudson/aspirateurs-hudson/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

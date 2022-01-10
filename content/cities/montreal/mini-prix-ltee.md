@@ -1,5 +1,5 @@
 ---
 title: "Mini-Prix Ltée"
 url: /montreal/mini-prix-ltee/
-shop: Kleidung
+shop: clothes
 ---

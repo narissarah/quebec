@@ -1,5 +1,5 @@
 ---
 title: "Depanneur Palmyra"
 url: /gatineau/depanneur-palmyra/
-shop: Lebensmittel
+shop: convenience
 ---

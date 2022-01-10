@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /chambly/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

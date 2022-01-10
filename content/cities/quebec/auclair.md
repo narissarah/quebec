@@ -1,5 +1,5 @@
 ---
 title: "Auclair"
 url: /quebec/auclair/
-shop: Autoteile
+shop: car parts
 ---

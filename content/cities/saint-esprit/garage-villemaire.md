@@ -1,5 +1,5 @@
 ---
 title: "Garage Villemaire"
 url: /saint-esprit/garage-villemaire/
-shop: Autowerkstatt
+shop: car repair
 ---

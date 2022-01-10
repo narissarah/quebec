@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Royal"
 url: /montreal/depanneur-royal/
-shop: Lebensmittel
+shop: convenience
 ---

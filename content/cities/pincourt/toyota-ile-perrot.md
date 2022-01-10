@@ -1,5 +1,5 @@
 ---
 title: "Toyota Île Perrot"
 url: /pincourt/toyota-ile-perrot/
-shop: Autohaus
+shop: car
 ---

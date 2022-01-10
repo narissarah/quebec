@@ -1,5 +1,5 @@
 ---
 title: "Ryder"
 url: /vaudreuil-dorion/ryder/
-shop: Mieten
+shop: storage rental
 ---

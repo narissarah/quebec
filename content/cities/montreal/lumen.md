@@ -1,5 +1,5 @@
 ---
 title: "Lumen"
 url: /montreal/lumen/
-shop: Elektrisch
+shop: electrical
 ---

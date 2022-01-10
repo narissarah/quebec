@@ -1,5 +1,5 @@
 ---
 title: "Exclusivement Mecs"
 url: /sainte-julie/exclusivement-mecs/
-shop: Friseur
+shop: hairdresser
 ---

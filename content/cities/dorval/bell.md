@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /dorval/bell/
-shop: Handy
+shop: mobile phone
 ---

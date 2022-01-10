@@ -1,5 +1,5 @@
 ---
 title: "Sonic"
 url: /beauharnois/sonic/
-shop: Lebensmittel
+shop: convenience
 ---

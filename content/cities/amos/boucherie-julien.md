@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Julien"
 url: /amos/boucherie-julien/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cinq Continents"
 url: /trois-rivieres/cinq-continents/
-shop: Andenken
+shop: gift
 ---

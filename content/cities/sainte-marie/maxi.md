@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
 url: /sainte-marie/maxi/
-shop: Supermarkt
+shop: supermarket
 ---

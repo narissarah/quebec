@@ -1,5 +1,5 @@
 ---
 title: "Nantel Musique"
 url: /montreal/nantel-musique/
-shop: Instrumente
+shop: musical instrument
 ---

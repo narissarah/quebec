@@ -1,5 +1,5 @@
 ---
 title: "Giant Tiger"
 url: /lassomption/giant-tiger/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Variété Du Coin"
 url: /hawkesbury/variete-du-coin/
-shop: Lebensmittel
+shop: convenience
 ---

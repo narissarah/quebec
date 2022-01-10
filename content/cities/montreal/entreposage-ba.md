@@ -1,5 +1,5 @@
 ---
 title: "Entreposage BA"
 url: /montreal/entreposage-ba/
-shop: Mieten
+shop: storage rental
 ---

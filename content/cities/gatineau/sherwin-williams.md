@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /gatineau/sherwin-williams/
-shop: Farben
+shop: paint
 ---

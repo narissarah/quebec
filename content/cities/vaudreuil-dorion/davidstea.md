@@ -1,5 +1,5 @@
 ---
 title: "DavidsTea"
 url: /vaudreuil-dorion/davidstea/
-shop: Tee
+shop: tea
 ---

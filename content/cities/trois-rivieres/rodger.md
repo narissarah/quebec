@@ -1,5 +1,5 @@
 ---
 title: "Rodger"
 url: /trois-rivieres/rodger/
-shop: Handy
+shop: mobile phone
 ---

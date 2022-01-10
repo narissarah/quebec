@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /shawinigan/dollarama/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centre de don Renaissance"
 url: /outremont/centre-de-don-renaissance/
-shop: Gebrauchtwaren
+shop: charity
 ---

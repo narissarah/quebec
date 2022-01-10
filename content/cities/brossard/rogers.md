@@ -1,5 +1,5 @@
 ---
 title: "Rogers"
 url: /brossard/rogers/
-shop: Handy
+shop: mobile phone
 ---

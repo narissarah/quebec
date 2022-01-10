@@ -1,5 +1,5 @@
 ---
 title: "Super Marché International"
 url: /montreal/super-marche-international/
-shop: Supermarkt
+shop: supermarket
 ---

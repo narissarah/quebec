@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /degelis/metro/
-shop: Supermarkt
+shop: supermarket
 ---

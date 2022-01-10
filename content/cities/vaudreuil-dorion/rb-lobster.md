@@ -1,5 +1,5 @@
 ---
 title: "RB Lobster"
 url: /vaudreuil-dorion/rb-lobster/
-shop: Großhandel
+shop: wholesale
 ---

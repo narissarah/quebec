@@ -1,5 +1,5 @@
 ---
 title: "La ferme Bee Api"
 url: /val-des-monts/la-ferme-bee-api/
-shop: Landwirtschaftlich
+shop: agrarian
 ---

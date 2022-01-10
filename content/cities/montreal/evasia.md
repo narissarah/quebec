@@ -1,5 +1,5 @@
 ---
 title: "Evasia"
 url: /montreal/evasia/
-shop: Blumen
+shop: florist
 ---

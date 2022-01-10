@@ -1,5 +1,5 @@
 ---
 title: "Pneus Réal Chicoine"
 url: /pierrefonds/pneus-real-chicoine/
-shop: Reifen
+shop: tyres
 ---

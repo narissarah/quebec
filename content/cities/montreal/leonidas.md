@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /montreal/leonidas/
-shop: Schokolade
+shop: chocolate
 ---

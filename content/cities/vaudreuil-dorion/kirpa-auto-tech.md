@@ -1,5 +1,5 @@
 ---
 title: "Kirpa Auto Tech"
 url: /vaudreuil-dorion/kirpa-auto-tech/
-shop: Autowerkstatt
+shop: car repair
 ---

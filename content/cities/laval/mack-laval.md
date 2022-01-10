@@ -1,5 +1,5 @@
 ---
 title: "Mack Laval"
 url: /laval/mack-laval/
-shop: Autohaus
+shop: car
 ---

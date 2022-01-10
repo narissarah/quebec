@@ -1,5 +1,5 @@
 ---
 title: "Giant Tiger"
 url: /hawkesbury/giant-tiger/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Informatique Sigma"
 url: /gatineau/informatique-sigma/
-shop: Computer
+shop: computer
 ---

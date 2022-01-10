@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Côte des Neiges"
 url: /montreal/coiffure-cote-des-neiges/
-shop: Friseur
+shop: hairdresser
 ---

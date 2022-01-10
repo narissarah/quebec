@@ -1,5 +1,5 @@
 ---
 title: "Laure-Marie Price Toilettage"
 url: /vaudreuil-dorion/laure-marie-price-toilettage/
-shop: Tiersalon
+shop: pet grooming
 ---

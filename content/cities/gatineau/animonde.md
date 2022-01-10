@@ -1,5 +1,5 @@
 ---
 title: "Animonde"
 url: /gatineau/animonde/
-shop: Tiere
+shop: pet
 ---

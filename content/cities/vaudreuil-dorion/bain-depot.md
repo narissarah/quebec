@@ -1,5 +1,5 @@
 ---
 title: "Bain Dépôt"
 url: /vaudreuil-dorion/bain-depot/
-shop: Badezimmer
+shop: bathroom
 ---

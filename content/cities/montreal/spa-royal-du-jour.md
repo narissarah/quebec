@@ -1,5 +1,5 @@
 ---
 title: "Spa Royal du Jour"
 url: /montreal/spa-royal-du-jour/
-shop: Kosmetik
+shop: beauty
 ---

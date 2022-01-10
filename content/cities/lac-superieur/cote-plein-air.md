@@ -1,5 +1,5 @@
 ---
 title: "Côté Plein Air"
 url: /lac-superieur/cote-plein-air/
-shop: Lebensmittel
+shop: convenience
 ---

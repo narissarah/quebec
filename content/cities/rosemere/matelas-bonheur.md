@@ -1,5 +1,5 @@
 ---
 title: "Matelas Bonheur"
 url: /rosemere/matelas-bonheur/
-shop: Betten
+shop: bed
 ---

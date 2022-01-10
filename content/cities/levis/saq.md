@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /levis/saq/
-shop: Spirituosen
+shop: alcohol
 ---

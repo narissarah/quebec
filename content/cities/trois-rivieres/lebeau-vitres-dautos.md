@@ -1,5 +1,5 @@
 ---
 title: "Lebeau vitres d'autos"
 url: /trois-rivieres/lebeau-vitres-dautos/
-shop: Autowerkstatt
+shop: car repair
 ---

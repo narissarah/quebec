@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /trois-rivieres/shell/
-shop: Lebensmittel
+shop: convenience
 ---

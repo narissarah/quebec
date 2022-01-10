@@ -1,5 +1,5 @@
 ---
 title: "Nys Patissier"
 url: /trois-rivieres/nys-patissier/
-shop: Konditorei
+shop: pastry
 ---

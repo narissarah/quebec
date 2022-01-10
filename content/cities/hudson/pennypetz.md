@@ -1,5 +1,5 @@
 ---
 title: "PennyPetz"
 url: /hudson/pennypetz/
-shop: Tiere
+shop: pet
 ---

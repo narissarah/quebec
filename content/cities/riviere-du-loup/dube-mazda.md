@@ -1,5 +1,5 @@
 ---
 title: "Dubé Mazda"
 url: /riviere-du-loup/dube-mazda/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dairy Queen"
 url: /trois-rivieres/dairy-queen/
-shop: Eisprodukte
+shop: ice cream
 ---

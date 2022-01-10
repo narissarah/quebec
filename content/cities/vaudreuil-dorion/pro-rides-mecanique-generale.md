@@ -1,5 +1,5 @@
 ---
 title: "Pro Rides - Mécanique générale"
 url: /vaudreuil-dorion/pro-rides-mecanique-generale/
-shop: Autowerkstatt
+shop: car repair
 ---

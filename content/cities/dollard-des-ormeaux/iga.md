@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /dollard-des-ormeaux/iga/
-shop: Supermarkt
+shop: supermarket
 ---

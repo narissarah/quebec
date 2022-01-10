@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Méditéranée"
 url: /gatineau/boucherie-mediteranee/
-shop: Metzgerei
+shop: butcher
 ---

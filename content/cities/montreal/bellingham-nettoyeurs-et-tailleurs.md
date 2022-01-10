@@ -1,5 +1,5 @@
 ---
 title: "Bellingham Nettoyeurs et Tailleurs"
 url: /montreal/bellingham-nettoyeurs-et-tailleurs/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vidéotron"
 url: /trois-rivieres/videotron/
-shop: Handy
+shop: mobile phone
 ---

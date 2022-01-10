@@ -1,5 +1,5 @@
 ---
 title: "Bell"
 url: /pointe-claire/bell/
-shop: Handy
+shop: mobile phone
 ---

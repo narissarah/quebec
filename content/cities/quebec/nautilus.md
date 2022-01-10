@@ -1,5 +1,5 @@
 ---
 title: "Nautilus"
 url: /quebec/nautilus/
-shop: Tauchen
+shop: diving
 ---

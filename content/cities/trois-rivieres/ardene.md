@@ -1,5 +1,5 @@
 ---
 title: "Ardene"
 url: /trois-rivieres/ardene/
-shop: Kleidung
+shop: clothes
 ---

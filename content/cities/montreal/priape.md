@@ -1,5 +1,5 @@
 ---
 title: "Priape"
 url: /montreal/priape/
-shop: Kleidung
+shop: clothes
 ---

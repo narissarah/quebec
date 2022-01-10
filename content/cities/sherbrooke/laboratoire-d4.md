@@ -1,5 +1,5 @@
 ---
 title: "Laboratoire D4"
 url: /sherbrooke/laboratoire-d4/
-shop: Friseur
+shop: hairdresser
 ---

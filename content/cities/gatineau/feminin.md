@@ -1,5 +1,5 @@
 ---
 title: "Feminin"
 url: /gatineau/feminin/
-shop: Kleidung
+shop: clothes
 ---

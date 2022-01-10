@@ -1,5 +1,5 @@
 ---
 title: "MultiMobile"
 url: /montreal/multimobile/
-shop: Handy
+shop: mobile phone
 ---

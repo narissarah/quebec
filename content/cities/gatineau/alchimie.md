@@ -1,5 +1,5 @@
 ---
 title: "Alchimie"
 url: /gatineau/alchimie/
-shop: Andenken
+shop: gift
 ---

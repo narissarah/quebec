@@ -1,5 +1,5 @@
 ---
 title: "Levaque Fourrures Inc"
 url: /hawkesbury/levaque-fourrures-inc/
-shop: Kleidung
+shop: clothes
 ---

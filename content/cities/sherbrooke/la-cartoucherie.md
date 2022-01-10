@@ -1,5 +1,5 @@
 ---
 title: "La Cartoucherie"
 url: /sherbrooke/la-cartoucherie/
-shop: Kopieren
+shop: copyshop
 ---

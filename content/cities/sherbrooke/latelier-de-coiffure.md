@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier de Coiffure"
 url: /sherbrooke/latelier-de-coiffure/
-shop: Friseur
+shop: hairdresser
 ---

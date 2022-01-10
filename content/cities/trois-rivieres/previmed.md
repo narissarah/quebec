@@ -1,5 +1,5 @@
 ---
 title: "Previmed"
 url: /trois-rivieres/previmed/
-shop: Sanitätshaus
+shop: medical supply
 ---

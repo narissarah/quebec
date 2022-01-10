@@ -1,5 +1,5 @@
 ---
 title: "La Boucheterie"
 url: /bouchette/la-boucheterie/
-shop: Metzgerei
+shop: butcher
 ---

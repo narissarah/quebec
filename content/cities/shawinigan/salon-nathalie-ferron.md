@@ -1,5 +1,5 @@
 ---
 title: "Salon Nathalie Ferron"
 url: /shawinigan/salon-nathalie-ferron/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boni Soir"
 url: /trois-rivieres/boni-soir/
-shop: Lebensmittel
+shop: convenience
 ---

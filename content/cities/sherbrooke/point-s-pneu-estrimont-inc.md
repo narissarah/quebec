@@ -1,5 +1,5 @@
 ---
 title: "Point S - Pneu Estrimont Inc"
 url: /sherbrooke/point-s-pneu-estrimont-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

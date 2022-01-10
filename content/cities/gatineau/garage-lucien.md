@@ -1,5 +1,5 @@
 ---
 title: "Garage Lucien"
 url: /gatineau/garage-lucien/
-shop: Autowerkstatt
+shop: car repair
 ---

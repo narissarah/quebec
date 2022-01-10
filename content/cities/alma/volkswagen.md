@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /alma/volkswagen/
-shop: Autohaus
+shop: car
 ---

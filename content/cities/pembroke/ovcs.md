@@ -1,5 +1,5 @@
 ---
 title: "OVCS"
 url: /pembroke/ovcs/
-shop: Hanf
+shop: cannabis
 ---

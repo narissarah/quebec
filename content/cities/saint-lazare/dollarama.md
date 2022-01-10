@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /saint-lazare/dollarama/
-shop: Kramladen
+shop: variety store
 ---

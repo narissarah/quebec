@@ -1,5 +1,5 @@
 ---
 title: "Studio Josee"
 url: /hawkesbury/studio-josee/
-shop: Friseur
+shop: hairdresser
 ---

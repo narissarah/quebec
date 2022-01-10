@@ -1,5 +1,5 @@
 ---
 title: "Pro Mechanique"
 url: /gatineau/pro-mechanique/
-shop: Autowerkstatt
+shop: car repair
 ---

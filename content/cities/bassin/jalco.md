@@ -1,5 +1,5 @@
 ---
 title: "Jalco"
 url: /bassin/jalco/
-shop: Lebensmittel
+shop: convenience
 ---

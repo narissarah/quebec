@@ -1,5 +1,5 @@
 ---
 title: "S.W. Welch"
 url: /montreal/s-w-welch/
-shop: Bücher
+shop: books
 ---

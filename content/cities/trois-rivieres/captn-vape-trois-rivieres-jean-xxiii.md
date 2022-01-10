@@ -1,5 +1,5 @@
 ---
 title: "Capt'n Vape Trois-Rivières Jean XXIII"
 url: /trois-rivieres/captn-vape-trois-rivieres-jean-xxiii/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /boucherville/saq/
-shop: Spirituosen
+shop: alcohol
 ---

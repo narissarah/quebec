@@ -1,5 +1,5 @@
 ---
 title: "Lualoha"
 url: /hudson/lualoha/
-shop: Kleidung
+shop: clothes
 ---

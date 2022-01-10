@@ -1,5 +1,5 @@
 ---
 title: "Service de cric Drummond"
 url: /drummondville/service-de-cric-drummond/
-shop: Eisenwaren
+shop: hardware
 ---

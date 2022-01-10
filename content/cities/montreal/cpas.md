@@ -1,5 +1,5 @@
 ---
 title: "CPAS"
 url: /montreal/cpas/
-shop: Tauchen
+shop: diving
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Orage"
 url: /montreal/orage/
-shop: Kleidung
+shop: clothes
 ---

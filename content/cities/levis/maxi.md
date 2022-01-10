@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
 url: /levis/maxi/
-shop: Supermarkt
+shop: supermarket
 ---

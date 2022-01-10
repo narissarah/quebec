@@ -1,5 +1,5 @@
 ---
 title: "Option Keto"
 url: /sherbrooke/option-keto/
-shop: Supermarkt
+shop: supermarket
 ---

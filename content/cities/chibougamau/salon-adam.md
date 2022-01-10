@@ -1,5 +1,5 @@
 ---
 title: "Salon Adam"
 url: /chibougamau/salon-adam/
-shop: Friseur
+shop: hairdresser
 ---

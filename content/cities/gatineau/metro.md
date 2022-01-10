@@ -1,5 +1,5 @@
 ---
 title: "Metro"
 url: /gatineau/metro/
-shop: Supermarkt
+shop: supermarket
 ---

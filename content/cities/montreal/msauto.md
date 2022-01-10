@@ -1,5 +1,5 @@
 ---
 title: "MSAuto"
 url: /montreal/msauto/
-shop: Autowerkstatt
+shop: car repair
 ---

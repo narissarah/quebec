@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /saint-just-de-bretenieres/ace-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

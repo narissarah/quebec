@@ -1,5 +1,5 @@
 ---
 title: "Prohibition"
 url: /montreal/prohibition/
-shop: Allgemein
+shop: shop
 ---

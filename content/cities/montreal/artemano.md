@@ -1,5 +1,5 @@
 ---
 title: "Artemano"
 url: /montreal/artemano/
-shop: Möbel
+shop: furniture
 ---

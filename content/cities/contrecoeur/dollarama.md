@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /contrecoeur/dollarama/
-shop: Kramladen
+shop: variety store
 ---

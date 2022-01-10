@@ -1,5 +1,5 @@
 ---
 title: "IGA Extra"
 url: /quebec/iga-extra-3/
-shop: Supermarkt
+shop: supermarket
 ---

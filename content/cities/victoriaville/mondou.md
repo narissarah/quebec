@@ -1,5 +1,5 @@
 ---
 title: "Mondou"
 url: /victoriaville/mondou/
-shop: Tiere
+shop: pet
 ---

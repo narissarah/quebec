@@ -1,5 +1,5 @@
 ---
 title: "Emery"
 url: /gatineau/emery/
-shop: Garten-Center
+shop: garden centre
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /saint-lazare/saq/
-shop: Spirituosen
+shop: alcohol
 ---

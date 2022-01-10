@@ -1,5 +1,5 @@
 ---
 title: "Créations Canines"
 url: /gatineau/creations-canines/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /victoriaville/saq/
-shop: Supermarkt
+shop: supermarket
 ---

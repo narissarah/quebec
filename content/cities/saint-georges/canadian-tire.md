@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
 url: /saint-georges/canadian-tire/
-shop: Warenhaus
+shop: department store
 ---

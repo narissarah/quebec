@@ -1,5 +1,5 @@
 ---
 title: "Irving"
 url: /yamachiche/irving/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Uma Sarees"
 url: /montreal/uma-sarees/
-shop: Kleidung
+shop: clothes
 ---

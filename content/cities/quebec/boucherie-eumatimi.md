@@ -1,5 +1,5 @@
 ---
 title: "Boucherie EUMATIMI"
 url: /quebec/boucherie-eumatimi/
-shop: Metzgerei
+shop: butcher
 ---

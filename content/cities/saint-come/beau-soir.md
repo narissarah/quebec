@@ -1,5 +1,5 @@
 ---
 title: "Beau Soir"
 url: /saint-come/beau-soir/
-shop: Lebensmittel
+shop: convenience
 ---

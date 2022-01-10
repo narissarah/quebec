@@ -1,5 +1,5 @@
 ---
 title: "Cuisimod"
 url: /victoriaville/cuisimod/
-shop: Küchen
+shop: kitchen
 ---

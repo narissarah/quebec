@@ -1,5 +1,5 @@
 ---
 title: "Fix Auto"
 url: /gatineau/fix-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

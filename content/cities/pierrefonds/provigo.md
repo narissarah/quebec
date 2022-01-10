@@ -1,5 +1,5 @@
 ---
 title: "Provigo"
 url: /pierrefonds/provigo/
-shop: Supermarkt
+shop: supermarket
 ---

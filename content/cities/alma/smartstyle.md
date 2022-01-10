@@ -1,5 +1,5 @@
 ---
 title: "SmartStyle"
 url: /alma/smartstyle/
-shop: Friseur
+shop: hairdresser
 ---

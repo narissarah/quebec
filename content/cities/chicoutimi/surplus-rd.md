@@ -1,5 +1,5 @@
 ---
 title: "Surplus RD"
 url: /chicoutimi/surplus-rd/
-shop: Möbel
+shop: furniture
 ---

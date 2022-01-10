@@ -1,5 +1,5 @@
 ---
 title: "cabinet de massoponcture acupressure"
 url: /montreal/cabinet-de-massoponcture-acupressure/
-shop: Massage
+shop: massage
 ---

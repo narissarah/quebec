@@ -1,5 +1,5 @@
 ---
 title: "Urgel Bourgie"
 url: /mont-royal/urgel-bourgie/
-shop: Bestattungen
+shop: funeral directors
 ---

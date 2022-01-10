@@ -1,5 +1,5 @@
 ---
 title: "Simons"
 url: /montreal/simons/
-shop: Warenhaus
+shop: department store
 ---

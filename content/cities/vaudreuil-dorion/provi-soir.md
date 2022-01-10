@@ -1,5 +1,5 @@
 ---
 title: "Provi-Soir"
 url: /vaudreuil-dorion/provi-soir/
-shop: Lebensmittel
+shop: convenience
 ---

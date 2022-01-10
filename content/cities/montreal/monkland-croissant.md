@@ -1,5 +1,5 @@
 ---
 title: "Monkland Croissant"
 url: /montreal/monkland-croissant/
-shop: Bäckerei
+shop: bakery
 ---

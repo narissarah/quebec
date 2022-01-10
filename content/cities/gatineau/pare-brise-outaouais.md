@@ -1,5 +1,5 @@
 ---
 title: "Pare-Brise Outaouais"
 url: /gatineau/pare-brise-outaouais/
-shop: Autowerkstatt
+shop: car repair
 ---

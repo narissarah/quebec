@@ -1,5 +1,5 @@
 ---
 title: "Le Marché Complément"
 url: /trois-rivieres/le-marche-complement/
-shop: Lebensmittel
+shop: convenience
 ---

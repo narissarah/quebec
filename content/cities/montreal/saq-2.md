@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
 url: /montreal/saq-2/
-shop: Spirituosen
+shop: alcohol
 ---

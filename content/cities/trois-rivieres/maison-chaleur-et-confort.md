@@ -1,5 +1,5 @@
 ---
 title: "Maison Chaleur et Confort"
 url: /trois-rivieres/maison-chaleur-et-confort/
-shop: Garten-Center
+shop: garden centre
 ---

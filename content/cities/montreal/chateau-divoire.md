@@ -1,5 +1,5 @@
 ---
 title: "Château d'Ivoire"
 url: /montreal/chateau-divoire/
-shop: Schmuck
+shop: jewelry
 ---

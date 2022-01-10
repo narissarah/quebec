@@ -1,5 +1,5 @@
 ---
 title: "Entrepôt pour Lui"
 url: /sherbrooke/entrepot-pour-lui/
-shop: Kleidung
+shop: clothes
 ---

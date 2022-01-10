@@ -1,5 +1,5 @@
 ---
 title: "OLiV"
 url: /quebec/oliv/
-shop: Feinkost
+shop: deli
 ---

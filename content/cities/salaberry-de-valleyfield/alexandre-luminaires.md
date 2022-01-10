@@ -1,5 +1,5 @@
 ---
 title: "Alexandre Luminaires"
 url: /salaberry-de-valleyfield/alexandre-luminaires/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corbeil Électroménagers"
 url: /laval/corbeil-electromenagers/
-shop: Haushaltsgeräte
+shop: appliance
 ---

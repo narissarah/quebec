@@ -1,5 +1,5 @@
 ---
 title: "Le Barbu Sportif"
 url: /trois-rivieres/le-barbu-sportif/
-shop: Friseur
+shop: hairdresser
 ---

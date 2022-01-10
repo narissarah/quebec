@@ -1,5 +1,5 @@
 ---
 title: "Éconolunettes Shawinigan"
 url: /shawinigan/econolunettes-shawinigan/
-shop: Optiker
+shop: optician
 ---

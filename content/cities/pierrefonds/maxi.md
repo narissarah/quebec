@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
 url: /pierrefonds/maxi/
-shop: Supermarkt
+shop: supermarket
 ---

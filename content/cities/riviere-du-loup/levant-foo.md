@@ -1,5 +1,5 @@
 ---
 title: "Levant Foo"
 url: /riviere-du-loup/levant-foo/
-shop: Raumausstattung
+shop: interior decoration
 ---

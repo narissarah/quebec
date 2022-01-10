@@ -1,5 +1,5 @@
 ---
 title: "Food de Toi"
 url: /montreal/food-de-toi/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sonerco"
 url: /lascension-de-notre-seigneur/sonerco/
-shop: Lebensmittel
+shop: convenience
 ---

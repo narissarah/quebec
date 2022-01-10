@@ -1,5 +1,5 @@
 ---
 title: "St-Laurent"
 url: /quebec/st-laurent/
-shop: Friseur
+shop: hairdresser
 ---

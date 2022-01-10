@@ -1,5 +1,5 @@
 ---
 title: "Eko Coiffure"
 url: /trois-rivieres/eko-coiffure/
-shop: Friseur
+shop: hairdresser
 ---

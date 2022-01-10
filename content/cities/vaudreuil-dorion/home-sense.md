@@ -1,5 +1,5 @@
 ---
 title: "Home Sense"
 url: /vaudreuil-dorion/home-sense/
-shop: Andenken
+shop: gift
 ---

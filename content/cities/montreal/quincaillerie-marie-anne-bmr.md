@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Marie-Anne BMR"
 url: /montreal/quincaillerie-marie-anne-bmr/
-shop: Eisenwaren
+shop: hardware
 ---

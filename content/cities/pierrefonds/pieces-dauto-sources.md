@@ -1,5 +1,5 @@
 ---
 title: "Pièces d'Auto Sources"
 url: /pierrefonds/pieces-dauto-sources/
-shop: Autoteile
+shop: car parts
 ---

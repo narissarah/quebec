@@ -1,5 +1,5 @@
 ---
 title: "Dubo"
 url: /montreal/dubo/
-shop: Elektrisch
+shop: electrical
 ---

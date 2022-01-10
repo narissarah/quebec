@@ -1,5 +1,5 @@
 ---
 title: "Oxymed"
 url: /montreal/oxymed/
-shop: Sanitätshaus
+shop: medical supply
 ---

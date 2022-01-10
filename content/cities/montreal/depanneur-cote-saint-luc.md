@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Côte-Saint-Luc"
 url: /montreal/depanneur-cote-saint-luc/
-shop: Lebensmittel
+shop: convenience
 ---

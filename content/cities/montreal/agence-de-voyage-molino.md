@@ -1,5 +1,5 @@
 ---
 title: "Agence de voyage Molino"
 url: /montreal/agence-de-voyage-molino/
-shop: Reisebüro
+shop: travel agency
 ---

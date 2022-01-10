@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Luigi"
 url: /gatineau/coiffure-luigi/
-shop: Friseur
+shop: hairdresser
 ---

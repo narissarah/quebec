@@ -1,5 +1,5 @@
 ---
 title: "Mitsubishi"
 url: /rimouski/mitsubishi/
-shop: Autohaus
+shop: car
 ---

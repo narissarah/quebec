@@ -1,5 +1,5 @@
 ---
 title: "Medporium Solutions Inc."
 url: /lasalle/medporium-solutions-inc/
-shop: Sanitätshaus
+shop: medical supply
 ---

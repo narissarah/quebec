@@ -1,5 +1,5 @@
 ---
 title: "Garage Henri"
 url: /gatineau/garage-henri/
-shop: Autowerkstatt
+shop: car repair
 ---

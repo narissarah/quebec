@@ -1,5 +1,5 @@
 ---
 title: "Luna Studio"
 url: /hudson/luna-studio/
-shop: Allgemein
+shop: shop
 ---

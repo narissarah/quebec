@@ -1,5 +1,5 @@
 ---
 title: "Luminaire Galarneau"
 url: /trois-rivieres/luminaire-galarneau/
-shop: Lampen
+shop: lamps
 ---

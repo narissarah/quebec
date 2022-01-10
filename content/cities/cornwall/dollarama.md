@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /cornwall/dollarama/
-shop: Kramladen
+shop: variety store
 ---

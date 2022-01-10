@@ -1,5 +1,5 @@
 ---
 title: "La Pyramide"
 url: /quebec/la-pyramide/
-shop: Einkaufszentrum
+shop: mall
 ---

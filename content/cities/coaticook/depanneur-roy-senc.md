@@ -1,5 +1,5 @@
 ---
 title: "Dépanneur Roy Senc."
 url: /coaticook/depanneur-roy-senc/
-shop: Lebensmittel
+shop: convenience
 ---

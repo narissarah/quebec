@@ -1,5 +1,5 @@
 ---
 title: "Canac"
 url: /victoriaville/canac/
-shop: Eisenwaren
+shop: hardware
 ---
