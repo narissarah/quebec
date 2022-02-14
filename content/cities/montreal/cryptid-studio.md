@@ -1,5 +1,5 @@
 ---
-title: "Cryptid studio"
+title: "Cryptid Studio"
 url: /montreal/cryptid-studio/
 shop: tattoo
 ---
