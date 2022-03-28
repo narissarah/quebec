@@ -1,5 +1,5 @@
 ---
 title: "Nutrizone"
 url: /montreal/nutrizone/
-shop: shop
+shop: nutrition supplements
 ---

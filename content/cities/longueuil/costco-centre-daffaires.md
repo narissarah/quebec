@@ -1,5 +1,5 @@
 ---
 title: "Costco Centre d'affaires"
-url: /saint-hubert/costco-centre-daffaires/
+url: /longueuil/costco-centre-daffaires/
 shop: wholesale
 ---
