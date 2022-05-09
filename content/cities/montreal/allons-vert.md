@@ -1,5 +1,5 @@
 ---
-title: "allons VERT"
+title: "Allons Vert"
 url: /montreal/allons-vert/
-shop: nutrition supplements
+shop: supermarket
 ---
