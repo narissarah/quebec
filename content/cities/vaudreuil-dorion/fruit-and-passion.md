@@ -1,5 +1,5 @@
 ---
 title: "Fruit & Passion"
 url: /vaudreuil-dorion/fruit-and-passion/
-shop: shop
+shop: beauty
 ---
