@@ -1,4 +1,4 @@
-baseURL = "https://ca.shoogle.net/quebec"
+baseURL = "https://ca.shoogle.net/quebec/"
 languageCode = "en-US"
 title = "Quebec"
 theme = "ln-base"
