@@ -1,6 +1,6 @@
 ---
 title: Delson
 url: /delson/
-latitude: 45.377
-longitude: -73.536
+latitude: 45.4
+longitude: -73.539
 ---
