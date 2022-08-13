@@ -1,6 +1,6 @@
 ---
 title: Blainville
 url: /blainville/
-latitude: 45.653
-longitude: -73.848
+latitude: 45.666
+longitude: -73.867
 ---

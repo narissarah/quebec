@@ -1,5 +1,5 @@
 ---
 title: "Ascension Vélo"
-url: /boibriand/ascension-velo/
+url: /sainte-therese/ascension-velo/
 shop: bicycle
 ---
