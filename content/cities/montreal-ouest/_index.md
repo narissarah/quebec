@@ -1,6 +1,6 @@
 ---
 title: Montréal-Ouest
 url: /montreal-ouest/
-latitude: 45.453
-longitude: -73.646
+latitude: 45.449
+longitude: -73.638
 ---
