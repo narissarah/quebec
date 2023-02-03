@@ -7,5 +7,5 @@ city: Montréal
 street: "Rue Jean-Talon Ouest"
 housenumber: 4048
 phone: "+15147354432"
-opening_hours: "Monday 9a.m.–4p.m.  Tuesday 8a.m.–6p.m.  Wednesday 8a.m.–6p.m.  Thursday 8a.m.–8p.m.  Friday 8a.m.–8p.m.  Saturday 8a.m.–6p.m.  Sunday 9a.m.–4p.m."
+opening_hours: "Mo,Su 09:00-16:00; Tu,We,Sa 08:00-18:00; Th,Fr 08:00-20:00"
 website: ""
