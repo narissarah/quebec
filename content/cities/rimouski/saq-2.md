@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
-url: /rimouski/saq-2/
+url: /rimouski/saq/
 shop: alcohol
 ---

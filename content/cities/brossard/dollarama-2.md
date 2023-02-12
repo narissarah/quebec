@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /brossard/dollarama-2/
+url: /brossard/dollarama/
 shop: variety store
 ---

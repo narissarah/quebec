@@ -1,5 +1,5 @@
 ---
 title: "Toys R Us"
-url: /quebec/toys-r-us-2/
+url: /quebec/toys-r-us/
 shop: toys
 ---

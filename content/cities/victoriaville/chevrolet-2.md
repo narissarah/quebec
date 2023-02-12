@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
-url: /victoriaville/chevrolet-2/
+url: /victoriaville/chevrolet/
 shop: car
 ---

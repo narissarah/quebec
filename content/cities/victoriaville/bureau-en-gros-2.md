@@ -1,5 +1,5 @@
 ---
 title: "Bureau en Gros"
-url: /victoriaville/bureau-en-gros-2/
+url: /victoriaville/bureau-en-gros/
 shop: office supplies
 ---
