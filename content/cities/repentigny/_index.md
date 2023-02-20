@@ -1,6 +1,6 @@
 ---
 title: Repentigny
 url: /repentigny/
-latitude: 45.768
-longitude: -73.444
+latitude: 45.742
+longitude: -73.455
 ---
