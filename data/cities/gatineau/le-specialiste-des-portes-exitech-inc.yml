@@ -7,5 +7,5 @@ city: Gatineau
 street: "Rue de Valcourt"
 housenumber: 26
 phone: "+1-819-561-0135"
-opening_hours: "M: 08:00-17:00 | T: 08:00-17:00 | W: 08:00-17:00 | Th: 08:00-17:00 | F: 08:00-16:00 | Sat: closed | Sun: closed"
+opening_hours: "Mo-Th 08:00-17:00, Fr 08:00-16:00, Sa-Su closed"
 website: "https://www.exitech.ca/ca"
