@@ -1,6 +1,6 @@
 ---
 title: Sainte-Thérèse-de-Gaspé
 url: /sainte-therese-de-gaspe/
-latitude: 48.416
-longitude: -64.397
+latitude: 48.408
+longitude: -64.425
 ---
