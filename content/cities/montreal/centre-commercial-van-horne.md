@@ -1,5 +1,5 @@
 ---
-title: "Centre Commercial Van Horne"
+title: "Centre commercial Van Horne"
 url: /montreal/centre-commercial-van-horne/
 shop: mall
 ---
