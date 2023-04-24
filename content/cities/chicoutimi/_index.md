@@ -1,6 +1,6 @@
 ---
 title: Chicoutimi
 url: /chicoutimi/
-latitude: 48.416
-longitude: -71.049
+latitude: 48.402
+longitude: -71.06
 ---
