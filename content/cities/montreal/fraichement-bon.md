@@ -1,5 +1,5 @@
 ---
-title: "Fraîchement bon"
+title: "Fraîchement Bon"
 url: /montreal/fraichement-bon/
-shop: convenience
+shop: greengrocer
 ---

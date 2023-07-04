@@ -7,5 +7,5 @@ city: Montréal
 street: "Rue Masson"
 housenumber: 2653
 phone: "+1-888-454-8739"
-opening_hours: "Mo-We 09:00-18:00; Th, Fr 09:00-21:00; Sa 09:00-17:00; Su 11:00-17:00"
+opening_hours: "Mo-We 09:00-18:00; Th,Fr 09:00-21:00; Sa 09:00-17:00; Su 10:00-17:00"
 website: "http://librairies.paulines.qc.ca/"
