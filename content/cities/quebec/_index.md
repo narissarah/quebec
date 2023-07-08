@@ -1,6 +1,6 @@
 ---
 title: Québec
 url: /quebec/
-latitude: 46.804
-longitude: -71.226
+latitude: 46.805
+longitude: -71.227
 ---
