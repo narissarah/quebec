@@ -1,5 +1,5 @@
 ---
-title: "InstaChèques"
+title: "Instachèques"
 url: /montreal/instacheques/
 shop: pawnbroker
 ---

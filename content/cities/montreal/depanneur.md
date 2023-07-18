@@ -1,5 +1,5 @@
 ---
-title: "Depanneur"
+title: "Dépanneur"
 url: /montreal/depanneur/
 shop: convenience
 ---

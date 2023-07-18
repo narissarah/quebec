@@ -1,5 +1,5 @@
 ---
-title: "Corbeil électroménagers"
+title: "Corbeil Électroménagers"
 url: /quebec/corbeil-electromenagers/
-shop: electronics
+shop: appliance
 ---

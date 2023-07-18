@@ -1,5 +1,5 @@
 ---
-title: "Annabelle Meubles"
+title: "Annabelle meubles"
 url: /montreal/annabelle-meubles/
-shop: bed
+shop: furniture
 ---
