@@ -1,6 +1,6 @@
 ---
 title: Thetford Mines
 url: /thetford-mines/
-latitude: 46.092
-longitude: -71.3
+latitude: 46.073
+longitude: -71.308
 ---
