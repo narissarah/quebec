@@ -1,6 +1,6 @@
 ---
 title: Bassin
 url: /bassin/
-latitude: 47.219
-longitude: -61.951
+latitude: 47.22
+longitude: -61.933
 ---

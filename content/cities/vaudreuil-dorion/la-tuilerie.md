@@ -1,5 +1,5 @@
 ---
 title: "La Tuilerie"
 url: /vaudreuil-dorion/la-tuilerie/
-shop: tiles
+shop: shop
 ---
