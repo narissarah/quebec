@@ -1,5 +1,5 @@
 ---
 title: "Délices des îles"
 url: /laval/delices-des-iles/
-shop: supermarket
+shop: deli
 ---
