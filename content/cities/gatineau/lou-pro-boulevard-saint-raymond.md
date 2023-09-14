@@ -1,5 +1,5 @@
 ---
 title: "Lou-Pro"
-url: /gatineau/lou-pro/
+url: /gatineau/lou-pro-boulevard-saint-raymond/
 shop: hardware
 ---

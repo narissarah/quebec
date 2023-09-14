@@ -1,5 +1,5 @@
 ---
 title: "Cellzone"
-url: /trois-rivieres/cellzone/
+url: /trois-rivieres/cellzone-boulevard-des-forges/
 shop: mobile phone
 ---

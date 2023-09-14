@@ -1,5 +1,5 @@
 ---
 title: "Rona"
-url: /gatineau/rona/
+url: /gatineau/rona-chemin-de-masson/
 shop: doityourself
 ---

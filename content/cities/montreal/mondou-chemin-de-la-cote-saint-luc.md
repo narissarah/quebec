@@ -1,5 +1,5 @@
 ---
 title: "Mondou"
-url: /montreal/mondou/
+url: /montreal/mondou-chemin-de-la-cote-saint-luc/
 shop: pet
 ---

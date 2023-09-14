@@ -1,5 +1,5 @@
 ---
 title: "Provigo"
-url: /gatineau/provigo/
+url: /gatineau/provigo-boulevard-du-plateau/
 shop: supermarket
 ---

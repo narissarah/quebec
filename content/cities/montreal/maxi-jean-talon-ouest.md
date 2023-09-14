@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
-url: /montreal/maxi/
+url: /montreal/maxi-jean-talon-ouest/
 shop: supermarket
 ---

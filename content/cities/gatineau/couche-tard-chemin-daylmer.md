@@ -1,5 +1,5 @@
 ---
 title: "Couche-Tard"
-url: /gatineau/couche-tard/
+url: /gatineau/couche-tard-chemin-daylmer/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
-url: /mirabel/saq/
+url: /mirabel/saq-rue-saint-jacques/
 shop: alcohol
 ---

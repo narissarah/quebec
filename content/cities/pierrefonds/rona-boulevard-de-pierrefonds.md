@@ -1,5 +1,5 @@
 ---
 title: "Rona"
-url: /pierrefonds/rona/
+url: /pierrefonds/rona-boulevard-de-pierrefonds/
 shop: doityourself
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metro"
-url: /trois-rivieres/metro/
+url: /trois-rivieres/metro-boulevard-jean-xxiii/
 shop: supermarket
 ---

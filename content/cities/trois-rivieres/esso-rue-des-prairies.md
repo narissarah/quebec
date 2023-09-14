@@ -1,5 +1,5 @@
 ---
 title: "Esso"
-url: /trois-rivieres/esso/
+url: /trois-rivieres/esso-rue-des-prairies/
 shop: convenience
 ---

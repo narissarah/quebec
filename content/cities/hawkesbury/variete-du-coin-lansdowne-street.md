@@ -1,5 +1,5 @@
 ---
 title: "Variété Du Coin"
-url: /hawkesbury/variete-du-coin/
+url: /hawkesbury/variete-du-coin-lansdowne-street/
 shop: convenience
 ---

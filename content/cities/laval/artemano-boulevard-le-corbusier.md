@@ -1,5 +1,5 @@
 ---
 title: "Artemano"
-url: /laval/artemano/
+url: /laval/artemano-boulevard-le-corbusier/
 shop: furniture
 ---

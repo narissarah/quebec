@@ -1,5 +1,5 @@
 ---
 title: "Bobby Lalonde"
-url: /hawkesbury/bobby-lalonde/
+url: /hawkesbury/bobby-lalonde-main-street-east/
 shop: musical instrument
 ---

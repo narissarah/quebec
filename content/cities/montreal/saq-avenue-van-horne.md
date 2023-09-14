@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
-url: /montreal/saq/
+url: /montreal/saq-avenue-van-horne/
 shop: alcohol
 ---

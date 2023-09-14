@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
-url: /montreal/maxi/
+url: /montreal/maxi-avenue-papineau/
 shop: supermarket
 ---

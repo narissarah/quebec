@@ -1,5 +1,5 @@
 ---
 title: "Koodo"
-url: /montreal/koodo/
+url: /montreal/koodo-avenue-de-monkland/
 shop: mobile phone
 ---

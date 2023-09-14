@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
-url: /shawinigan/maxi/
+url: /shawinigan/maxi-rue-dyouville/
 shop: supermarket
 ---

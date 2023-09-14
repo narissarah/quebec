@@ -1,5 +1,5 @@
 ---
 title: "Fidélice"
-url: /gatineau/fidelice/
+url: /gatineau/fidelice-boulevard-de-la-gappe/
 shop: bakery
 ---

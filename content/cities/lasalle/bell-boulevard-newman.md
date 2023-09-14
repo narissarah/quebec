@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /lasalle/bell/
+url: /lasalle/bell-boulevard-newman/
 shop: mobile phone
 ---

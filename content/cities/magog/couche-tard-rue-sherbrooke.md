@@ -1,5 +1,5 @@
 ---
 title: "Couche-Tard"
-url: /magog/couche-tard/
+url: /magog/couche-tard-rue-sherbrooke/
 shop: convenience
 ---

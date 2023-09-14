@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /quebec/bell/
+url: /quebec/bell-boulevard-laurier-2/
 shop: mobile phone
 ---

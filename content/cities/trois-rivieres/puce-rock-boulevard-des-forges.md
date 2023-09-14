@@ -1,5 +1,5 @@
 ---
 title: "Puce Rock"
-url: /trois-rivieres/puce-rock/
+url: /trois-rivieres/puce-rock-boulevard-des-forges/
 shop: music
 ---

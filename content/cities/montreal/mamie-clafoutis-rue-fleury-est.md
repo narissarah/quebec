@@ -1,5 +1,5 @@
 ---
 title: "Mamie Clafoutis"
-url: /montreal/mamie-clafoutis/
+url: /montreal/mamie-clafoutis-rue-fleury-est/
 shop: bakery
 ---

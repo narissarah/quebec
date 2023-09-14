@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /montreal/the-home-depot/
+url: /montreal/the-home-depot-rue-renaude-lapointe/
 shop: doityourself
 ---

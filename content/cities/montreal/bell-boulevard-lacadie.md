@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /montreal/bell/
+url: /montreal/bell-boulevard-lacadie/
 shop: mobile phone
 ---

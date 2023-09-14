@@ -1,5 +1,5 @@
 ---
 title: "SQDC"
-url: /montreal/sqdc/
+url: /montreal/sqdc-rue-crescent/
 shop: cannabis
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
-url: /trois-rivieres/saq/
+url: /trois-rivieres/saq-rue-corbeil/
 shop: alcohol
 ---

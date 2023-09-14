@@ -1,5 +1,5 @@
 ---
 title: "IGA"
-url: /victoriaville/iga/
+url: /victoriaville/iga-boulevard-des-bois-francs-sud/
 shop: supermarket
 ---

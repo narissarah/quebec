@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /gatineau/dollarama/
+url: /gatineau/dollarama-boulevard-de-la-gappe/
 shop: variety store
 ---

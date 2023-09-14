@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /gatineau/bell/
+url: /gatineau/bell-boulevard-saint-joseph/
 shop: mobile phone
 ---

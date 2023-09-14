@@ -1,5 +1,5 @@
 ---
 title: "Salon Vogue"
-url: /hawkesbury/salon-vogue/
+url: /hawkesbury/salon-vogue-main-street-east/
 shop: hairdresser
 ---

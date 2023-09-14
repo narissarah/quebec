@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
-url: /magog/saq/
+url: /magog/saq-rue-principale-ouest/
 shop: alcohol
 ---

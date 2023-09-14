@@ -1,5 +1,5 @@
 ---
 title: "IGA"
-url: /montreal/iga/
+url: /montreal/iga-avenue-van-horne/
 shop: supermarket
 ---

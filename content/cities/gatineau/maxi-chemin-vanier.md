@@ -1,5 +1,5 @@
 ---
 title: "Maxi"
-url: /gatineau/maxi/
+url: /gatineau/maxi-chemin-vanier/
 shop: supermarket
 ---

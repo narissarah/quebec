@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie Victoria"
-url: /trois-rivieres/fromagerie-victoria/
+url: /trois-rivieres/fromagerie-victoria-boulevard-des-recollets/
 shop: cheese
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /quebec/bell/
+url: /quebec/bell-boulevard-lormiere/
 shop: mobile phone
 ---

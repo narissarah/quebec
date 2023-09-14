@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
-url: /gatineau/saq/
+url: /gatineau/saq-avenue-lepine/
 shop: alcohol
 ---

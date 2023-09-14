@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /gatineau/dollarama/
+url: /gatineau/dollarama-boulevard-des-grives/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Olivine"
-url: /montreal/olivine/
+url: /montreal/olivine-rue-sherbrooke-est/
 shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bétonel"
-url: /montreal/betonel/
+url: /montreal/betonel-rue-lajeunesse/
 shop: paint
 ---

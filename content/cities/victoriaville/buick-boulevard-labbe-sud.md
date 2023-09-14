@@ -1,5 +1,5 @@
 ---
 title: "Buick"
-url: /victoriaville/buick/
+url: /victoriaville/buick-boulevard-labbe-sud/
 shop: car
 ---

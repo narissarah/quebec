@@ -1,5 +1,5 @@
 ---
 title: "MaximumPowersports Plus"
-url: /hawkesbury/maximumpowersports-plus/
+url: /hawkesbury/maximumpowersports-plus-john-street/
 shop: motorcycle
 ---

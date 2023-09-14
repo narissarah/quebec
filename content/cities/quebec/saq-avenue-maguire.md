@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
-url: /quebec/saq/
+url: /quebec/saq-avenue-maguire/
 shop: alcohol
 ---

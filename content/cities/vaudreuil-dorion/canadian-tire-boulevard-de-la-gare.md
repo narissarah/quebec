@@ -1,5 +1,5 @@
 ---
 title: "Canadian Tire"
-url: /vaudreuil-dorion/canadian-tire/
+url: /vaudreuil-dorion/canadian-tire-boulevard-de-la-gare/
 shop: department store
 ---

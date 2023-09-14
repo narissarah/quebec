@@ -1,5 +1,5 @@
 ---
 title: "Sonic"
-url: /victoriaville/sonic/
+url: /victoriaville/sonic-boulevard-arthabaska-est/
 shop: convenience
 ---

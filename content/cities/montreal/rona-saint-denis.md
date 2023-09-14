@@ -1,5 +1,5 @@
 ---
 title: "Rona"
-url: /montreal/rona/
+url: /montreal/rona-saint-denis/
 shop: doityourself
 ---

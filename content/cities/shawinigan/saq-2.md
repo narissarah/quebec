@@ -1,5 +1,5 @@
 ---
 title: "SAQ"
-url: /shawinigan/saq/
+url: /shawinigan/saq-2/
 shop: alcohol
 ---

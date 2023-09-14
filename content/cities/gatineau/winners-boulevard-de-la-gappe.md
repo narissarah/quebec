@@ -1,5 +1,5 @@
 ---
 title: "Winners"
-url: /gatineau/winners/
+url: /gatineau/winners-boulevard-de-la-gappe/
 shop: clothes
 ---

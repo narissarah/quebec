@@ -1,5 +1,5 @@
 ---
 title: "Canac"
-url: /quebec/canac/
+url: /quebec/canac-rue-bernier-ouest/
 shop: hardware
 ---

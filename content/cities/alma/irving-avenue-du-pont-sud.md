@@ -1,5 +1,5 @@
 ---
 title: "Irving"
-url: /alma/irving/
+url: /alma/irving-avenue-du-pont-sud/
 shop: convenience
 ---

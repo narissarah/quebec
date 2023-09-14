@@ -1,5 +1,5 @@
 ---
 title: "Mondou"
-url: /montreal/mondou/
+url: /montreal/mondou-rue-lajeunesse/
 shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Simons"
-url: /quebec/simons/
+url: /quebec/simons-laurier-boulevard/
 shop: clothes
 ---

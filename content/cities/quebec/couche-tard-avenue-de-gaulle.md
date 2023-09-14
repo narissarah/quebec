@@ -1,5 +1,5 @@
 ---
 title: "Couche-Tard"
-url: /quebec/couche-tard/
+url: /quebec/couche-tard-avenue-de-gaulle/
 shop: convenience
 ---
