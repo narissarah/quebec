@@ -1,11 +1,11 @@
-id: 490383435
-type: way
-latitude: 45.55034
-longitude: -73.58274
+id: 11198373684
+type: node
+latitude: 45.55032
+longitude: -73.58272
 postcode: "H1Y 1M4"
 city: Montréal
 street: "Boulevard Rosemont"
-housenumber: 2894
+housenumber: 2892,2894
 phone: ""
 opening_hours: ""
 website: ""
