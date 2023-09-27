@@ -1,6 +1,6 @@
 ---
 title: Saint-Lambert
 url: /saint-lambert/
-latitude: 45.495
-longitude: -73.501
+latitude: 45.516
+longitude: -73.52
 ---

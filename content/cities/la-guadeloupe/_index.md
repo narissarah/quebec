@@ -1,6 +1,6 @@
 ---
 title: La Guadeloupe
 url: /la-guadeloupe/
-latitude: 45.96
-longitude: -70.937
+latitude: 45.969
+longitude: -70.942
 ---
