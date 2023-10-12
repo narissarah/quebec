@@ -1,6 +1,6 @@
 ---
 title: Saint-Joseph-du-Lac
 url: /saint-joseph-du-lac/
-latitude: 45.521
-longitude: -73.991
+latitude: 45.504
+longitude: -74.009
 ---
