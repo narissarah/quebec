@@ -1,6 +1,6 @@
 ---
 title: Sainte-Adèle
 url: /sainte-adele/
-latitude: 45.952
-longitude: -74.135
+latitude: 45.949
+longitude: -74.139
 ---

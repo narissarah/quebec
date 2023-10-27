@@ -7,5 +7,5 @@ city: Gatineau
 street: "Boulevard Maloney Ouest"
 housenumber: 960
 phone: "+1-819-778-2225"
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: "Mo-We,Fr 09:00-17:00; Th 09:00-18:00"
 website: "https://voyage.caaquebec.com/en/contact-us/gatineau-travel-agency/"
