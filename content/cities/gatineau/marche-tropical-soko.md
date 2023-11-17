@@ -1,5 +1,5 @@
 ---
-title: "Marche Tropical Soko"
+title: "Marché Tropical Soko"
 url: /gatineau/marche-tropical-soko/
 shop: convenience
 ---
