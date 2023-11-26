@@ -1,5 +1,5 @@
 ---
 title: "IGA"
-url: /gatineau/iga-rue-de-neuville/
+url: /gatineau/iga-chemin-daylmer/
 shop: supermarket
 ---
