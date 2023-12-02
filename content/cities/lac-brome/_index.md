@@ -1,6 +1,6 @@
 ---
 title: Lac-Brome
 url: /lac-brome/
-latitude: 45.244
-longitude: -72.553
+latitude: 45.216
+longitude: -72.511
 ---
