@@ -1,6 +1,6 @@
 ---
 title: Saint-Fabien-de-Panet
 url: /saint-fabien-de-panet/
-latitude: 46.655
-longitude: -70.145
+latitude: 46.654
+longitude: -70.147
 ---

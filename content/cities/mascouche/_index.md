@@ -1,6 +1,6 @@
 ---
 title: Mascouche
 url: /mascouche/
-latitude: 45.73
-longitude: -73.656
+latitude: 45.722
+longitude: -73.618
 ---
