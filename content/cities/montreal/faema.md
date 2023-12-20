@@ -1,5 +1,5 @@
 ---
 title: "Faema"
 url: /montreal/faema/
-shop: shop
+shop: houseware
 ---

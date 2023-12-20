@@ -1,6 +1,6 @@
 ---
 title: Coaticook
 url: /coaticook/
-latitude: 45.132
-longitude: -71.815
+latitude: 45.133
+longitude: -71.805
 ---
