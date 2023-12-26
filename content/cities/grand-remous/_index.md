@@ -1,6 +1,6 @@
 ---
 title: Grand-Remous
 url: /grand-remous/
-latitude: 46.62
-longitude: -75.916
+latitude: 46.613
+longitude: -75.906
 ---
