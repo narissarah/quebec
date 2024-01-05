@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
 url: /mercier/dollarama/
-shop: general
+shop: variety store
 ---
