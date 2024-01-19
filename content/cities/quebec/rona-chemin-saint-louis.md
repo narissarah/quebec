@@ -1,5 +1,5 @@
 ---
 title: "Rona"
-url: /quebec/rona-3e-avenue/
+url: /quebec/rona-chemin-saint-louis/
 shop: doityourself
 ---
