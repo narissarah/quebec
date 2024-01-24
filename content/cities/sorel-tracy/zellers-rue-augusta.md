@@ -1,5 +1,5 @@
 ---
 title: "Zellers"
-url: /sorel-tracy/zellers-rue-du-prince/
+url: /sorel-tracy/zellers-rue-augusta/
 shop: supermarket
 ---
