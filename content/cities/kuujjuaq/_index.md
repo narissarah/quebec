@@ -1,6 +1,6 @@
 ---
 title: Kuujjuaq
 url: /kuujjuaq/
-latitude: 58.107
-longitude: -68.4
+latitude: 58.11
+longitude: -68.405
 ---
