@@ -1,5 +1,5 @@
 ---
-title: "Decathlon"
+title: "Décathlon"
 url: /laval/decathlon/
 shop: sports
 ---
