@@ -1,5 +1,5 @@
 ---
 title: "Dollarama"
-url: /quebec/dollarama-route-jean-gauvin/
+url: /quebec/dollarama-autoroute-duplessis/
 shop: variety store
 ---
