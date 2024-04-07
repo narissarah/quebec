@@ -1,5 +1,5 @@
 ---
 title: "Bell"
-url: /montreal/bell-rue-jean-talon-est/
+url: /montreal/bell-rue-des-jockeys/
 shop: mobile phone
 ---

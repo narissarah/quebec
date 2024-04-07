@@ -1,6 +1,6 @@
 ---
 title: Lorrainville
 url: /lorrainville/
-latitude: 47.354
-longitude: -79.352
+latitude: 47.355
+longitude: -79.351
 ---
