@@ -1,11 +1,11 @@
 id: 2929627036
 type: node
-latitude: 45.49498
-longitude: -73.47323
+latitude: 45.49495
+longitude: -73.4732
 postcode: "J4T 2T4"
 city: Longueuil
 street: "Boulevard Grande-Allée"
 housenumber: 3445
 phone: ""
-opening_hours: "Mo-We 10:00-19:00;Th-Fr 10:00-20:00;Sa 10:00-17:00"
+opening_hours: "Mo-We 10:00-17:00; Th 10:00-20:00; Fr,Sa 10:00-17:00; Su 11:00-16:00"
 website: ""
