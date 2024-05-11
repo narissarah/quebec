@@ -1,6 +1,6 @@
 ---
 title: Amqui
 url: /amqui/
-latitude: 48.473
-longitude: -67.439
+latitude: 48.479
+longitude: -67.442
 ---
