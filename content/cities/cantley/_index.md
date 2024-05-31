@@ -1,6 +1,6 @@
 ---
 title: Cantley
 url: /cantley/
-latitude: 45.554
-longitude: -75.784
+latitude: 45.571
+longitude: -75.782
 ---
