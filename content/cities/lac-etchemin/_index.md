@@ -1,6 +1,6 @@
 ---
 title: Lac-Etchemin
 url: /lac-etchemin/
-latitude: 46.41
-longitude: -70.535
+latitude: 46.43
+longitude: -70.556
 ---
